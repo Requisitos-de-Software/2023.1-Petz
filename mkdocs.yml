@@ -1,0 +1,37 @@
+site_name: Grupo 07
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  language: pt-BR
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Reuniões:
+      - Reunião 1: reunioes/1a_reuniao.md
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Apps avaliados: 
+        - Apps avaliados: planejamento/apps_analisados/apps_analisados.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
