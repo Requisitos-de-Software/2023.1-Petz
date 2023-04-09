@@ -5,7 +5,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   language: pt-BR
-  palette:
+  palette: 
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -15,6 +15,13 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.section
+    - navigation.path
+    - navigation.top
+    - tabs
 
 nav:
   - Home: index.md
