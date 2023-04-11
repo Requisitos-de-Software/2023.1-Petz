@@ -29,8 +29,7 @@ nav:
     - Reunião 1: atas/1a_reuniao.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
-      - Apps avaliados: 
-        - Apps avaliados: planejamento/apps_analisados/apps_analisados.md
+      - Apps avaliados: planejamento/apps_analisados.md
 
 markdown_extensions:
   - tables
