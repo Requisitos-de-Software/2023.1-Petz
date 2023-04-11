@@ -6,7 +6,7 @@
 * **Data:** 12/04/2023.
 * **Horário:** 18:30 - xx:xx.
 * **Participantes:**
-    
+    * 
 
 
 
