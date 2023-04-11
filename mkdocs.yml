@@ -25,8 +25,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Reuniões:
-      - Reunião 1: reunioes/1a_reuniao.md
+  - Atas:
+    - Reunião 1: atas/1a_reuniao.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Apps avaliados: 
