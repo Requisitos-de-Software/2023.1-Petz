@@ -2,8 +2,7 @@
 
 ## Introdução ao projeto
 
-Esta documentação é dedicada aos artefatos produzidos durante a disciplina de Requisitos de Software da Universidade de Brasília no semestre 2023.1. O objetivo da equipe é realizar uma análise dos requisitos presentes no aplicativo [X](x), disponível em [Y](y).
-
+Esta documentação é dedicada aos artefatos produzidos durante a disciplina de Requisitos de Software da Universidade de Brasília no semestre 2023.1. O objetivo da equipe é realizar uma análise dos requisitos presentes no aplicativo Petz.
 ## Integrantes da equipe
 
 A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos os integrantes são estudantes de Engenharia de Software pela Universidade de Brasília.
@@ -30,3 +29,5 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Ferreira Muniz |
+|  `1.1`   | 08/04/23 | Alteração do nome do aplicativo | Pedro Ferreira Muniz | Felipe Mastromauro |
+|  `1.2`   | 08/04/23 | Alteração do nome do aplicativo | Pedro Ferreira Muniz | Samuel Alves |

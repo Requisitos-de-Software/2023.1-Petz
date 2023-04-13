@@ -1,5 +1,5 @@
 # 2023.1-Grupo07
-Este repositório é dedicado para armazenar a documentação e os artefatos produzidos durante a disciplina de Requisitos de Software da Universidade de Brasília no semestre 2023.1. O objetivo da equipe é realizar uma análise dos requisitos presentes no aplicativo [X](x), disponível em [Y](y).
+Este repositório é dedicado para armazenar a documentação e os artefatos produzidos durante a disciplina de Requisitos de Software da Universidade de Brasília no semestre 2023.1. O objetivo da equipe é realizar uma análise dos requisitos presentes no aplicativo Petz.
 ## Integrantes da equipe
 
 A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos os integrantes são estudantes de Engenharia de Software pela Universidade de Brasília.
