@@ -29,4 +29,4 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Ferreira Muniz |
 |  `1.2`   | 13/04/23 | Remoção de membro do grupo | Felipe Mastromauro | Pedro Ferreira Muniz |
-|  `1.3`   | 08/04/23 | Alteração do nome do aplicativo | Pedro Ferreira Muniz | Felipe Mastromauro |
+|  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Ferreira Muniz | Felipe Mastromauro |
