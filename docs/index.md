@@ -11,7 +11,6 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 | Foto        | Nome                                 | Github |
 | :---------: | :----------------------------------: | :----: |
-| ![Foto de perfil do Github de Arthur (Membro da equipe)](https://avatars.githubusercontent.com/u/109696650?v=4){ align=center, width="100" } | Arthur de Melo Viana | [:fontawesome-brands-github: arthurmlv](https://github.com/arthurmlv) |
 | ![Foto de perfil do Github de Felipe (Membro da equipe)](https://avatars.githubusercontent.com/u/54457201?v=4){ align=center, width="100" } | Felipe Mastromauro Corrêa | [:fontawesome-brands-github: MastroCoder](https://github.com/MastroCoder) |
 | ![Foto de perfil do Github de Lucas (Membro da equipe)](https://avatars.githubusercontent.com/u/54557319?v=4){ align=center, width="100" } | Lucas Rodrigues Cardoso | [:fontawesome-brands-github: lucascard](https://github.com/lucascard) |
 | ![Foto de perfil do Github de Magno (Membro da equipe)](https://avatars.githubusercontent.com/u/55704216?v=4){ align=center, width="100" } | Magno Luiz Vieira | [:fontawesome-brands-github: magnluiz](https://github.com/magnluiz) |
@@ -30,3 +29,4 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Ferreira Muniz |
+|  `1.1`   | 13/04/23 | Remoção de membro do grupo | Felipe Mastromauro | Pedro Ferreira Muniz |
