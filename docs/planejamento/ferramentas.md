@@ -18,6 +18,10 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 | ![Ícone Canva](../assets/ferramentas/canva.png){ align=center, width="100" } | [Canva](https://www.canva.com) | Criação de elementos visuais e slides. |
 | ![Ícone Trello](../assets/ferramentas/trello.png){ align=center, width="100" } | [Trello](https://www.trello.com) | Gestão de tarefas e datas. |
 
+<div style="text-align: center">
+<p> Tabela 1: Ferramentas utilizadas (Fonte: Do autor, 2023).</p>
+</div>
+
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização do artefato | Pedro Ferreira Muniz | Felipe Mastromauro |
