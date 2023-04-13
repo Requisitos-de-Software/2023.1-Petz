@@ -26,3 +26,4 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 12/04/23 | Criação e organização da primeira versão | Pedro Ferreira Muniz | Felipe Mastromauro |
+|  `1.1`   | 08/04/23 | Alteração do nome do aplicativo | Pedro Ferreira Muniz | Samuel Alves |
