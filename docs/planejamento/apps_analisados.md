@@ -10,7 +10,7 @@ Antes de definido o aplicativo a ser analisado extensivamente no projeto, a equi
 | ------------- | ------------------------ |
 | Felipe Mastromauro | [Learn Japanese! - Kanji Study](https://play.google.com/store/apps/details?id=com.lulilanguages.j5KjAnd&hl=pt_BR&gl=US) |
 | Lucas Rodrigues | [Petz](https://play.google.com/store/apps/details?id=br.com.petz) |
-| Magno Luiz | [Nuuvem](https://play.google.com/store/apps/) |
+| Magno Luiz | [Nuuvem](https://www.nuuvem.com/us-en/) |
 | Pedro Muniz | [Gipsyy](https://play.google.com/store/apps/details?id=br.com.gipsyy.app&hl=pt_BR&gl=US&pli=1) |
 | Samuel Sato | [PRF Analytics](https://play.google.com/store/apps/details?id=br.gov.prf.library.prfanalytics&hl=pt_BR&gl=US) |
 | Vitor Manoel | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) |
@@ -19,17 +19,31 @@ Tabela 1 - Lista de apps avaliados
 
 </center>
 
-## Petz
-
 ## Learn Japanese! - Kanji Study
 
 O aplicativo [Learn Japanese! - Kanji Study](https://play.google.com/store/apps/details?id=com.lulilanguages.j5KjAnd&hl=pt_BR&gl=US) ou Kanji! é um aplicativo dedicado a ensinar o alfabeto de kanjis necessário para cada avaliação de proficiência em língua japonesa, do nível N5 (menor nível) ao N1 (maior nível). Ele possui lições separadas dentro de cada nível, ensinando a escrita e a pronúncia de cada kanji, bem como uma feramenta de revisão para treino de kanjis já aprendidos e uma ferramenta de pesquisa para sanar eventuais dúvidas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Kanji.jpeg).
+
+## Petz
+O aplicativo [Petz](https://play.google.com/store/apps/details?id=br.com.petz) é um aplicativo de comércio eletrônico voltado para animais de estimação, proporcionando serviços de assinatura e compra personalizada, disponibilidade para consultas a produtos em lojas físicas e opções de entrega de mercadorias de forma expressa ou retirada em lojas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Petz.jpeg)
+
+## Nuuvem 
+
+A página na web [Nuuvem](https://www.nuuvem.com/us-en/) é caracterizada por ser um compilado de ofertas e filtros para a compra de jogos eletrônicos utilizando buscadores nos principais softwares de gestão de direitos digitais. A Rich Picture do software pode ser encontrada [aqui](../assets/richpictures/Nuuvem.png).
 
 ## Gipsyy
 
 O aplicativo [Gipsyy](https://play.google.com/store/apps/details?id=br.com.gipsyy.app&hl=pt_BR&gl=US&pli=1) é um facilitador para compra de passagens de ônibus, sejam estas fornecidas pela própria empresa responsável pelo aplicativo ou outras companhias parceiras. O aplicativo é simples e possui basicamente três funções, consultar passagens, adquirir passagens e visualizar passagens compradas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Gipsyy.jpeg).
 
-## Referências bibliográficas
+
+## PRF Analytics
+
+O aplicativo [PRF Analytics](https://play.google.com/store/apps/details?id=br.gov.prf.library.prfanalytics&hl=pt_BR&gl=US) é um aplicativo de acesso restrito a usuários da Polícia Rodoviária Federal que apresenta análise de dados estátisticos, demonstrando funcionalidades de cadastro e gestão de processos operacionais, administrativos e de pessoas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/PRFAnalytics.jpeg).
+
+
+## Moovit
+
+O aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) é um aplicativo bastante utilizado por universitários, apresentando um serviço de guia para transportes públicos, possibilitando planejar viagens, localizar linhas de ônibus e metrô em tempo real, acesso a previsões de chegada, alertas, rotas no mapa e funcionalidades de acompanhamento da viagem. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Moovit.jpeg).
+
 
 MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
 
@@ -37,5 +51,6 @@ MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reaso
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Ferreira Muniz |
-|  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Mastromauro | Pedro Ferreira Muniz |
+|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro       | Pedro Ferreira Muniz  |
+|  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Mastromauro    | Pedro Ferreira Muniz |
+|  `1.2`   | 13/04/23 | Adição de Rich Picture Nuuvem, descrições e correção de links                   | Magno Luiz            | Pedro Ferreira Muniz |     
