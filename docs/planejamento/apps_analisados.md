@@ -29,6 +29,10 @@ O aplicativo [Learn Japanese! - Kanji Study](https://play.google.com/store/apps/
 
 O aplicativo [Gipsyy](https://play.google.com/store/apps/details?id=br.com.gipsyy.app&hl=pt_BR&gl=US&pli=1) é um facilitador para compra de passagens de ônibus, sejam estas fornecidas pela própria empresa responsável pelo aplicativo ou outras companhias parceiras. O aplicativo é simples e possui basicamente três funções, consultar passagens, adquirir passagens e visualizar passagens compradas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Gipsyy.jpeg).
 
+## Moovit
+
+O Aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) é um software que busca facilitar a vida de quem necessita de utilizar de transportes públicos, oferecendo serviços que permitem verificar horários, linhas e estações. Utilizando o Moovit é possível evitar transtornos e economizar no tempo de espera do seu transporte, sendo que ele possui até mesmo localização em tempo real em locais com colaboradores. A rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Moovit.png)
+
 ## Referências bibliográficas
 
 MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
@@ -39,3 +43,4 @@ MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reaso
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Ferreira Muniz |
 |  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Mastromauro | Pedro Ferreira Muniz |
+|  `1.2`   | 14/04/23 | Adição do Rich Picture Moovit | Vitor Manoel | |
