@@ -41,7 +41,7 @@ O aplicativo [PRF Analytics](https://play.google.com/store/apps/details?id=br.go
 
 ## Moovit
 
-O Aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) é um software que busca facilitar a vida de quem necessita de utilizar de transportes públicos, oferecendo serviços que permitem verificar horários, linhas e estações. Utilizando o Moovit é possível evitar transtornos e economizar no tempo de espera do seu transporte, sendo que ele possui até mesmo localização em tempo real em locais com colaboradores. A rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Moovit.png)
+O Aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) é um software que busca facilitar a vida de quem necessita de utilizar de transportes públicos, oferecendo serviços que permitem verificar horários, linhas e estações. Utilizando o Moovit é possível evitar transtornos e economizar no tempo de espera do seu transporte, sendo que ele possui até mesmo localização em tempo real em locais com colaboradores. A rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Moovit.png).
 
 ## Referências Bibliográficas
 
