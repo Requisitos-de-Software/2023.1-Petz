@@ -39,11 +39,11 @@ O aplicativo [Gipsyy](https://play.google.com/store/apps/details?id=br.com.gipsy
 
 O aplicativo [PRF Brasil](https://play.google.com/store/apps/details?id=br.gov.prf.prfbrasil&hl=pt_BR&gl=US) é um aplicativo da Polícia Rodoviária Federal que possibilita informar alertas de emergência fornecendo dados úteis para PRF, e possui links para diversas outras funcionalidades da PRF. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/PRFBrasil.jpg).
 
-
 ## Moovit
 
-O aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) é um aplicativo bastante utilizado por universitários, apresentando um serviço de guia para transportes públicos, possibilitando planejar viagens, localizar linhas de ônibus e metrô em tempo real, acesso a previsões de chegada, alertas, rotas no mapa e funcionalidades de acompanhamento da viagem. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Moovit.jpeg).
+O Aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) é um software que busca facilitar a vida de quem necessita de utilizar de transportes públicos, oferecendo serviços que permitem verificar horários, linhas e estações. Utilizando o Moovit é possível evitar transtornos e economizar no tempo de espera do seu transporte, sendo que ele possui até mesmo localização em tempo real em locais com colaboradores. A rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Moovit.png).
 
+## Referências Bibliográficas
 
 MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
 
@@ -53,5 +53,7 @@ MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reaso
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro       | Pedro Ferreira Muniz  |
 |  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Mastromauro    | Pedro Ferreira Muniz |
-|  `1.2`   | 13/04/23 | Adição de Rich Picture Nuuvem, descrições e correção de links                   | Magno Luiz            | Pedro Ferreira Muniz | 
-|  `1.2`   | 13/04/23 | Adição de Rich Picture PRF Brasil, descrições e correção de links                   | Samuel Sato            |Vitor| 
+|  `1.2`   | 13/04/23 | Adição de Rich Picture Nuuvem, descrições e correção de links                   | Magno Luiz            | Pedro Ferreira Muniz |     
+|  `1.3`   | 14/04/23 | Adição do Rich Picture Moovit e sua descrição | Vitor Manoel | Felipe Mastromauro |
+|  `1.4`   | 13/04/23 | Adição de Rich Picture PRF Brasil, descrições e correção de links                   | Samuel Sato            |Vitor| 
+
