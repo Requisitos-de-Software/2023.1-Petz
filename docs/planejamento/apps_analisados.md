@@ -15,7 +15,7 @@ Antes de definido o aplicativo a ser analisado extensivamente no projeto, a equi
 | Samuel Sato | [PRF Analytics](https://play.google.com/store/apps/details?id=br.gov.prf.library.prfanalytics&hl=pt_BR&gl=US) |
 | Vitor Manoel | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US) |
 
-Tabela 1 - Lista de apps avaliados
+Tabela 1 - Lista de apps avaliados (Fonte: Do autor, 2023).
 
 </center>
 
@@ -24,7 +24,7 @@ Tabela 1 - Lista de apps avaliados
 O aplicativo [Learn Japanese! - Kanji Study](https://play.google.com/store/apps/details?id=com.lulilanguages.j5KjAnd&hl=pt_BR&gl=US) ou Kanji! é um aplicativo dedicado a ensinar o alfabeto de kanjis necessário para cada avaliação de proficiência em língua japonesa, do nível N5 (menor nível) ao N1 (maior nível). Ele possui lições separadas dentro de cada nível, ensinando a escrita e a pronúncia de cada kanji, bem como uma feramenta de revisão para treino de kanjis já aprendidos e uma ferramenta de pesquisa para sanar eventuais dúvidas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Kanji.jpeg).
 
 ## Petz
-O aplicativo [Petz](https://play.google.com/store/apps/details?id=br.com.petz) é um aplicativo de comércio eletrônico voltado para animais de estimação, proporcionando serviços de assinatura e compra personalizada, disponibilidade para consultas a produtos em lojas físicas e opções de entrega de mercadorias de forma expressa ou retirada em lojas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Petz.jpeg)
+O aplicativo [Petz](https://play.google.com/store/apps/details?id=br.com.petz) é um aplicativo de comércio eletrônico voltado para animais de estimação, proporcionando serviços de assinatura e compra personalizada, disponibilidade para consultas a produtos em lojas físicas e opções de entrega de mercadorias de forma expressa ou retirada em lojas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Petz.png)
 
 ## Nuuvem 
 
