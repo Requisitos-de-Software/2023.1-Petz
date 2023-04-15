@@ -30,6 +30,8 @@ nav:
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Apps avaliados: planejamento/apps_analisados.md
+      - Metodologia: planejamento/metodologia.md
+      - Ferramentas: planejamento/ferramentas.md
 
 markdown_extensions:
   - tables
