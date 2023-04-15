@@ -35,9 +35,9 @@ A página na web [Nuuvem](https://www.nuuvem.com/us-en/) é caracterizada por se
 O aplicativo [Gipsyy](https://play.google.com/store/apps/details?id=br.com.gipsyy.app&hl=pt_BR&gl=US&pli=1) é um facilitador para compra de passagens de ônibus, sejam estas fornecidas pela própria empresa responsável pelo aplicativo ou outras companhias parceiras. O aplicativo é simples e possui basicamente três funções, consultar passagens, adquirir passagens e visualizar passagens compradas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/Gipsyy.jpeg).
 
 
-## PRF Analytics
+## PRF Brasil
 
-O aplicativo [PRF Analytics](https://play.google.com/store/apps/details?id=br.gov.prf.library.prfanalytics&hl=pt_BR&gl=US) é um aplicativo de acesso restrito a usuários da Polícia Rodoviária Federal que apresenta análise de dados estátisticos, demonstrando funcionalidades de cadastro e gestão de processos operacionais, administrativos e de pessoas. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/PRFAnalytics.jpeg).
+O aplicativo [PRF Brasil](https://play.google.com/store/apps/details?id=br.gov.prf.prfbrasil&hl=pt_BR&gl=US) é um aplicativo da Polícia Rodoviária Federal que possibilita informar alertas de emergência fornecendo dados úteis para PRF, e possui links para diversas outras funcionalidades da PRF. A Rich Picture do aplicativo pode ser encontrada [aqui](../assets/richpictures/PRFBrasil.jpg).
 
 
 ## Moovit
