@@ -27,11 +27,15 @@ nav:
   - Home: index.md
   - Atas:
     - Reunião 1: atas/1a_reuniao.md
+  - Apresentações:
+    - Primeira apresentação: apresentacoes/apresentacao1.md
   - Planejamento:
-      - Cronograma: planejamento/cronograma.md
-      - Apps avaliados: planejamento/apps_analisados.md
-      - Metodologia: planejamento/metodologia.md
-      - Ferramentas: planejamento/ferramentas.md
+    - Cronograma: planejamento/cronograma.md
+    - Apps avaliados: planejamento/apps_analisados.md
+    - Metodologia: planejamento/metodologia.md
+    - Ferramentas: planejamento/ferramentas.md
+  - Pré-rastreabilidade:
+    - Rich picture: pre-rastreabilidade/richpicture.md
 
 markdown_extensions:
   - tables
