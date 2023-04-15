@@ -53,4 +53,5 @@ MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reaso
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro       | Pedro Ferreira Muniz  |
 |  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Mastromauro    | Pedro Ferreira Muniz |
-|  `1.2`   | 13/04/23 | Adição de Rich Picture Nuuvem, descrições e correção de links                   | Magno Luiz            | Pedro Ferreira Muniz |     
+|  `1.2`   | 13/04/23 | Adição de Rich Picture Nuuvem, descrições e correção de links                   | Magno Luiz            | Pedro Ferreira Muniz | 
+|  `1.2`   | 13/04/23 | Adição de Rich Picture PRF Brasil, descrições e correção de links                   | Samuel Sato            |Vitor| 
