@@ -45,4 +45,4 @@
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 12/04/23 | Criação e organização da primeira versão da ata | Pedro Ferreira Muniz | Felipe Mastromauro |
+|  `1.0`   | 12/04/23 | Criação e organização da primeira versão da ata | Pedro Muniz | Felipe Mastromauro |

@@ -1,4 +1,10 @@
-# Grupo 07
+# Grupo 07 - Aplicativo Petz
+
+<center>
+
+![Logo Petz](./assets/images/favicon.png){ width="300" }
+
+</center>
 
 ## Introdução ao projeto
 
@@ -27,6 +33,7 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Ferreira Muniz |
-|  `1.2`   | 13/04/23 | Remoção de membro do grupo | Felipe Mastromauro | Pedro Ferreira Muniz |
-|  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Ferreira Muniz | Felipe Mastromauro |
+|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Muniz |
+|  `1.2`   | 13/04/23 | Remoção de membro do grupo | Felipe Mastromauro | Pedro Muniz |
+|  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Muniz | Felipe Mastromauro |
+|  `1.4`   | 15/04/23 | Alteração dos ícones e adição do nome do aplicativo | Pedro Muniz | Samuel Sato |
