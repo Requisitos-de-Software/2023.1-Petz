@@ -10,9 +10,9 @@ As entregas serão divididas em tarefas e atribuídas aleatoriamente à cada int
 
 |Versão| Data| 	Descrição| 	Autor(es)| 	Revisor(es)|
 |------|-----|-----------|-----------|-------------|
-|1|14/04/2023|Criação do cronograma de atividades| Samuel Sato |Pedro Muniz|
-|2|15/04/2023|Alteração nas datas das atividades| Samuel Sato |Vitor Manoel|
-|3|16/04/2023|Adição de descrição das etapas| Samuel Sato |Felipe Corrêa|
+|`1.0`|14/04/2023|Criação do cronograma de atividades| Samuel Sato |Pedro Muniz|
+|`1.1`|15/04/2023|Alteração nas datas das atividades| Samuel Sato |Vitor Manoel|
+|`1.2`|16/04/2023|Adição de descrição das etapas| Samuel Sato |Felipe Corrêa|
 
 ## Cronograma Geral
 
