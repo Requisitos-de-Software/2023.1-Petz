@@ -33,7 +33,7 @@ A figura 1 mostra a primeira versão do Rich Picture do aplicativo da Petz, entr
 
 <center>
 
-![Primeira versão do Rich Picture da Petz](../assets/richpictures/Petz_v1.png)
+![Primeira versão do Rich Picture da Petz](../assets/richpictures/Petz_v1.jpg)
 
 Figura 1: primeira versão do Rich Picture da Petz (Fonte: Lucas Rodrigues, 2023).
 
