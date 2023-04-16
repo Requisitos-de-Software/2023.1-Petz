@@ -6,14 +6,6 @@ Com base no plano de ensino disponibilizado no início do semestre, foi desenvol
 
 As entregas serão divididas em tarefas e atribuídas aleatoriamente à cada integrante da equipe, por conseguinte, o desenvolvimento do projeto seja realizado de forma produtiva e sustentável maximizando o potencial da equipe.
 
-## Histórioco de versão
-
-|Versão| Data| 	Descrição| 	Autor(es)| 	Revisor(es)|
-|------|-----|-----------|-----------|-------------|
-|`1.0`|14/04/2023|Criação do cronograma de atividades| Samuel Sato |Pedro Muniz|
-|`1.1`|15/04/2023|Alteração nas datas das atividades| Samuel Sato |Vitor Manoel|
-|`1.2`|16/04/2023|Adição de descrição das etapas| Samuel Sato |Felipe Corrêa|
-
 ## Cronograma Geral
 
 | Etapas | Descrição | Data início | Data Término |
@@ -133,3 +125,12 @@ Tabela da Etapa 7 possui as atividades de validação e verificação final do p
 |Planejamento de verificação dos artefatos|	Samuel Sato|	Vitor Manoel|21/07/2023|28/0602023|29/06/2023			|
 |Relato da verificação dos artefatos e ajustes|	Vitor Manoel|	Magno Luiz|27/06/2023|01/07/2023|02/07/2023			|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	02/07/2023|	04/07/2023|	04/07/2023|
+
+
+## Histórioco de versão
+
+|Versão| Data| 	Descrição| 	Autor(es)| 	Revisor(es)|
+|------|-----|-----------|-----------|-------------|
+|`1.0`|14/04/2023|Criação do cronograma de atividades| Samuel Sato |Pedro Muniz|
+|`1.1`|15/04/2023|Alteração nas datas das atividades| Samuel Sato |Vitor Manoel|
+|`1.2`|16/04/2023|Adição de descrição das etapas| Samuel Sato |Felipe Corrêa|
