@@ -26,7 +26,7 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-    - Reunião 1: atas/1a_reuniao.md
+    - Reunião 1: atas/reuniao12042023.md
   - Apresentações:
     - Primeira apresentação: apresentacoes/apresentacao1.md
   - Planejamento:

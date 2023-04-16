@@ -14,7 +14,11 @@ Este documento contém os materiais utilizados na apresentação da etapa 1 do p
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFgLJ0X-vU&#x2F;view?utm_content=DAFgLJ0X-vU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação 1 - Grupo 7</a> de Pedro Muniz
 
 ## Apresentação em vídeo
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4iryILAXkoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
