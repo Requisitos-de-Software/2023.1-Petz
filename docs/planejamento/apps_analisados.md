@@ -45,7 +45,7 @@ O Aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmat
 
 ## Referências Bibliográficas
 
-MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
+> MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
 
 ## Histórico de versão
 

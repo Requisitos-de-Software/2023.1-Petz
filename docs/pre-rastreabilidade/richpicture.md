@@ -1,6 +1,8 @@
+# Rich Picture do aplicativo
 
-# Introdução
+## Introdução
 
+Rich Pictures são usadas para retratar situações complexas. Sendo uma ferramenta efetiva para análise de problemas e situações, além de ser um meio de transmissão de ideias. As Rich Pictures podem ajudar a identificar requisitos, processos, atores, relacionamentos, problemas e conflitos quando formulando ideias sobre o projeto. Assim, torna-se necessária a construção de um Tich Picture do aplicativo analisado.
 
 ## Sobre a aplicação
 
@@ -15,12 +17,6 @@ Os critérios que colaboraram para a escolha da aplicação foram:
 - A aplicação possui grande quantidade de usuários baseada na popularidade da Petz no Brasil como petshop.
 - Um dos integrantes do grupo já possui familiaridade com a aplicação em relação ao uso e suas funcionalidades.
 
-## Rich Picture
-
-Rich Pictures são usadas para retratar situações complexas. Sendo uma ferramenta efetiva para análise de problemas e situações, além de ser um meio de transmissão de ideias.
-
-As Rich Pictures podem ajudar a identificar requisitos, processos, atores, relacionamentos, problemas e conflitos quando formulando ideias sobre o projeto.
-
 ## Metodologia
 
 As Rich Pictures concretizadas para a avaliação de aplicações e sistemas postos nas escolhas para projeto do curso de Requisitos de Software apresentam características em comum, com aspectos facilmente identificados:
@@ -31,15 +27,32 @@ As Rich Pictures concretizadas para a avaliação de aplicações e sistemas pos
 - Fronteiras do sistema;
 - Ligações para relacionamento de atores, processos e integrações através de linhas e setas;
 
+## Primeira versão do Rich Picture da Petz
 
+A figura 1 mostra a primeira versão do Rich Picture do aplicativo da Petz, entregue como atividade individual por Lucas Rodrigues.
+
+<center>
+
+![Primeira versão do Rich Picture da Petz](../assets/richpictures/Petz_v1.png)
+
+Figura 1: primeira versão do Rich Picture da Petz (Fonte: Lucas Rodrigues, 2023).
+
+</center>
 
 ## Rich Picture Final da Petz
 
-![RichPicturePetzFinal](../assets/richpictures/Petz.png)
+A figura 2 mostra uma versão refinada da Rich Picture do aplicativo da Petz, realizada em conjunto por todos os integrantes e que será usada para a construção de artefatos futuros.
+<center>
 
-<h6 align = "center"> Figura 1: Rich Picture - Versão Final
-<br> Autor: Todos integrantes
-<br> Fonte: Autores </h6>
+![Rich Picture final do aplicativo da Petz](../assets/richpictures/Petz.png)
+
+Figura 2: Versão final do Rich Picture da Petz (Fonte: Todos os integrantes, 2023).
+
+</center>
+
+## Legenda da Rich Picture
+
+A tabela 1 descreve a legenda da Rich Picture final do aplicativo da Petz, a fim de delinear o que significa cada componente utilizado em sua confecção.
 
 <center>
 
@@ -54,10 +67,10 @@ As Rich Pictures concretizadas para a avaliação de aplicações e sistemas pos
 
 Tabela 1 - Legenda (Fonte: Do autor, 2023).
 
-<center>
+</center>
 
 
-
+## Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
@@ -66,4 +79,4 @@ Tabela 1 - Legenda (Fonte: Do autor, 2023).
 
 ## Referências Bibliográficas
 
-MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
+> MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
