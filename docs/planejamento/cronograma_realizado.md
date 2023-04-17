@@ -24,6 +24,10 @@ Tabela 1: cronograma realizado da Etapa 1 (Fonte: Do autor, 2023).
 
 </center>
 
+## Referências bibliográficas
+
+> SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 15 abr. 2023;
+
 ## Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
