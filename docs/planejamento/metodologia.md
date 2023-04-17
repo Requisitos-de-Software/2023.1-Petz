@@ -34,42 +34,42 @@ Exemplo de commit para o projeto:
 ### Política de _issue_
 As tarefas de cada sprint serão documentadas através de _issues_ no repositório GitHub do projeto, seguindo o seguinte template:
 
-# Issue name
-
-## 📝 Descrição
-
-Descrição detalhada da tarefa
-
-## 👩‍💻 Revisor(es)
-
-Marcação do revisor da issue
-
+> # Issue name
+> 
+> ## 📝 Descrição
+> 
+> Descrição detalhada da tarefa
+> 
+> ## 👩‍💻 Revisor(es)
+> 
+> Marcação do revisor da issue
+> 
 ### Política de _pull request_
-
+ 
 Assim como as _issues_, os _pull requests_ também devem seguir um template, sendo este:
-
-| Issue |
-|:-----:|
-|fixes #|
-
-# Pull Request
-
-## 📖 Descrição
-
-
-Descrição do que foi feito.
-
-
-### 🎫 Issues
-
-
-Listar e linkar a issues que foram finalizadas.
-
-
-## 👩‍💻 Revisor(es)
-
-
-Comentarios para o revisor e marca-lo aqui.
+ 
+> | Issue |
+> |:-----:|
+> |fixes #|
+> 
+> # Pull Request
+> 
+> ## 📖 Descrição
+> 
+> 
+> Descrição do que foi feito.
+> 
+> 
+> ### 🎫 Issues
+> 
+> 
+> Listar e linkar a issues que foram finalizadas.
+> 
+> 
+> ## 👩‍💻 Revisor(es)
+> 
+> 
+> Comentarios para o revisor e marca-lo aqui.
 
 ## Referências Bibliográficas
 
