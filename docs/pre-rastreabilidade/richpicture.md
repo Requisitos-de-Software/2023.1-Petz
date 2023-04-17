@@ -70,13 +70,12 @@ Tabela 1 - Legenda (Fonte: Do autor, 2023).
 </center>
 
 
+## Referências Bibliográficas
+
+> MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.
+
 ## Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 16/04/23 | Criação da página de Pré-Rastreabilidade | Magno Luiz e Pedro Ferreira Muniz      | Felipe Mastromauro  |
-
-
-## Referências Bibliográficas
-
-> MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. Interactions, Nova Iorque, v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: https://dl.acm.org/doi/10.1145/274430.274434. Acesso em: 8 abr. 2023.

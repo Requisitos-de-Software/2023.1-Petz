@@ -127,7 +127,11 @@ Tabela da Etapa 7 possui as atividades de validação e verificação final do p
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	02/07/2023|	04/07/2023|	04/07/2023|
 
 
-## Histórioco de versão
+## Referências bibliográficas
+
+> SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 14 abr. 2023;
+
+## Histórico de versão
 
 |Versão| Data| 	Descrição| 	Autor(es)| 	Revisor(es)|
 |------|-----|-----------|-----------|-------------|

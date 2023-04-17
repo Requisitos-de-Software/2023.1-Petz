@@ -22,6 +22,28 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 <p> Tabela 1: Ferramentas utilizadas (Fonte: Do autor, 2023).</p>
 </div>
 
+## Referências bibliográficas
+
+> Github, disponível no [link](https://www.github.com).
+
+> MkDocs, disponível no [link](https://www.mkdocs.org).
+
+> Telegram, disponível no [link](https://web.telegram.org/).
+
+> Microsoft Teams, disponível no [link](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free).
+
+> Google Workspace, disponível no [link](https://workspace.google.com/intl/pt-BR/).
+
+> Figma, disponível no [link](https://www.figma.com).
+
+> Youtube, disponível no [link](https://www.youtube.com).
+
+> Canva, disponível no [link](https://www.canva.com).
+
+> Trello, disponível no [link](https://www.trello.com).
+
+## Histórico de versão
+
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 13/04/23 | Criação e organização do artefato | Pedro Muniz | Felipe Mastromauro |

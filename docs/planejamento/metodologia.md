@@ -21,12 +21,13 @@ Os membros do projeto devem estar sempre de prontidão para revisar, alterar e i
 
 ### Política de commits
 Os commits realizados pelos membros deve seguir o seguinte padrão:
-    1. Termo em inglês indicando a finalidade do commit, sendo um destes:
-        * create
-        * delete
-        * change
-        * fix
-    2. Descrição breve em português das alterações realizadas pelo commit.
+
+1. Termo em inglês indicando a finalidade do commit, sendo um destes:
+    * create
+    * delete
+    * change
+    * fix
+2. Descrição breve em português das alterações realizadas pelo commit.
 Exemplo de commit para o projeto:
     `git commit -m "create: Artefato de metodologia"`
 
@@ -70,6 +71,13 @@ Listar e linkar a issues que foram finalizadas.
 
 Comentarios para o revisor e marca-lo aqui.
 
+## Referências Bibliográficas
+
+> REHKOPF, Max. O que é um painel Kanban? Disponível em: https://www.atlassian.com/br/agile/kanban/boards. Acesso em: 13 abr. 2023.
+>
+> SCHWABER, Ken; SUTHERLAND, Jeff. The 2020 Scrum Guide. Disponível em: https://scrumguides.org/scrum-guide.html. Acesso em: 13 abr. 2023.
+
+## Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
