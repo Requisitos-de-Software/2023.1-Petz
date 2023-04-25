@@ -7,12 +7,12 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 | Foto        | Nome                                 | Github |
 | :---------: | :----------------------------------: | :----: |
-| <img src="https://avatars.githubusercontent.com/u/54457201?v=4" alt="Foto de perfil do Github de Felipe (Membro da equipe)" style="width: 10vw;" /> | Felipe Mastromauro Corrêa | [MastroCoder](https://github.com/MastroCoder) |
-| <img src="https://avatars.githubusercontent.com/u/54557319?v=4" alt="Foto de perfil do Github de Lucas (Membro da equipe)" style="width: 10vw;" /> | Lucas Rodrigues Cardoso | [lucascard](https://github.com/lucascard) |
-| <img src="https://avatars.githubusercontent.com/u/55704216?v=4" alt="Foto de perfil do Github de Magno (Membro da equipe)" style="width: 10vw;" /> | Magno Luiz Vieira | [magnluiz](https://github.com/magnluiz) |
+| <img src="https://avatars.githubusercontent.com/u/54457201?v=4" alt="Foto de perfil do Github de Felipe (Membro da equipe)" style="width: 10vw;" /> | Felipe Corrêa | [MastroCoder](https://github.com/MastroCoder) |
+| <img src="https://avatars.githubusercontent.com/u/54557319?v=4" alt="Foto de perfil do Github de Lucas (Membro da equipe)" style="width: 10vw;" /> | Lucas Rodrigues | [lucascard](https://github.com/lucascard) |
+| <img src="https://avatars.githubusercontent.com/u/55704216?v=4" alt="Foto de perfil do Github de Magno (Membro da equipe)" style="width: 10vw;" /> | Magno Luiz | [magnluiz](https://github.com/magnluiz) |
 | <img src="https://avatars.githubusercontent.com/u/61098873?v=4" alt="Foto de perfil do Github de Pedro (Membro da equipe)" style="width: 10vw;" /> | Pedro Muniz | [PedroFMuniz](https://github.com/PedroFMuniz) |
-| <img src="https://avatars.githubusercontent.com/u/69944666?v=4" alt="Foto de perfil do Github de Samuel (Membro da equipe)" style="width: 10vw;" /> | Samuel Alves Sato | [samuel-sato](https://github.com/samuel-sato) |
-| <img src="https://avatars.githubusercontent.com/u/74791849?v=4" alt="Foto de perfil do Github de Vitor (Membro da equipe)" style="width: 10vw;" /> | Vitor Manoel Aquino de Brito | [vitormanoel17](https://github.com/vitormanoel17) |
+| <img src="https://avatars.githubusercontent.com/u/69944666?v=4" alt="Foto de perfil do Github de Samuel (Membro da equipe)" style="width: 10vw;" /> | Samuel Sato | [samuel-sato](https://github.com/samuel-sato) |
+| <img src="https://avatars.githubusercontent.com/u/74791849?v=4" alt="Foto de perfil do Github de Vitor (Membro da equipe)" style="width: 10vw;" /> | Vitor Manoel | [vitormanoel17](https://github.com/vitormanoel17) |
 
 </center>
 
@@ -24,5 +24,5 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 12/04/23 | Criação e organização da primeira versão | Pedro Ferreira Muniz | Felipe Mastromauro |
-|  `1.1`   | 13/04/23 | Alteração do nome do aplicativo e remoção de membro | Pedro Ferreira Muniz | Samuel Alves |
+|  `1.0`   | 12/04/23 | Criação e organização da primeira versão | Pedro Muniz | Felipe Corrêa |
+|  `1.1`   | 13/04/23 | Alteração do nome do aplicativo e remoção de membro | Pedro Muniz | Samuel Sato |

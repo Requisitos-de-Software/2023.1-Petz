@@ -78,4 +78,4 @@ Tabela 1 - Legenda (Fonte: Do autor, 2023).
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 16/04/23 | Criação da página de Pré-Rastreabilidade | Magno Luiz e Pedro Ferreira Muniz      | Felipe Mastromauro  |
+|  `1.0`   | 16/04/23 | Criação da página de Pré-Rastreabilidade | Magno Luiz e Pedro Muniz      | Felipe Corrêa  |

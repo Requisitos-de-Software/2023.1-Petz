@@ -16,12 +16,12 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 | Foto        | Nome                                 | Github |
 | :---------: | :----------------------------------: | :----: |
-| ![Foto de perfil do Github de Felipe (Membro da equipe)](https://avatars.githubusercontent.com/u/54457201?v=4){ align=center, width="100" } | Felipe Mastromauro Corrêa | [:fontawesome-brands-github: MastroCoder](https://github.com/MastroCoder) |
-| ![Foto de perfil do Github de Lucas (Membro da equipe)](https://avatars.githubusercontent.com/u/54557319?v=4){ align=center, width="100" } | Lucas Rodrigues Cardoso | [:fontawesome-brands-github: lucascard](https://github.com/lucascard) |
-| ![Foto de perfil do Github de Magno (Membro da equipe)](https://avatars.githubusercontent.com/u/55704216?v=4){ align=center, width="100" } | Magno Luiz Vieira | [:fontawesome-brands-github: magnluiz](https://github.com/magnluiz) |
+| ![Foto de perfil do Github de Felipe (Membro da equipe)](https://avatars.githubusercontent.com/u/54457201?v=4){ align=center, width="100" } | Felipe Corrêa | [:fontawesome-brands-github: MastroCoder](https://github.com/MastroCoder) |
+| ![Foto de perfil do Github de Lucas (Membro da equipe)](https://avatars.githubusercontent.com/u/54557319?v=4){ align=center, width="100" } | Lucas Rodrigues | [:fontawesome-brands-github: lucascard](https://github.com/lucascard) |
+| ![Foto de perfil do Github de Magno (Membro da equipe)](https://avatars.githubusercontent.com/u/55704216?v=4){ align=center, width="100" } | Magno Luiz | [:fontawesome-brands-github: magnluiz](https://github.com/magnluiz) |
 | ![Foto de perfil do Github de Pedro (Membro da equipe)](https://avatars.githubusercontent.com/u/61098873?v=4){ align=center, width="100" } | Pedro Muniz | [:fontawesome-brands-github: PedroFMuniz](https://github.com/PedroFMuniz) |
-| ![Foto de perfil do Github de Samuel (Membro da equipe)](https://avatars.githubusercontent.com/u/69944666?v=4){ align=center, width="100" } | Samuel Alves Sato | [:fontawesome-brands-github: samuel-sato](https://github.com/samuel-sato) |
-| ![Foto de perfil do Github de Vitor (Membro da equipe)](https://avatars.githubusercontent.com/u/74791849?v=4){ align=center, width="100" } | Vitor Manoel Aquino de Brito | [:fontawesome-brands-github: vitormanoel17](https://github.com/vitormanoel17) |
+| ![Foto de perfil do Github de Samuel (Membro da equipe)](https://avatars.githubusercontent.com/u/69944666?v=4){ align=center, width="100" } | Samuel Sato | [:fontawesome-brands-github: samuel-sato](https://github.com/samuel-sato) |
+| ![Foto de perfil do Github de Vitor (Membro da equipe)](https://avatars.githubusercontent.com/u/74791849?v=4){ align=center, width="100" } | Vitor Manoel | [:fontawesome-brands-github: vitormanoel17](https://github.com/vitormanoel17) |
 
 </center>
 
@@ -33,7 +33,7 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro | Pedro Muniz |
-|  `1.2`   | 13/04/23 | Remoção de membro do grupo | Felipe Mastromauro | Pedro Muniz |
-|  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Muniz | Felipe Mastromauro |
+|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Corrêa | Pedro Muniz |
+|  `1.2`   | 13/04/23 | Remoção de membro do grupo | Felipe Corrêa | Pedro Muniz |
+|  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Muniz | Felipe Corrêa |
 |  `1.4`   | 15/04/23 | Alteração dos ícones e adição do nome do aplicativo | Pedro Muniz | Samuel Sato |

@@ -32,4 +32,4 @@ Tabela 1: cronograma realizado da Etapa 1 (Fonte: Do autor, 2023).
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 15/04/23 | Redação do cronograma realizado da etapa 1 | Felipe Mastromauro       | Vitor Manoel  |
+|  `1.0`   | 15/04/23 | Redação do cronograma realizado da etapa 1 | Felipe Corrêa       | Vitor Manoel  |
