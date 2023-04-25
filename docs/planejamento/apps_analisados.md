@@ -8,7 +8,7 @@ Antes de definido o aplicativo a ser analisado extensivamente no projeto, a equi
 
 | Nome          | Sítio avaliado           |
 | ------------- | ------------------------ |
-| Felipe Mastromauro | [Learn Japanese! - Kanji Study](https://play.google.com/store/apps/details?id=com.lulilanguages.j5KjAnd&hl=pt_BR&gl=US) |
+| Felipe Corrêa | [Learn Japanese! - Kanji Study](https://play.google.com/store/apps/details?id=com.lulilanguages.j5KjAnd&hl=pt_BR&gl=US) |
 | Lucas Rodrigues | [Petz](https://play.google.com/store/apps/details?id=br.com.petz) |
 | Magno Luiz | [Nuuvem](https://www.nuuvem.com/us-en/) |
 | Pedro Muniz | [Gipsyy](https://play.google.com/store/apps/details?id=br.com.gipsyy.app&hl=pt_BR&gl=US&pli=1) |
@@ -51,9 +51,9 @@ O Aplicativo [Moovit](https://play.google.com/store/apps/details?id=com.tranzmat
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Mastromauro       | Pedro Muniz  |
-|  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Mastromauro    | Pedro Muniz |
+|  `1.0`   | 08/04/23 | Criação e organização da primeira versão | Felipe Corrêa       | Pedro Muniz  |
+|  `1.1`   | 13/04/23 | Criação da tabela de apps avaliados e adição de Rich Picture Kanji! | Felipe Corrêa    | Pedro Muniz |
 |  `1.2`   | 13/04/23 | Adição de Rich Picture Nuuvem, descrições e correção de links                   | Magno Luiz            | Pedro Muniz |     
-|  `1.3`   | 14/04/23 | Adição do Rich Picture Moovit e sua descrição | Vitor Manoel | Felipe Mastromauro |
-|  `1.4`   | 13/04/23 | Adição de Rich Picture PRF Brasil, descrições e correção de links                   | Samuel Sato            |Vitor| 
+|  `1.3`   | 14/04/23 | Adição do Rich Picture Moovit e sua descrição | Vitor Manoel | Felipe Corrêa |
+|  `1.4`   | 13/04/23 | Adição de Rich Picture PRF Brasil, descrições e correção de links                   | Samuel Sato            |Vitor Manoel| 
 

@@ -24,4 +24,4 @@ Este documento contém os materiais utilizados na apresentação da etapa 1 do p
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 15/04/23 | Criação e organização do artefato | Pedro Muniz | Felipe Mastromauro |
+|  `1.0`   | 15/04/23 | Criação e organização do artefato | Pedro Muniz | Felipe Corrêa |
