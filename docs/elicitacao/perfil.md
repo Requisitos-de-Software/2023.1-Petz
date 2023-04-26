@@ -17,18 +17,18 @@ Para a elaboração detalhada do perfil de usuário é necessário o uso de ferr
 - Conhecimento de tecnologia
 - Objetivo no aplicativo
 
-Com base nestas características, a tabela 1 apresenta os dois perfis de usuário principais do aplicativo, cliente e funcionário.
+Com base nestas características, a tabela 1 apresenta o perfil de usuário principal do aplicativo, cliente final que possui um ou mais pets.
 
 <center>
 
-| Característica             | Perfil Cliente          | Perfil Funcionário           |
-| -------------------------- | ----------------------- | ---------------------------- |
-| Faixa etária               | 20 - 55 anos            | 20 - 35 anos                 |
-| Ocupação                   | Indiferente             | Empregado no setor privado   |
-| Função                     | Indiferente             | Funcionário em uma loja Petz |
-| Faixa Salarial             | 2 - 12 salários mínimos | 2 - 4 salários mínimos       |
-| Conhecimento de tecnologia | Básico a avançado       | Intermediário a avançado     |
-| Objetivo                   | Solicitar produtos e serviços para seus pets | Realizar a compra para o cliente solicitante |
+| Característica             | Perfil Cliente                               |
+| -------------------------- | -------------------------------------------- |
+| Faixa etária               | 20 - 55 anos                                 |
+| Ocupação                   | Indiferente                                  |
+| Função                     | Indiferente                                  |
+| Faixa Salarial             | 2 - 12 salários mínimos                      |
+| Conhecimento de tecnologia | Básico a avançado                            |
+| Objetivo                   | Solicitar produtos e serviços para seus pets |
 
 Tabela 1: Perfil inicial de usuário (Fonte: do Autor, 2023).
 
@@ -40,14 +40,14 @@ Após aplicação de questionário aos usuários e potenciais usuários do aplic
 
 <center>
 
-| Característica             | Perfil Cliente   | Perfil Funcionário           |
-| -------------------------- | ---------------- | ---------------------------- |
-| Faixa etária               | anos             | anos                         |
-| Ocupação                   | Indiferente      | Empregado no setor privado   |
-| Função                     | Indiferente      | Funcionário em uma loja Petz |
-| Faixa Salarial             | salários mínimos | salários mínimos             |
-| Conhecimento de tecnologia |                  |                              |
-| Objetivo                   | Solicitar produtos e serviços para seus pets | Realizar a compra para o cliente solicitante |
+| Característica             | Perfil Cliente                               |
+| -------------------------- | -------------------------------------------- |
+| Faixa etária               | anos                                         |
+| Ocupação                   | Indiferente                                  |
+| Função                     | Indiferente                                  |
+| Faixa Salarial             | salários mínimos                             |
+| Conhecimento de tecnologia |                                              |
+| Objetivo                   | Solicitar produtos e serviços para seus pets |
 
 Tabela 2: Perfil final de usuário (Fonte: do Autor, 2023).
 
