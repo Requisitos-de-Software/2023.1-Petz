@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Para realizar a análise do aplicativo Petz, serão necessários softwares para auxliar o grupo no decorrer do projeto.
+Para realizar a análise do aplicativo Petz, serão necessários softwares para auxliiar o grupo no decorrer do projeto. As ferramentas estão apresentadas na [Tabela 1](#ferramentas-utilizadas).
 
 ## Ferramentas utilizadas
 
