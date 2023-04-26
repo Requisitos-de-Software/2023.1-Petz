@@ -38,6 +38,9 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
     - Rich picture: pre-rastreabilidade/richpicture.md
+  - Elicitação:
+    - Técnicas planejadas: elicitacao/tecnicas_planejadas.md
+    - Brainstorming: elicitacao/brainstorming.md
 
 markdown_extensions:
   - tables
