@@ -16,7 +16,7 @@ Levando em consideração fatores como os recursos e habilidades da equipe e o d
 | [Questionário]() | Samuel Sato |
 | [Entrevista]() | Lucas Rodrigues  |
 | [Brainstorming](./brainstorming.md) | Felipe Corrêa |
-| [Introspecção]() | Mango Luiz | 
+| [Introspecção](./introspeccao.md) | Magno Luiz | 
 | [Storytelling]() | Vitor Manoel |
 
 

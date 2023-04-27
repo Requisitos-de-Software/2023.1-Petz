@@ -41,6 +41,7 @@ nav:
   - Elicitação:
     - Técnicas planejadas: elicitacao/tecnicas_planejadas.md
     - Brainstorming: elicitacao/brainstorming.md
+    - Introspecção: elecitacao/introspeccao.md
 
 markdown_extensions:
   - tables
