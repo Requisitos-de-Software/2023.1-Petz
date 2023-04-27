@@ -31,6 +31,7 @@ nav:
   - Apresentações:
       - Primeira apresentação: apresentacoes/apresentacao1.md
   - Planejamento:
+      - Glossário de palavras: planejamento/glossario.md
       - Cronograma: planejamento/cronograma.md
       - Cronograma Realizado: planejamento/cronograma_realizado.md
       - Apps avaliados: planejamento/apps_analisados.md
