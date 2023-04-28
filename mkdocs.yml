@@ -5,7 +5,7 @@ theme:
   favicon: assets/images/favicon.png
   logo: assets/images/favicon.png
   language: pt-BR
-  palette: 
+  palette:
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -27,16 +27,23 @@ nav:
   - Home: index.md
   - Atas:
     - Reunião 1: atas/reuniao12042023.md
+    - Reunião 2: atas/reuniao19042023.md
   - Apresentações:
-    - Primeira apresentação: apresentacoes/apresentacao1.md
+      - Primeira apresentação: apresentacoes/apresentacao1.md
   - Planejamento:
-    - Cronograma: planejamento/cronograma.md
-    - Cronograma Realizado: planejamento/cronograma_realizado.md
-    - Apps avaliados: planejamento/apps_analisados.md
-    - Metodologia: planejamento/metodologia.md
-    - Ferramentas: planejamento/ferramentas.md
+      - Glossário de palavras: planejamento/glossario.md
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma Realizado: planejamento/cronograma_realizado.md
+      - Apps avaliados: planejamento/apps_analisados.md
+      - Metodologia: planejamento/metodologia.md
+      - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
-    - Rich picture: pre-rastreabilidade/richpicture.md
+      - Rich picture: pre-rastreabilidade/richpicture.md
+  - Elicitação:
+    - Técnicas planejadas: elicitacao/tecnicas_planejadas.md
+    - Perfil de usuário: elicitacao/perfil.md
+    - Personas: elicitacao/personas.md
+    - Brainstorming: elicitacao/brainstorming.md
 
 markdown_extensions:
   - tables
