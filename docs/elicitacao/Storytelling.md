@@ -1,13 +1,13 @@
 ## Introdução
 
-  A técnica do storytelling consiste no uso de contagem de histórias em grupo de pessoas, como organizações, que serve como um método de comunicação para que os envolvidos possam compartilhar conhecimento. Os participantes são estimulados a narrar histórias relacionadas aos fatos que se deseja obter conhecimento, como a experiência na utilização de sistemas.
+A técnica do storytelling consiste no uso de contagem de histórias em grupo de pessoas, como organizações, que serve como um método de comunicação para que os envolvidos possam compartilhar conhecimento. Os participantes são estimulados a narrar histórias relacionadas aos fatos que se deseja obter conhecimento, como a experiência na utilização de sistemas.
 
 ## Metodologia
 
-Para utilizar desta técnica foram criadas personas, permitindo assim criar uma história conveniente ao contexto desejado, transmitindo uma narrativa envolvente e identificável que passe uma mensagem em que seja possível extrair as informações necessárias para a elicitação dos requisitos.
+Esta técnica de elicitação utilizou-se de [personas](./personas.md) criadas em artefato anterior, permitindo assim criar uma história conveniente ao contexto desejado, transmitindo uma narrativa envolvente e identificável que passe uma mensagem em que seja possível extrair as informações necessárias para a elicitação dos requisitos.
 
 ### Storytelling 1
-Julia é uma vendedora apaixonada por animais que resgatava e cuidava de diversos cães em sua casa. Ela  adotou recentemente um cãozinho chamado Rufus. Julia quer ser uma boa dona para Rufus, é deseja comprar brinquedos, comida  e medicamento para eles e seus outros animais resgatados, porém está sem tempo devido a sua agitada rotina de vendedora.
+Julia é uma vendedora apaixonada por animais que resgatava e cuidava de diversos cães em sua casa. Ela  adotou recentemente um cãozinho chamado Rufus. Julia quer ser uma boa dona para Rufus, e deseja comprar brinquedos, comida e medicamento para ele e seus outros animais resgatados, porém está sem tempo devido a sua agitada rotina de vendedora.
 
 Um dia, enquanto caminhava com Rufus, Julia viu um outdoor da Petz anunciando o seu aplicativo. O anúncio dizia que o aplicativo oferecia dicas de cuidados para animais de estimação, informações sobre saúde e bem-estar, além de serviços como agendamento de consultas e compras online.
 
@@ -35,11 +35,14 @@ Com o tempo, Marcos começou a recomendar o aplicativo da Petz para outros donos
 
 Legendas:
 
-* ST- Storytelling
+* ST - Storytelling
 * RF - Requisito Funcional
 * RNF - Requisito Não Funcional
 
 ### Aplicativo da Petz
+
+### Requisitos Funcionais
+ 
 | ID | Requisito | Tipo |
 | -------- | -------- | ---------- |
 | ST01 |Eu como usuário desejo ver o catálogo online de produtos para animais de estimação| RF |
@@ -50,8 +53,10 @@ Legendas:
 | ST06 | Eu como usuário desejo uma seção dedicada a serviços de banho e tosa com opções de agendamento | RF |
 | ST07 | Eu como usuário desejo criar listas de compras recorrentes de produtos para animais de estimação, para facilitar a compra de itens básicos | RF |
 | ST08 | Eu como usuário desejo ter um fórum e sessões de ajuda para cuidados de animais com necessidades especiais | RF |
+
 <h6 align = "center"> Tabela 1: Requisitos funcionais elicitados </h6>
 <h6 align = "center"> Fonte: Autores </h6>
+
 ### Requisitos não funcionais
 
 ||||
