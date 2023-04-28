@@ -17,7 +17,7 @@ Levando em consideração fatores como os recursos e habilidades da equipe e o d
 | [Entrevista]() | Lucas Rodrigues  |
 | [Brainstorming](./brainstorming.md) | Felipe Corrêa |
 | [Introspecção](./introspeccao.md) | Magno Luiz | 
-| [Storytelling]() | Vitor Manoel |
+| [Storytelling](./Storytelling.md) | Vitor Manoel |
 
 
 Tabela 1: Técnicas de elicitação definidas e seus responsáveis (Fonte: do autor, 2023).
