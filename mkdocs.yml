@@ -44,6 +44,7 @@ nav:
     - Perfil de usuário: elicitacao/perfil.md
     - Personas: elicitacao/personas.md
     - Brainstorming: elicitacao/brainstorming.md
+    - Introspecção: elecitacao/introspeccao.md
 
 markdown_extensions:
   - tables

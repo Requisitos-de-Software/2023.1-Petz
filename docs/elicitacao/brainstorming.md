@@ -17,7 +17,7 @@ A reunião se passará às 17:30 do dia 27/04/2023 (quinta-feira).
 ## Requisitos elicitados
 
 Para a organização dos requisitos elicitados na sessão de _brainstorming_, cada requisito será marcado com uma _tag_ específica. Os requisitos desta técnica serão marcados com _tags_ como BRXX,
-onde BR marca a técnica de elicitação e XX representa o número do requisit elicitado. Um requisito qualquer, por exemplo, poderia ser marcado com a tag BR07.
+onde BR marca a técnica de elicitação e XX representa o número do requisito elicitado. Um requisito qualquer, por exemplo, poderia ser marcado com a tag BR07.
 
 ## Referências Bibliográficas
 
