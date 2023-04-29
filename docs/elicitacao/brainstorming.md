@@ -16,7 +16,7 @@ A reunião ocorreu das 20h às 20:40h do dia 28/04/2023.
 
 ### Participantes
 
-Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros quatro participantes na reunião. Para a preservação de sua anonimidade, seus nomes não serão descritos neste ou em qualquer outro artefato a ser produzido pelo grupo. No entanto, a fim de registrar uma lista de participantes, serão criados nomes falsos a partir da ferramenta [Fake Name Generator](https://www.fakenamegenerator.com/) e estes serão registradoos na tabela 1 com uma letra F entre parênteses (F), junto aos nomes dos membros da equipe.
+Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros quatro participantes na reunião. Para a preservação de sua anonimidade, seus nomes não serão descritos neste ou em qualquer outro artefato a ser produzido pelo grupo. No entanto, a fim de registrar uma lista de participantes, serão criados nomes falsos a partir da ferramenta [Fake Name Generator](https://www.fakenamegenerator.com/) e estes serão registrados na tabela 1 com uma letra F entre parênteses (F), junto aos nomes dos membros da equipe.
 
 <center>
 
