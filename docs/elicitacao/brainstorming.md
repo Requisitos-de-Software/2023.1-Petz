@@ -52,31 +52,31 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 
 | Tag  | Requisito                                         | Tipo |
 | ---- | ------------------------------------------------- | ---- |
-| BR01 | Compra de ração                                   | RF   |
-| BR02 | Assinatura de produtos                            | RF   |
-| BR03 | Pesquisa eficiente                                | RNF  |
-| BR04 | Lista de compras frequentes                       | RF   |
-| BR05 | Criar perfil para o pet                           | RF   |
-| BR06 | Sugestão de produtos a partir de um perfil        | RF   |
-| BR07 | Marcar banho e tosa                               | RF   |
-| BR08 | Avaliação e recomendações                         | RF   |
-| BR09 | Promoções                                         | RF   |
-| BR10 | Blog com dicas sobre pets                         | RF   |
-| BR11 | Pagina para ver loja mais próxima                 | RF   |
-| BR12 | Marcar consulta veterinária                       | RF   |
-| BR13 | Sistema de trasporte                              | RF   |
-| BR14 | Página para eventos(adoção, vacinação, etc...)    | RF   |
-| BR15 | Entrega de produtos                               | RF   |
-| BR16 | Recomendações eficientes                          | RNF  |
-| BR17 | Aba de comunidade                                 | RF   |
-| BR18 | Avisos médicos                                    | RF   |
-| BR19 | Avisos sobre vacinas a partir do perfil           | RF   |
-| BR20 | Plano de assinatura a partir do perfil            | RF   |
-| BR21 | Plano de fidelidade com descontos                 | RF   |
-| BR22 | Filtros e classificação por categorias            | RF   |
-| BR23 | Serviço de hotelaria/creche                       | RF   |
-| BR24 | Serviço de adestramento                           | RF   |
-| BR25 | Visualizar eventos e locais pet-friendly próximos | RF   |
+| BR01 | Eu, como usuário, devo conseguir comprar ração     | RF   |
+| BR02 | Eu, como usuário, devo poder assinar produtos pelo aplicativo | RF   |
+| BR03 | O sistema deve ter uma pesquisa eficiente         | RNF  |
+| BR04 | O usuário deve ser capaz de registrar uma lista de compras frequentes | RF   |
+| BR05 | Eu, como usuário, devo conseguir criar perfil para o pet | RF   |
+| BR06 | O sistema deve realizar a sugestão de produtos a partir de um perfil | RF   |
+| BR07 | Eu, como usuário, devo ser capaz de marcar banho e tosa no aplicativo | RF   |
+| BR08 | Eu, como usuário, devo poder acessar a avaliação e recomendações de um produto | RF   |
+| BR09 | Eu, como usuário, devo poder consultar e me beneficiar de promoções| RF   |
+| BR10 | Eu, como usuário, devo poder acessar um blog com dicas sobre pets no aplicativo | RF   |
+| BR11 | Eu, como usuário, devo ser capaz de consultar a loja mais próxima | RF   |
+| BR12 | Eu, como usuário, devo ser capaz de marcar consulta veterinária | RF   |
+| BR13 | O sistema deve permitir a solicitação de um sistema de trasporte para pets| RF   |
+| BR14 | Eu, como usuário, devo poder consultar uma página para eventos(adoção, vacinação, etc...)    | RF   |
+| BR15 | Eu, como usuário, devo poder solicitar a entrega de produtos| RF   |
+| BR16 | O sistema deve realizar recomendações eficientes baseadas no perfil do usuário| RNF  |
+| BR17 | Eu, como usuário, desejo poedr acessar uma aba de comunidade | RF   |
+| BR18 | Eu, como usuário, desejo receber avisos médcos para meu pet | RF   |
+| BR19 | Eu, como usuário, desejo receber avisos sobre vacinas a partir do perfil do pet | RF   |
+| BR20 | Eu, como usuário, desejo ter a opção de um plano de assinatura a partir de meu perfil | RF   |
+| BR21 | Eu, com usuário, desejo poder cadastrar-me em um plano de fidelidade com descontos | RF   |
+| BR22 | O sistema deve possuir filtros e classificação por categorias para os produtos| RF   |
+| BR23 | Eu, como usuário, desejo poder solicitar um serviço de hotelaria/creche para meu pet | RF   |
+| BR24 | Eu, como usuário, desejo poder solicitar um serviço de adestramento para meu pet | RF   |
+| BR25 | Eu, como usuário, desejo poder visualizar eventos e locais pet-friendly próximos | RF   |
 
 </center>
 

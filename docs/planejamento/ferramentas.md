@@ -48,4 +48,4 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 | Versão | Data     | Descrição                               | Autor(es)     | Revisor(es)   |
 | ------ | -------- | --------------------------------------- | ------------- | ------------- |
 | `1.0`  | 13/04/23 | Criação e organização do artefato       | Pedro Muniz   | Felipe Corrêa |
-| `1.1`  | 29/04/23 | Adiçãoda ferramenta Fake Name Generator | Felipe Corrêa | Magno Luiz    |
+| `1.1`  | 29/04/23 | Adição da ferramenta Fake Name Generator | Felipe Corrêa | Magno Luiz    |
