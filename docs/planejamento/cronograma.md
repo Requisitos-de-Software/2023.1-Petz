@@ -19,6 +19,9 @@ As entregas serão divididas em tarefas e atribuídas aleatoriamente à cada int
 | Etapa 6|Pós-Rastreabilidade - Gerência II|15/06/2023|21/06/2023|
 | Etapa 7|Entrega final - Verificação dos artefatos|12/06/2023|05/07/2023|
 
+<h6 align = "center"> Tabela 1: Cronograma Geral apresentando as etapas do projeto </h6>
+<h6 align = "center"> Fonte: Autores </h6>
+
 
 ## Etapa 1
 
@@ -34,10 +37,12 @@ Tabela da Etapa 1 possui as atividades de planejamento do projeto e Pré-Rastrea
 |GitHub Pages|	Pedro Muniz|	Samuel Sato|	12/04/2023|	14/04/2023|	15/04/2023|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	14/04/2023|	15/04/2023|	16/04/2023|
 
+<h6 align = "center"> Tabela 2: Cronograma da etapa de planejamento </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Etapa 2: Elicitação – Técnicas e Priorização
 
-Perfil dos usuários, personas, técnicas de elecitação usadas e que serão usadas, técnicas priorização usadas e que serão
+Perfil dos usuários, personas, técnicas de elicitação usadas e que serão usadas, técnicas priorização usadas e que serão
 usadas no projeto
 
 
@@ -55,6 +60,8 @@ Tabela da Etapa 2 possui as atividades de elicitação de requisitos bem como se
 |Priorização|	Lucas Rodrigues|	Magno Luiz	|25/04/2023	|27/04/2023	|28/04/2023|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes	|27/04/2023	|30/04/2023	|30/04/2023|
 
+<h6 align = "center"> Tabela 3: Cronograma da Etapa de Elicitação de Requisitos - Técnicas de elicitação e priorização </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Etapa 3: Modelagem de Requisitos
 
@@ -71,6 +78,8 @@ Tabela da Etapa 3 possui as atividades de modelagem de requisitos bem como seus 
 |Especificação Suplementar|	Vitor Manoel|	Felipe Corrêa|07/05/2023|10/05/2023|14/05/2023		|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	14/05/2023|	16/05/2023|	17/05/2023|
 
+<h6 align = "center"> Tabela 4: Cronograma da etapa de Modelagem de requisitos </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Etapa 4: Modelagem de Requisitos - Ágil
 
@@ -83,6 +92,8 @@ Tabela da Etapa 4 possui as atividades de modelagem de requisitos - agil bem com
 |NFR Framework|	Magno Luiz|	Pedro Muniz|18/05/2023|20/05/2023|22/05/2023			|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	20/04/2023|	23/04/2023|	24/05/2023|
 
+<h6 align = "center"> Tabela 5: Cronograma da Etapa de Modelagem de requisitos - continuação </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Etapa 5.1: Análise de Requisitos: Verificação e Validação
 
@@ -94,6 +105,8 @@ Tabela da Etapa 5.1 possui as atividades de análise de requisitos bem como seus
 |Validação dos requisitos|	Samuel Sato|	Vitor Manoel|25/05/2023|03/06/2023|04/06/2023			|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	04/06/2023|	06/06/2023|	07/06/2023|
 
+<h6 align = "center"> Tabela 6: Cronograma da Etapa de verificação e validação - parte I</h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Etapa 5.2: Análise de Requisitos: Verificação e Validação
 
@@ -105,6 +118,9 @@ Tabela da Etapa 5.2 possui as atividades de análise de requisitos bem como seus
 |Validação dos requisitos|	Felipe Corrêa|	Magno Luiz|08/06/2023|11/06/2023|11/06/2023			|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	11/06/2023|	13/06/2023|	14/06/2023|
 
+<h6 align = "center"> Tabela 7: Cronograma da Etapa de verificação e validação - parte II</h6>
+<h6 align = "center"> Fonte: Autores </h6>
+
 ## Etapa 6: Pós-Rastreabilidade - Gerência II
 
 Tabela da Etapa 6 possui as atividades para a realização da Pós-Rastreabilidade dos requisitos bem como seus responsáveis, revisores e prazos
@@ -114,6 +130,9 @@ Tabela da Etapa 6 possui as atividades para a realização da Pós-Rastreabilida
 |Backward From|	Magno Luiz|	Pedro Muniz|15/06/2023|18/06/2023|20/06/2023			|
 |Forward From|	Pedro Muniz|	Samuel Sato|15/06/2023|18/06/2023|20/06/2023		|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	18/06/2023|	20/06/2023|	21/06/2023|
+
+<h6 align = "center"> Tabela 8: Cronograma da Etapa de pós-rastreabilidade </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Etapa 7: Entrega Final
 
@@ -126,6 +145,8 @@ Tabela da Etapa 7 possui as atividades de validação e verificação final do p
 |Relato da verificação dos artefatos e ajustes|	Vitor Manoel|	Magno Luiz|27/06/2023|01/07/2023|02/07/2023			|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	02/07/2023|	04/07/2023|	04/07/2023|
 
+<h6 align = "center"> Tabela 9: Cronograma da etapa da entrega final </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## Referências bibliográficas
 
@@ -138,3 +159,4 @@ Tabela da Etapa 7 possui as atividades de validação e verificação final do p
 |`1.0`|14/04/2023|Criação do cronograma de atividades| Samuel Sato |Pedro Muniz|
 |`1.1`|15/04/2023|Alteração nas datas das atividades| Samuel Sato |Vitor Manoel|
 |`1.2`|16/04/2023|Adição de descrição das etapas| Samuel Sato |Felipe Corrêa|
+|`1.3`|26/04/2023|Adição de legendas nas tabelas| Vitor Manoel | Pedro Muniz |
