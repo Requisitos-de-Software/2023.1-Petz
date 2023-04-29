@@ -8,23 +8,88 @@ _Brainstorming_ é uma técnica de elicitação de requisitos de software que ob
 
 ### Local
 
-A reunião será executada online via Microsoft Teams
+A reunião foi executada via Google Meet.
 
 ### Data e Horário
 
-A reunião se passará às 17:30 do dia 27/04/2023 (quinta-feira). 
+A reunião ocorreu das 20h às 20:40h do dia 28/04/2023.
+
+### Participantes
+
+Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros quatro participantes na reunião. Para a preservação de sua anonimidade, seus nomes não serão descritos neste ou em qualquer outro artefato a ser produzido pelo grupo. No entanto, a fim de registrar uma lista de participantes, serão criados nomes falsos a partir da ferramenta [Fake Name Generator](https://www.fakenamegenerator.com/) e estes serão registrados na tabela 1 com uma letra F entre parênteses (F), junto aos nomes dos membros da equipe.
+
+<center>
+
+**Participantes**
+
+| Nome                       |
+| -------------------------- |
+| Bruno Cavalcanti Gomes (F) |
+| Davi Costa Dias (F)        |
+| Felipe Mastromauro Corrêa  |
+| Murilo Castro Ferreira (F) |
+| Pedro Ferreira Muniz       |
+| Tânia Silva Barbosa (F)    |
+
+</center>
+
+<h6 align = "center"> Tabela 1: Lista de participantes da reunião</h6>
+<h6 align = "center"> Fonte: Do autor </h6>
 
 ## Requisitos elicitados
 
-Para a organização dos requisitos elicitados na sessão de _brainstorming_, cada requisito será marcado com uma _tag_ específica. Os requisitos desta técnica serão marcados com _tags_ como BRXX,
-onde BR marca a técnica de elicitação e XX representa o número do requisito elicitado. Um requisito qualquer, por exemplo, poderia ser marcado com a tag BR07.
+Para a organização dos requisitos elicitados na sessão de _brainstorming_, cada requisito será marcado com uma _tag_ específica. A legenda abaixo marca o significado das tags e de outras uas siglas relevantes para o processo de elicitação de requisitos.
+
+Legendas:
+
+- BR: Brainstorming
+- RF - Requisito Funcional
+- RNF - Requisito Não Funcional
+
+A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre funcionais e não funcionais.
+
+<center>
+
+| Tag  | Requisito                                         | Tipo |
+| ---- | ------------------------------------------------- | ---- |
+| BR01 | Eu, como usuário, devo conseguir comprar ração     | RF   |
+| BR02 | Eu, como usuário, devo poder assinar produtos pelo aplicativo | RF   |
+| BR03 | O sistema deve ter uma pesquisa eficiente         | RNF  |
+| BR04 | O usuário deve ser capaz de registrar uma lista de compras frequentes | RF   |
+| BR05 | Eu, como usuário, devo conseguir criar perfil para o pet | RF   |
+| BR06 | O sistema deve realizar a sugestão de produtos a partir de um perfil | RF   |
+| BR07 | Eu, como usuário, devo ser capaz de marcar banho e tosa no aplicativo | RF   |
+| BR08 | Eu, como usuário, devo poder acessar a avaliação e recomendações de um produto | RF   |
+| BR09 | Eu, como usuário, devo poder consultar e me beneficiar de promoções| RF   |
+| BR10 | Eu, como usuário, devo poder acessar um blog com dicas sobre pets no aplicativo | RF   |
+| BR11 | Eu, como usuário, devo ser capaz de consultar a loja mais próxima | RF   |
+| BR12 | Eu, como usuário, devo ser capaz de marcar consulta veterinária | RF   |
+| BR13 | O sistema deve permitir a solicitação de um sistema de trasporte para pets| RF   |
+| BR14 | Eu, como usuário, devo poder consultar uma página para eventos(adoção, vacinação, etc...)    | RF   |
+| BR15 | Eu, como usuário, devo poder solicitar a entrega de produtos| RF   |
+| BR16 | O sistema deve realizar recomendações eficientes baseadas no perfil do usuário| RNF  |
+| BR17 | Eu, como usuário, desejo poedr acessar uma aba de comunidade | RF   |
+| BR18 | Eu, como usuário, desejo receber avisos médcos para meu pet | RF   |
+| BR19 | Eu, como usuário, desejo receber avisos sobre vacinas a partir do perfil do pet | RF   |
+| BR20 | Eu, como usuário, desejo ter a opção de um plano de assinatura a partir de meu perfil | RF   |
+| BR21 | Eu, com usuário, desejo poder cadastrar-me em um plano de fidelidade com descontos | RF   |
+| BR22 | O sistema deve possuir filtros e classificação por categorias para os produtos| RF   |
+| BR23 | Eu, como usuário, desejo poder solicitar um serviço de hotelaria/creche para meu pet | RF   |
+| BR24 | Eu, como usuário, desejo poder solicitar um serviço de adestramento para meu pet | RF   |
+| BR25 | Eu, como usuário, desejo poder visualizar eventos e locais pet-friendly próximos | RF   |
+
+</center>
+
+<h6 align = "center"> Tabela 2: Requisitos extraídos durante a reunião de brainstorming</h6>
+<h6 align = "center"> Fonte: dos autores </h6>
 
 ## Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
- 
- |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
-| -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 26/04/23 | Criação da página da técnica de elicitação | Felipe Corrêa       | Pedro Muniz  |
+
+| Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es) |
+| ------ | -------- | ------------------------------------------ | ------------- | ----------- |
+| `1.0`  | 26/04/23 | Criação da página da técnica de elicitação | Felipe Corrêa | Pedro Muniz |
+| `1.1`  | 28/04/23 | Adição dos requisitos                      | Felipe Corrêa | Magno Luiz  |
