@@ -1,0 +1,114 @@
+# Questionário
+
+## Introdução
+
+O questionário é uma técnica que permite obter informações de um numeroso público-alvo de forma rápida. Tal técnica possibilita analisar as resposta de uma amostra da população. Assim, a análise das respostas do questionário auxiliam a definir entender o público alvo.
+
+## Metodologia 
+
+Para a coleta de dados, foi utilizado a plataforma Google Forms. Foram criadas perguntas a fim de entender os usuários e potenciais usuários do aplicativo Petz. Dessa forma, as perguntas realizadas têm dois objetivos: Feedback do funcionamento do aplicativo e obtenção de dados sobre o perfil dos usuários.
+
+Foram aplicadas duas condições para tratativa dos dados obtidos pelas respostas do questionário. É necessário que a resposta da questão 1 seja positiva ou que possua algum pet.
+
+Questionário aplicado no grupo de Engenharia de Software do Telegram e grupos familiares e de instituições que os integrantes do grupo participam. O intervalo de data que o questionário ficou disponível foi de 27/04/2023 até 29/04/2023.
+
+
+## Questões
+
+1. Você já usou o Petz? (sim/não)
+2. Qual sua faixa etária? (até 18, 19-24, 25-30, 30-40, 40 ou mais)
+3. Qual sua ocupação atual? (Desempregado, Empregado do setor público, Empregado do setor privado, Estudante)
+4. Quantos animais de estimação você possui? (0,1,2,3,4, 5 ou mais)
+5. Você já realizou compras pelo aplicativo Petz? (sim/não)
+6. Você já agendou banho ou tosa pelo aplicativo Petz? (sim/não)
+7. Com que frequência você utiliza o aplicativo Petz? (1,2,3,4,5)[Nunca utilizo o aplicativo / Utilizo com muita frequência]
+8. Como você classificaria sua experiência com o aplicativo? [insatisfeito / muito satisfeito]
+9. Quais foram suas maiores dificuldades ao utilizar o aplicativo Petz? (Marque até cinco opções)
+10. O que você espera de um aplicativo de petshop como o Petz?  (Marque até três opções)
+
+
+## Respostas
+
+### Questão 1
+![Gráfico pessoas que já usaram Petz](../assets/questionario/usoPetz.png)
+
+### Questão 2
+![Gráfico faixa etária](../assets/questionario/faixaEtaria.png)
+
+### Questão 3
+![Gráfico ocupação](../assets/questionario/ocupacao.png)
+
+### Questão 4
+![Gráfico quantidades de animais de estimação](../assets/questionario/numeroAnimais.png)
+
+### Questão 5
+![Gráfico já realizou compras pelo aplicativo Petz](../assets/questionario/comprasPetz.png)
+
+### Questão 6
+![Gráfico já agendou banho ou tosa pelo aplicativo Petz](../assets/questionario/agendaBanhoTosa.png)
+
+### Questão 7
+![Gráfico frequência de uso do aplicativo Petz](../assets/questionario/frequencia.png)
+
+### Questão 8
+![Gráfico classificação de experiência](../assets/questionario/experiencia.png)
+
+### Questão 9
+![Gráfico de dificuldades ao utilizar Petz](../assets/questionario/dificuldades.png)
+
+### Questão 10
+![Gráfico de expectativas ao utilizar Petz](../assets/questionario/expectativas.png)
+
+
+### As respostas abaixo são de pessoas que já utilizaram o aplicativo Petz em algum momento.
+
+
+| Faixa etária | Ocupação | Número de Pets | Já realizou compras pelo app | Já agendou banho ou tosa pelo app | Frequência de uso do app | Classificação da experiência com o app | Maiores dificuldades ao usar o app | O que esperar de um app como Petz |
+|--------------|----------|----------------|------------------------------|----------------------------------|--------------------------|---------------|---------------|-------------------------|
+|De 19 a 24 anos|	Estudante|	1	|Sim	|Não|	2|	5|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Agendar consultas com veterinários|
+|De 25 a 30 anos|	Estudante|	2|	Sim	|Não|	1	|5|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções|
+|De 19 a 24 anos|	Estudante|	5 ou mais|	Não|	Não|	2|	3	|Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos|
+|40 anos ou mais|	Estudante|	1|	Sim|	Não|	3|	4|	Encontrar os produtos desejados|	Verificar preços e disponibilidade de produtos|
+|18 anos ou menos|	Estudante|	2|	Sim|	Não|	3|	4|	Não tive dificuldades|	Realizar compras online, Receber ofertas e promoções|
+|40 anos ou mais|	Empregado no setor público|	4|	Não|	Sim|	1|	3|	Não tive dificuldades|	Verificar preços e disponibilidade de produtos|
+|40 anos ou mais|	Estudante|	1|	Não|	Não|	1|	5|		|Verificar preços e disponibilidade de produtos, Receber ofertas e promoções, Agendar consultas com veterinários|
+|De 19 a 24 anos|	Empregado no setor privado|	0|	Sim|	Não|	2|	4|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções|
+|De 19 a 24 anos|	Estudante|	1|	Sim|	Não|	3|	5|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções, Agendar banho e tosa, Agendar consultas com veterinários|
+|De 19 a 24 anos|	Estudante|	1|	Sim|	Não|	2|	4|	Não tive dificuldades| Encontrar os produtos desejados	Realizar compras online, Verificar preços e disponibilidade de produtos|
+|40 anos ou mais|	Empregado no setor privado|	1|	Não|	Sim|	1|	2|	Não tive dificuldades| 	Verificar preços e disponibilidade de produtos, Receber ofertas e promoções, Agendar banho e tosa, Agendar consultas com veterinários|
+|40 anos ou mais|	Empregado no setor privado|	1|	Não|	Não|	1|	2|	Não tive dificuldades|	Verificar preços e disponibilidade de produtos, Receber ofertas e promoções|
+|De 19 a 24 anos|	Estudante|	5 ou mais|	Sim|	Não|	4|	5|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções|
+|De 19 a 24 anos|	Estudante|	2|	Sim|	Não|	2|	2|	Efetuar pagamento, Cadastrar animal de estimação|	Realizar compras online, Receber ofertas e promoções, Agendar banho e tosa|
+|De 19 a 24 anos|	Estudante|	1|	Sim|	Não|	1|	4|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Agendar consultas com veterinários|
+|18 anos ou menos|	Estudante|	0|	Sim|	Não|	2|	4|	Não tive dificuldades|	Realizar compras online, Agendar banho e tosa, Agendar consultas com veterinários|
+|De 19 a 24 anos|	Estudante|	1|	Não|	Não|	2|	4|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções, Agendar banho e tosa, Agendar consultas com veterinários|
+|De 25 a 30 anos|	Estudante|	1|	Sim|	Não|	3|	4|	Realizar login, Criar lista de compras|	Verificar preços e disponibilidade de produtos|
+|De 19 a 24 anos|	Estudante|	1|	Sim|	Não|	2|	5|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções|
+|De 19 a 24 anos|	Empregado no setor privado|	2|	Sim|	Não|	4|	4|	Alterar local da entrega recorrente|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções|
+|De 25 a 30 anos|	Empregado no setor privado|	2|	Sim|	Não|	3|	4|	|Encontrar os produtos desejados|	Realizar compras online, Verificar preços e disponibilidade de |produtos
+|De 19 a 24 anos|	Estudante|	1|	Sim|	Não|	2|	5|	Não tive dificuldades|	Realizar compras online, Verificar preços e disponibilidade de produtos, Receber ofertas e promoções, Agendar banho e tosa, Agendar consultas com veterinários|
+|De 31 a 40 anos|	Empregado no setor público|	2|	Sim|	Sim|	3|	3|	Agendar banho e tosa|	Realizar compras online, Verificar preços e disponibilidade de produtos, Agendar banho e tosa
+|De 19 a 24 anos|	Estudante|	3|	Sim|	Sim|	4|	3|	Utilizar filtros de busca|	Realizar compras online, Verificar preços e disponibilidade de produtos, Agendar banho e tosa|
+
+Tabela de respostas de pessoas que já usaram o aplicativo Petz
+
+## Análise
+
+Levando em consideração o ambiente de aplicação do questionário, é possível compreender que os usuários são em sua maioria estão na faixa etária de 18 até 25 anos, possuem 1 animal de estimação, já realizaram compras pelo aplicativo e nunca agendaram banho ou tosa pelo aplicativo. Além disso, a maioria das respostas teve boa experiência com o aplicativo.
+
+Conforme a tabela acima e com base nos dados coletados, os usuários de aplicativos buscam se manter informados sobre preços e promoções de produtos, além de buscarem serviços como consultas veterinárias e banho e tosa de seus pets.
+
+Observação: Algumas pessoas se confundiram as perguntas sobre o aplicativo Petz com a Loja física Petz. Contudo, é possível observar alguns padrões dos donos de pet na pesquisa.
+
+## Referências Bibliográficas
+
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de Requisitos: Software Orientado ao Negócio. Brasport, 10 de agosto de 2016.
+
+## Histórico de versão
+
+|  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
+| -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
+|  `1.0`   | 27/04/23 | Criação da versão inicial do questionário | Samuel Sato      | Magno Luiz  |
+|  `1.1`   | 29/04/23 | Adição de dados sobre as respostas | Samuel Sato      | Magno Luiz  |
+
+
