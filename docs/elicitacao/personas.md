@@ -25,7 +25,9 @@ Segundo Barbosa, um elenco de personas deve possuir entre 3 e 12 personas, sendo
 
 ![Foto de Marcos](../assets/personas/marcos.png){ width="300" }
 
-Figura 1: Persona Marcos Ribeiro Costa(Fonte: This Person Does Not Exist[3]).
+<h6 align = "center"> Figura 1: Persona Marcos Ribeiro Costa </h6>
+<h6 align = "center"> Fonte: This Person Does Not Exist[3] </h6>
+
 
 </center>
 
@@ -48,7 +50,8 @@ Figura 1: Persona Marcos Ribeiro Costa(Fonte: This Person Does Not Exist[3]).
 
 ![Foto de Anete](../assets/personas/anete.png){ width="300" }
 
-Figura 1: Persona Anete Marcondes Alves(Fonte: This Person Does Not Exist[3]).
+<h6 align = "center"> Figura 2: Persona Anete Marcondes Alves </h6>
+<h6 align = "center"> Fonte: This Person Does Not Exist[3] </h6>
 
 </center>
 
@@ -73,7 +76,8 @@ Figura 1: Persona Anete Marcondes Alves(Fonte: This Person Does Not Exist[3]).
 
 ![Foto de Gilson](../assets/personas/gilson.png){ width="300" }
 
-Figura 1: Persona Gilson Pereira Monteiro(Fonte: This Person Does Not Exist[3]).
+<h6 align = "center"> Figura 3: Persona Gilson Pereira Monteiro </h6>
+<h6 align = "center"> Fonte: This Person Does Not Exist[3] </h6>
 
 </center>
 
@@ -96,7 +100,8 @@ Figura 1: Persona Gilson Pereira Monteiro(Fonte: This Person Does Not Exist[3]).
 
 ![Foto de Julia](../assets/personas/julia.png){ width="300" }
 
-Figura 1: Persona Julia Marcondes Vaz(Fonte: This Person Does Not Exist[3]).
+<h6 align = "center"> Figura 4: Persona Julia Marcondes Vaz </h6>
+<h6 align = "center"> Fonte: This Person Does Not Exist[3] </h6>
 
 </center>
 
@@ -121,7 +126,8 @@ Figura 1: Persona Julia Marcondes Vaz(Fonte: This Person Does Not Exist[3]).
 
 ![Foto de Inôcencio](../assets/personas/inocencio.png){ width="300" }
 
-Figura 1: Antipersona Inocêncio Alvárez Botelho(Fonte: This Person Does Not Exist[3]).
+<h6 align = "center"> Figura 5: Antipersona Inocêncio Alvárez Botelho </h6>
+<h6 align = "center"> Fonte: This Person Does Not Exist[3] </h6>
 
 </center>
 
@@ -151,3 +157,4 @@ Figura 1: Antipersona Inocêncio Alvárez Botelho(Fonte: This Person Does Not Ex
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 27/04/23 | Criação e organização do artefato | Pedro Muniz | Vitor Manoel |
+|  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |

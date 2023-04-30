@@ -1,12 +1,12 @@
 # Cronograma
 
-## Introdução 
+## 1. Introdução 
 
 Com base no plano de ensino disponibilizado no início do semestre, foi desenvolvido um cronograma com as principais atividades que a equipe realizará.
 
 As entregas serão divididas em tarefas e atribuídas aleatoriamente à cada integrante da equipe, por conseguinte, o desenvolvimento do projeto seja realizado de forma produtiva e sustentável maximizando o potencial da equipe.
 
-## Cronograma Geral
+## 2. Cronograma Geral
 
 | Etapas | Descrição | Data início | Data Término |
 |--------|-----------|-------------|--------------|
@@ -20,10 +20,10 @@ As entregas serão divididas em tarefas e atribuídas aleatoriamente à cada int
 | Etapa 7|Entrega final - Verificação dos artefatos|12/06/2023|05/07/2023|
 
 <h6 align = "center"> Tabela 1: Cronograma Geral apresentando as etapas do projeto </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
 
-## Etapa 1
+## 3. Etapa 1
 
 Tabela da Etapa 1 possui as atividades de planejamento do projeto e Pré-Rastreabilidade.
 
@@ -38,9 +38,9 @@ Tabela da Etapa 1 possui as atividades de planejamento do projeto e Pré-Rastrea
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	14/04/2023|	15/04/2023|	16/04/2023|
 
 <h6 align = "center"> Tabela 2: Cronograma da etapa de planejamento </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 2: Elicitação – Técnicas e Priorização
+## 4. Etapa 2: Elicitação – Técnicas e Priorização
 
 Perfil dos usuários, personas, técnicas de elicitação usadas e que serão usadas, técnicas priorização usadas e que serão
 usadas no projeto
@@ -61,9 +61,9 @@ Tabela da Etapa 2 possui as atividades de elicitação de requisitos bem como se
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes	|27/04/2023	|30/04/2023	|30/04/2023|
 
 <h6 align = "center"> Tabela 3: Cronograma da Etapa de Elicitação de Requisitos - Técnicas de elicitação e priorização </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 3: Modelagem de Requisitos
+## 5. Etapa 3: Modelagem de Requisitos
 
 Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação
 Suplementar
@@ -79,9 +79,9 @@ Tabela da Etapa 3 possui as atividades de modelagem de requisitos bem como seus 
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	14/05/2023|	16/05/2023|	17/05/2023|
 
 <h6 align = "center"> Tabela 4: Cronograma da etapa de Modelagem de requisitos </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 4: Modelagem de Requisitos - Ágil
+## 6. Etapa 4: Modelagem de Requisitos - Ágil
 
 Tabela da Etapa 4 possui as atividades de modelagem de requisitos - agil bem como seus responsáveis, revisores e prazos
 
@@ -93,9 +93,9 @@ Tabela da Etapa 4 possui as atividades de modelagem de requisitos - agil bem com
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	20/04/2023|	23/04/2023|	24/05/2023|
 
 <h6 align = "center"> Tabela 5: Cronograma da Etapa de Modelagem de requisitos - continuação </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 5.1: Análise de Requisitos: Verificação e Validação
+## 7. Etapa 5.1: Análise de Requisitos: Verificação e Validação
 
 Tabela da Etapa 5.1 possui as atividades de análise de requisitos bem como seus responsáveis, revisores e prazos
 
@@ -106,9 +106,9 @@ Tabela da Etapa 5.1 possui as atividades de análise de requisitos bem como seus
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	04/06/2023|	06/06/2023|	07/06/2023|
 
 <h6 align = "center"> Tabela 6: Cronograma da Etapa de verificação e validação - parte I</h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 5.2: Análise de Requisitos: Verificação e Validação
+## 8. Etapa 5.2: Análise de Requisitos: Verificação e Validação
 
 Tabela da Etapa 5.2 possui as atividades de análise de requisitos bem como seus responsáveis, revisores e prazos
 
@@ -119,9 +119,9 @@ Tabela da Etapa 5.2 possui as atividades de análise de requisitos bem como seus
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	11/06/2023|	13/06/2023|	14/06/2023|
 
 <h6 align = "center"> Tabela 7: Cronograma da Etapa de verificação e validação - parte II</h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 6: Pós-Rastreabilidade - Gerência II
+## 9. Etapa 6: Pós-Rastreabilidade - Gerência II
 
 Tabela da Etapa 6 possui as atividades para a realização da Pós-Rastreabilidade dos requisitos bem como seus responsáveis, revisores e prazos
 
@@ -132,9 +132,9 @@ Tabela da Etapa 6 possui as atividades para a realização da Pós-Rastreabilida
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	18/06/2023|	20/06/2023|	21/06/2023|
 
 <h6 align = "center"> Tabela 8: Cronograma da Etapa de pós-rastreabilidade </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Etapa 7: Entrega Final
+## 10. Etapa 7: Entrega Final
 
 Tabela da Etapa 7 possui as atividades de validação e verificação final do projeto da disciplina bem como seus responsáveis, revisores e prazos
 
@@ -146,13 +146,13 @@ Tabela da Etapa 7 possui as atividades de validação e verificação final do p
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	02/07/2023|	04/07/2023|	04/07/2023|
 
 <h6 align = "center"> Tabela 9: Cronograma da etapa da entrega final </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Referências bibliográficas
+## 11. Bibliografia
 
 > SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 14 abr. 2023;
 
-## Histórico de versão
+## 12. Histórico de versão
 
 |Versão| Data| 	Descrição| 	Autor(es)| 	Revisor(es)|
 |------|-----|-----------|-----------|-------------|

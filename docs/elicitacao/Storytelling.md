@@ -1,12 +1,12 @@
-## Introdução
+## 1. Introdução
 
 A técnica do storytelling consiste no uso de contagem de histórias em grupo de pessoas, como organizações, que serve como um método de comunicação para que os envolvidos possam compartilhar conhecimento. Os participantes são estimulados a narrar histórias relacionadas aos fatos que se deseja obter conhecimento, como a experiência na utilização de sistemas.
 
-## Metodologia
+## 2. Metodologia
 
 Esta técnica de elicitação utilizou-se de [personas](./personas.md) criadas em artefato anterior, permitindo assim criar uma história conveniente ao contexto desejado, transmitindo uma narrativa envolvente e identificável que passe uma mensagem em que seja possível extrair as informações necessárias para a elicitação dos requisitos.
 
-### Storytelling 1
+### 2.1 Storytelling 1
 Julia é uma vendedora apaixonada por animais que resgatava e cuidava de diversos cães em sua casa. Ela  adotou recentemente um cãozinho chamado Rufus. Julia quer ser uma boa dona para Rufus, e deseja comprar brinquedos, comida e medicamento para ele e seus outros animais resgatados, porém está sem tempo devido a sua agitada rotina de vendedora.
 
 Um dia, enquanto caminhava com Rufus, Julia viu um outdoor da Petz anunciando o seu aplicativo. O anúncio dizia que o aplicativo oferecia dicas de cuidados para animais de estimação, informações sobre saúde e bem-estar, além de serviços como agendamento de consultas e compras online.
@@ -18,7 +18,7 @@ Além disso, Julia adorou a facilidade de comprar produtos para Rufus diretament
 Com o aplicativo da Petz, Julia se sentiu mais segura e confiante sobre como cuidar de Rufus. Ela agora usa o aplicativo regularmente para se manter informada sobre cuidados com animais e agendar consultas com veterinários da Petz sempre que necessário.
 
 
-## Storytelling 2
+### 2.2 Storytelling 2
 
 Marcos é um publicitário recém-formado, que deseja alavancar sua carreira e está muito focado em realizar seus projetos e conquistar uma sonhada vaga em uma multinacional. Ele também é dono de um cãozinho chamado Fred. Marcos adora Fred, seu cãozinho que possui necessidades especiais, e faz de tudo para cuidar bem dele. Ele costuma comprar os melhores produtos para Fred e levá-lo regularmente ao veterinário para garantir que ele esteja sempre saudável.
 
@@ -31,7 +31,7 @@ Com o aplicativo da Petz, Marcos pôde comprar produtos para Fred de maneira mai
 Com o tempo, Marcos começou a recomendar o aplicativo da Petz para outros donos de animais de estimação, especialmente aqueles com animais com necessidades especiais. Ele percebeu que o aplicativo não só ajudava a economizar tempo e dinheiro, mas também oferecia recursos valiosos para ajudar a melhorar a qualidade de vida dos animais de estimação.
 
 
-## Requisitos Elicitados
+## 3. Requisitos Elicitados
 
 Legendas:
 
@@ -39,9 +39,9 @@ Legendas:
 * RF - Requisito Funcional
 * RNF - Requisito Não Funcional
 
-### Aplicativo da Petz
+### 3.1 Requisitos Funcionais
 
-### Requisitos Funcionais
+A tabela 1 detalha os requisitos funcionais que foram elicitados a partir da técnica de storytelling.
  
 | ID | Requisito | Tipo |
 | -------- | -------- | ---------- |
@@ -55,9 +55,11 @@ Legendas:
 | ST08 | Eu como usuário desejo ter um fórum e sessões de ajuda para cuidados de animais com necessidades especiais | RF |
 
 <h6 align = "center"> Tabela 1: Requisitos funcionais elicitados </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-### Requisitos não funcionais
+### 3.2 Requisitos não funcionais
+
+A tabela 2 detalha os requisitos não funcionais que foram elicitados a partir da técnica de storytelling.
 
 ||||
 |------|--------|------|
@@ -70,17 +72,19 @@ Legendas:
 | ST15 | Eu como usuário desejo um programa de fidelidade para clientes frequentes, oferecendo descontos e benefícios exclusivos | RNF |
 
 <h6 align = "center"> Tabela 2: Requisitos não funcionais Elicitados </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Referências bibliográficas
+## 4. Bibliografia
 
-> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
-> Storytelling - 2019.2 - Duolingo. Disponível em: https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/. Acesso em: 26 de Abril de 2023.
+> [2] Storytelling - 2019.2 - Duolingo. Disponível em: https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/. Acesso em: 26 de Abril de 2023.
 
-## Histórico de versão
+## 5. Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 26/04/23 | Criação da primeira versão do artefato storytelling | Vitor Manoel   | Felipe Corrêa |
+|  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+
 

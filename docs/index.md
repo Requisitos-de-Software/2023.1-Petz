@@ -6,10 +6,10 @@
 
 </center>
 
-## Introdução ao projeto
+## 1. Introdução ao projeto
 
 Esta documentação é dedicada aos artefatos produzidos durante a disciplina de Requisitos de Software da Universidade de Brasília no semestre 2023.1. O objetivo da equipe é realizar uma análise dos requisitos presentes no aplicativo Petz.
-## Integrantes da equipe
+## 2. Integrantes da equipe
 
 A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos os integrantes são estudantes de Engenharia de Software pela Universidade de Brasília.
 <center>
@@ -25,11 +25,11 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 
 </center>
 
-<div style="text-align: center">
-<p> Tabela 1: Integrantes da equipe (Fonte: Do autor, 2023).</p>
-</div>
+<h6 align = "center"> Tabela 1: Integrantes da equipe </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## Histórico de versão
+
+## 3. Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
@@ -37,3 +37,4 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 |  `1.2`   | 13/04/23 | Remoção de membro do grupo | Felipe Corrêa | Pedro Muniz |
 |  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Muniz | Felipe Corrêa |
 |  `1.4`   | 15/04/23 | Alteração dos ícones e adição do nome do aplicativo | Pedro Muniz | Samuel Sato |
+|  `1.5`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
