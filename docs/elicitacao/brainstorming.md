@@ -1,20 +1,20 @@
 # Brainstorming
 
-## Introdução
+## 1. Introdução
 
 _Brainstorming_ é uma técnica de elicitação de requisitos de software que objetiva aprender o tipo de características que os usuários desejam em um produto. É uma técnica que consiste em permitir aos membros da reunião responder a perguntas sobre um determinado produto ideal com ideias em um espaço sem juízo de valor das mesmas a fim de garantir variação e criatividade [1].
 
-## Informações
+## 2. Informações
 
-### Local
+### 2.1 Local
 
 A reunião foi executada via Google Meet.
 
-### Data e Horário
+### 2.2 Data e Horário
 
 A reunião ocorreu das 20h às 20:40h do dia 28/04/2023.
 
-### Participantes
+### 2.3 Participantes
 
 Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros quatro participantes na reunião. Para a preservação de sua anonimidade, seus nomes não serão descritos neste ou em qualquer outro artefato a ser produzido pelo grupo. No entanto, a fim de registrar uma lista de participantes, serão criados nomes falsos a partir da ferramenta [Fake Name Generator](https://www.fakenamegenerator.com/) e estes serão registrados na tabela 1 com uma letra F entre parênteses (F), junto aos nomes dos membros da equipe.
 
@@ -34,9 +34,9 @@ Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros qua
 </center>
 
 <h6 align = "center"> Tabela 1: Lista de participantes da reunião</h6>
-<h6 align = "center"> Fonte: Do autor </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## Requisitos elicitados
+## 3. Requisitos elicitados
 
 Para a organização dos requisitos elicitados na sessão de _brainstorming_, cada requisito será marcado com uma _tag_ específica. A legenda abaixo marca o significado das tags e de outras uas siglas relevantes para o processo de elicitação de requisitos.
 
@@ -68,11 +68,11 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 | BR14 | Eu, como usuário, devo poder consultar uma página para eventos(adoção, vacinação, etc...)    | RF   |
 | BR15 | Eu, como usuário, devo poder solicitar a entrega de produtos| RF   |
 | BR16 | O sistema deve realizar recomendações eficientes baseadas no perfil do usuário| RNF  |
-| BR17 | Eu, como usuário, desejo poedr acessar uma aba de comunidade | RF   |
+| BR17 | Eu, como usuário, desejo poder acessar uma aba de comunidade | RF   |
 | BR18 | Eu, como usuário, desejo receber avisos médcos para meu pet | RF   |
 | BR19 | Eu, como usuário, desejo receber avisos sobre vacinas a partir do perfil do pet | RF   |
 | BR20 | Eu, como usuário, desejo ter a opção de um plano de assinatura a partir de meu perfil | RF   |
-| BR21 | Eu, com usuário, desejo poder cadastrar-me em um plano de fidelidade com descontos | RF   |
+| BR21 | Eu, como usuário, desejo poder cadastrar-me em um plano de fidelidade com descontos | RF   |
 | BR22 | O sistema deve possuir filtros e classificação por categorias para os produtos| RF   |
 | BR23 | Eu, como usuário, desejo poder solicitar um serviço de hotelaria/creche para meu pet | RF   |
 | BR24 | Eu, como usuário, desejo poder solicitar um serviço de adestramento para meu pet | RF   |
@@ -81,15 +81,17 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 </center>
 
 <h6 align = "center"> Tabela 2: Requisitos extraídos durante a reunião de brainstorming</h6>
-<h6 align = "center"> Fonte: dos autores </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-## Referências Bibliográficas
+## 4. Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## Histórico de versão
+## 5. Histórico de versão
 
 | Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es) |
 | ------ | -------- | ------------------------------------------ | ------------- | ----------- |
 | `1.0`  | 26/04/23 | Criação da página da técnica de elicitação | Felipe Corrêa | Pedro Muniz |
 | `1.1`  | 28/04/23 | Adição dos requisitos                      | Felipe Corrêa | Magno Luiz  |
+| `1.2`  | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+
