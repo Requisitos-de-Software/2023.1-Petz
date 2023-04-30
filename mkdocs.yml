@@ -46,6 +46,7 @@ nav:
     - Brainstorming: elicitacao/brainstorming.md
     - Introspecção: elicitacao/introspeccao.md
     - Storytelling: elicitacao/Storytelling.md
+    - Questionário: elicitacao/questionario.md
 
 markdown_extensions:
   - tables
