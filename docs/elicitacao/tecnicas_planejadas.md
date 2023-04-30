@@ -13,7 +13,7 @@ Levando em consideração fatores como os recursos e habilidades da equipe e o d
 
 | Técnicas de elicitação | Responsável |
 | --------------------- | ----------- |
-| [Questionário]() | Samuel Sato |
+| [Questionário](./questionario.md) | Samuel Sato |
 | [Entrevista]() | Lucas Rodrigues  |
 | [Brainstorming](./brainstorming.md) | Felipe Corrêa |
 | [Introspecção](./introspeccao.md) | Magno Luiz | 

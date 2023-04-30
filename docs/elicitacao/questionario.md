@@ -100,6 +100,31 @@ Conforme a tabela acima e com base nos dados coletados, os usuários de aplicati
 
 Observação: Algumas pessoas se confundiram as perguntas sobre o aplicativo Petz com a Loja física Petz. Contudo, é possível observar alguns padrões dos donos de pet na pesquisa.
 
+## Requisitos
+
+Legendas:
+
+* QST - Questionário
+* RF - Requisito Funcional
+* RNF - Requisito Não Funcional
+
+| ID | Requisito | Tipo |
+| -------- | -------- | ---------- |
+| QST01 | O usuário deve ser capaz de se cadastrar na aplicação. | RF |
+| QST02 | O usuário deve ser capaz de cadastrar mais de um animal de estimação na aplicação. | RF |
+| QST03 | O usuário deve ser capaz de filtrar produtos. | RF |
+| QST04 | O usuário deve ser capaz de buscar produtos. | RF |
+| QST05 | O usuário deve ser capaz de criar lista de compras. | RF |
+| QST06 | O usuário deve ser capaz de editar lista de compras. | RF |
+| QST07 | O usuário deve ser capaz de comprar produtos adicionados a lista de compras. | RF |
+| QST08 | O usuário deve ser capaz de alterar local de entrega do produto. | RF |
+| QST09 | O usuário deve ser capaz de verificar preço e disponibilidade do produto. | RF |
+| QST10 | O usuário deve ser capaz de agendar banho e tosa. | RF |
+| QST11 | O usuário deve ser capaz de reportar falhas e erros. | RF |
+| QST12 | O sistema deve ser capaz de informar sobre promoções e descontos. | RF |
+| QST13 | O sistema deve ser capaz de manter seguro as informações do usuário. | RNF |
+
+
 ## Referências Bibliográficas
 
 > VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de Requisitos: Software Orientado ao Negócio. Brasport, 10 de agosto de 2016.

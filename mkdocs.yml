@@ -47,6 +47,7 @@ nav:
     - Introspecção: elicitacao/introspeccao.md
     - Storytelling: elicitacao/Storytelling.md
     - Questionário: elicitacao/questionario.md
+    - Requisitos Elicitados: elicitacao/resultadoElicitacao.md
 
 markdown_extensions:
   - tables
