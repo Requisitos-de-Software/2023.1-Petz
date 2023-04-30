@@ -121,8 +121,8 @@ Legendas:
 | QST09 | O usuário deve ser capaz de verificar preço e disponibilidade do produto. | RF |
 | QST10 | O usuário deve ser capaz de agendar banho e tosa. | RF |
 | QST11 | O usuário deve ser capaz de reportar falhas e erros. | RF |
-| QST12 | O sistema deve ser capaz de informar sobre promoções e descontos | RF |
-| QST13 | O sistema deve ser capaz de manter seguro as informações do usuário | RNF |
+| QST12 | O sistema deve ser capaz de informar sobre promoções e descontos. | RF |
+| QST13 | O sistema deve ser capaz de manter seguro as informações do usuário. | RNF |
 
 
 ## Referências Bibliográficas
