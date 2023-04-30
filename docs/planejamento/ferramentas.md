@@ -19,6 +19,7 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 | ![Ícone Canva](../assets/ferramentas/canva.png){ align=center, width="100" }                |                            [Canva](https://www.canva.com)[9]                             | Criação de elementos visuais e slides.                |
 | ![Ícone Trello](../assets/ferramentas/trello.png){ align=center, width="100" }              |                           [Trello](https://www.trello.com)[10]                            | Gestão de tarefas e datas.                            |
 | ![Ícone This Person Does Not Exist](../assets/ferramentas/tpdne.png){ align=center, width="100" } | [This Person Does Not Exist](https://this-person-does-not-exist.com/en)[11] | Geração de imagens para as personas. |
+| ![Ícone Miro](../assets/ferramentas/miro.png){ align=center, width="100" } | [Miro](https://miro.com)[12] | Criação de elementos visuais colaborativos. |
 
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -47,6 +48,8 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 
 > [11] This Person Does Not Exist, acesso em: 24 de abril de 2023. Para mais informações acesse: [link](https://this-person-does-not-exist.com/en).
 
+> [12] Miro, acesso em: 30 de abril de 2023. Para mais informações acesse: [link](https://miro.com).
+
 ## 4. Histórico de versão
 
 | Versão | Data     | Descrição                               | Autor(es)     | Revisor(es)   |
@@ -54,4 +57,5 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 | `1.0`  | 13/04/23 | Criação e organização do artefato       | Pedro Muniz   | Felipe Corrêa |
 | `1.1`  | 29/04/23 | Adição da ferramenta Fake Name Generator | Felipe Corrêa | Magno Luiz    |
 |  `1.2`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+|  `1.3`   | 30/04/23 | Adição da ferramenta Miro | Felipe Correa | Pedro Muniz |
 
