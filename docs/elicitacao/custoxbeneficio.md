@@ -1,10 +1,10 @@
 # Priorização de requisitos baseada em valor, custo e risco
 
-## Introdução
+## 1. Introdução
 
-A técnica de priorização de requisitos baseada em valor, custo e risco é um método analítico que permite a descrição matricial das prioridades de um conjunto de requisitos propostos, juntamente com as expectativas estimadas do grupo. Através da aplicação da priorização de Wiegers, que consiste em oito etapas para a definição do valor de prioridade, é possível classificar uma lista de requisitos de acordo com seu nível de prioridade, com base em análises e feedbacks dos usuários iniciais. Essa classificação é realizada de forma decrescente, de modo que os requisitos mais importantes são listados no topo da lista.
+A técnica de priorização de requisitos baseada em valor, custo e risco é um método analítico que permite a descrição matricial das prioridades de um conjunto de requisitos propostos, juntamente com as expectativas estimadas do grupo. Através da aplicação da priorização de Wiegers[2], que consiste em oito etapas para a definição do valor de prioridade, é possível classificar uma lista de requisitos de acordo com seu nível de prioridade, com base em análises e feedbacks dos usuários iniciais. Essa classificação é realizada de forma decrescente, de modo que os requisitos mais importantes são listados no topo da lista.
 
-## Priorização
+## 2. Priorização
 
 Ao utilizar a técnica de priorização de Wiegers, é possível construir uma tabela com oito valores a serem preenchidos para cada requisito listado anteriormente. Esses valores são:
 
@@ -35,7 +35,7 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 
 A Tabela 1 apresenta a definição da priorização dos requisitos elicitados por meio de valor, custo e risco:
 
-| Number | Requirements                                                                                  | Relative benefit .2 | Relative penalty 1 | Total Value | Value % | Relative cost 1 | Cost % | Relative risk 0.5 | Risk % | Priority |
+| Número | Requisitos                                                                                  | Benefício relativo | Penalidade relativa | Valor total | Valor % | Custo relativo 1 | Custo % | Risco relativo  | Risco % | Prioridade |
 |--------|-----------------------------------------------------------------------------------------------|---------------------|--------------------|-------------|---------|-----------------|--------|-------------------|--------|----------|
 | RF22   | O usuário deve ser capaz de cancelar um pedido.                                               | 7                   | 9                  | 23          | 2,59    | 2               | 0,90   | 2                 | 0,87   | 1,36     |
 | RF16   | O usuário deve ser capaz de remover itens da sacola de compras.                               | 6                   | 9                  | 21          | 2,36    | 2               | 0,90   | 2                 | 0,87   | 1,24     |
@@ -92,9 +92,10 @@ A Tabela 1 apresenta a definição da priorização dos requisitos elicitados po
 
 ## Referências Bibliográficas
 
-> [1] WIEGERS, Karl; JOY, Beatty. PART II: Requirements development. In: WIEGERS, Karl; JOY, Beatty. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16. p. 319-320. Disponível em: https://www.dirzon.com/file/telegram/HiLCoE%20-%20DRB1802/Microsoft%20Press%20Software%20Requirements%203%203rd%20Edition%20Aug%202013.pdf. Acesso em: 30 abr. 2023. 
+> [1] Rahim, Md Shamsur, AZM Ehtesham Chowdhury, and Shovra Das. "Rize: A proposed requirements prioritization technique for agile development." 2017 IEEE Region 10 Humanitarian Technology Conference (R10-HTC). IEEE, 2017. Acesso em: 30 abr. 2023. 
 
-> [2] Rahim, Md Shamsur, AZM Ehtesham Chowdhury, and Shovra Das. "Rize: A proposed requirements prioritization technique for agile development." 2017 IEEE Region 10 Humanitarian Technology Conference (R10-HTC). IEEE, 2017. Acesso em: 30 abr. 2023. 
+> [2] WIEGERS, Karl; JOY, Beatty. PART II: Requirements development. In: WIEGERS, Karl; JOY, Beatty. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16. p. 319-320. Disponível em: https://www.dirzon.com/file/telegram/HiLCoE%20-%20DRB1802/Microsoft%20Press%20Software%20Requirements%203%203rd%20Edition%20Aug%202013.pdf. Acesso em: 30 abr. 2023. 
+
 
 ## Histórico de versão
 
