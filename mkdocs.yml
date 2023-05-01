@@ -49,7 +49,9 @@ nav:
       - Questionário: elicitacao/questionario.md
       - Requisitos Elicitados: elicitacao/resultadoElicitacao.md
       - Priorização:
+          - Técnicas planejadas: elicitacao/tecnicas_priorizacao.md
           - Escala de três níveis: elicitacao/escalaTresNiveis.md
+          - MosCoW: elicitacao/moscow.md
           - Baseada em valor, custo e risco: elicitacao/custoxbeneficio.md
 
 markdown_extensions:
