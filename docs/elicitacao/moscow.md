@@ -100,7 +100,7 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 
 > [1] "Prioritizing Requirements: What Features Are Really Needed?" de Karl E. Wiegers, publicado na revista "IEEE Software" em 1999.
 
-## Histórico de versão
+## 4. Histórico de versão
 
 | Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
 | ------ | -------- | -------------------------------- | ------------- | ----------- |

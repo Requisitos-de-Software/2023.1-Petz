@@ -90,14 +90,14 @@ A Tabela 1 apresenta a definição da priorização dos requisitos elicitados po
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
-## Referências Bibliográficas
+## 3. Referências Bibliográficas
 
 > [1] Rahim, Md Shamsur, AZM Ehtesham Chowdhury, and Shovra Das. "Rize: A proposed requirements prioritization technique for agile development." 2017 IEEE Region 10 Humanitarian Technology Conference (R10-HTC). IEEE, 2017. Acesso em: 30 abr. 2023. 
 
 > [2] WIEGERS, Karl; JOY, Beatty. PART II: Requirements development. In: WIEGERS, Karl; JOY, Beatty. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16. p. 319-320. Disponível em: https://www.dirzon.com/file/telegram/HiLCoE%20-%20DRB1802/Microsoft%20Press%20Software%20Requirements%203%203rd%20Edition%20Aug%202013.pdf. Acesso em: 30 abr. 2023. 
 
 
-## Histórico de versão
+## 4. Histórico de versão
 
 | Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
 | ------ | -------- | -------------------------------- | ------------- | ----------- |
