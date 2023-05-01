@@ -11,7 +11,7 @@ Assim, os outros quadrantes da matriz podem ser descritos como:
 
 ## 2. Priorização
 
-Os requisitos foram priorizados a partir dos [resultados da elicitação](./resultadoElicitacao.md) e com base nas personas delimitadas em [artefato dedicado](./personas.md). A priorização foi realizada com o auxílio da ferramenta [Miro](https://miro.com) e está incorporada abaixo para vizualização.
+Os requisitos foram priorizados a partir dos [resultados da elicitação](./resultadoElicitacao.md) e com base nas personas delimitadas em [artefato dedicado](./personas.md). A priorização foi realizada com o auxílio da ferramenta [Miro](https://miro.com) e está incorporada abaixo para visualização.
 
 <iframe src="https://miro.com/app/live-embed/uXjVMN20OnQ=/?moveToViewport=-880,-928,1998,1536&embedId=453219108021" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen width="768" height="432" frameborder="0"></iframe>
 
