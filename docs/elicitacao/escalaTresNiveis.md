@@ -104,7 +104,7 @@ Nesta priorização, os requisitos que não serão executados estão descritos n
 <h6 align = "center"> Tabela 4: Requisitos não executados </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## Referências Bibliográficas
+## 5. Referências Bibliográficas
 
 > [1] Lichess. Priorização de requisitos. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/priorizacao/). Acesso em: 30 abr. 2023.
 
@@ -112,7 +112,7 @@ Nesta priorização, os requisitos que não serão executados estão descritos n
 
 
 
-## Histórico de versão
+## 6. Histórico de versão
 
 | Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
 | ------ | -------- | -------------------------------- | ------------- | ----------- |
