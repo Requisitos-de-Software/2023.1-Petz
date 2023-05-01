@@ -6,7 +6,7 @@ A técnica de priorização de requisitos baseada em valor, custo e risco é um 
 
 ## 2. Priorização
 
-Ao utilizar a técnica de priorização de Wiegers, é possível construir uma tabela com oito valores a serem preenchidos para cada requisito listado anteriormente. Esses valores são:
+Ao utilizar a técnica de priorização de Wiegers[2], é possível construir uma tabela com oito valores a serem preenchidos para cada requisito listado anteriormente. Esses valores são:
 
 1. Benefício relativo: Vai de 1 a 9, em que 1 significa que poucos ou nenhum usuário acharam útil o requisito, e 9 significa que o requisito seria considerado muito valioso. Possui peso 2.
 

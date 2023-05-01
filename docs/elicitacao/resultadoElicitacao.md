@@ -1,8 +1,8 @@
-# Resultado Elicitação
+# Resultados da Elicitação
 
 ## 1. Introdução
  
-Esse documento reúne o resultado de todas as técnicas de elicitação de requisitos usadas (Questionário[3], Entrevista, Brainstorming[1], Introspecção[2] e  Storytelling[4]) em um único espaço, rastreando cada um dos requisitos com suas respectivas técnicas.
+Esse documento reúne o resultado de todas as técnicas de elicitação de requisitos usadas (Questionário[3], Brainstorming[1], Introspecção[2] e  Storytelling[4]) em um único espaço, rastreando cada um dos requisitos com suas respectivas técnicas.
 
 Tabelas 1 e 2 correspondem aos requisitos funcionais e não funcionais. Os requisitos que possuem o texto destacado não foram implementados pelo aplicativo.
 

@@ -43,7 +43,7 @@ Após aplicação de questionário aos usuários e potenciais usuários do aplic
 
 | Característica             | Perfil Cliente                               |
 | -------------------------- | -------------------------------------------- |
-| Faixa etária               | 18 - 32 anos                                 |
+| Faixa etária               | 18 - 50 anos                                 |
 | Ocupação                   | Estudante/Funcionário público                |
 | Função                     | Indiferente                                  |
 | Faixa Salarial             | 2 - 12 salários mínimos                      |
