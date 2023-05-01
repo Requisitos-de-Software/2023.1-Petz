@@ -50,6 +50,7 @@ nav:
       - Requisitos Elicitados: elicitacao/resultadoElicitacao.md
       - Priorização:
           - Escala de três níveis: elicitacao/escalaTresNiveis.md
+          - Baseada em valor, custo e risco: elicitacao/custoxbeneficio.md
 
 markdown_extensions:
   - tables
