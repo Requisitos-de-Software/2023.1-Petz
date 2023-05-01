@@ -6,6 +6,8 @@ Com base no plano de ensino disponibilizado no início do semestre, foi desenvol
 
 As entregas serão divididas em tarefas e atribuídas aleatoriamente à cada integrante da equipe, por conseguinte, o desenvolvimento do projeto seja realizado de forma produtiva e sustentável maximizando o potencial da equipe.
 
+Além disso, as mudanças substanciais em cronogramas planejados serão documentadas e este artefato será acessível pelo histórico de versão.
+
 ## 2. Cronograma Geral
 
 | Etapas | Descrição | Data início | Data Término |
@@ -57,7 +59,13 @@ Tabela da Etapa 2 possui as atividades de elicitação de requisitos bem como se
 |Glossário|	Samuel Sato|	Vitor Manoel	|21/04/2023	|24/04/2023	|25/04/2023|
 |Entrevista|	Vitor Manoel|	Lucas Rodrigues	|22/04/2023	|24/04/2023	|25/04/2023|
 |Brainstorming|	Felipe Corrêa|	Lucas Rodrigues	|23/04/2023	|25/04/2023	|26/04/2023|
-|Priorização|	Lucas Rodrigues|	Magno Luiz	|25/04/2023	|27/04/2023	|28/04/2023|
+|Introspecção|	Magno Luiz|Vitor Manoel, Samuel Sato	|23/04/2023	|25/04/2023	|26/04/2023|
+|Storytelling|	Vitor Manoel |Felipe Corrêa	|23/04/2023	|25/04/2023	|26/04/2023|
+|Questionário|	Samuel Sato |Magno Luiz	|23/04/2023	|25/04/2023	|26/04/2023|
+|Escala de três níveis|	Felipe Corrêa |Pedro Muniz	|25/04/2023	|27/04/2023	|28/04/2023|
+|MoSCoW|	Lucas Cardoso |Pedro Muniz	|25/04/2023	|27/04/2023	|28/04/2023|
+|Priorização de requisitos baseada em valor, custo e risco|	Magno Luiz | Felipe Corrêa	|25/04/2023	|27/04/2023	|28/04/2023|
+|Resultados da elicitação|Pedro Muniz|Felipe Corrêa|27/04/2023|28/04/2023|28/04/2023|
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes	|27/04/2023	|30/04/2023	|30/04/2023|
 
 <h6 align = "center"> Tabela 3: Cronograma da Etapa de Elicitação de Requisitos - Técnicas de elicitação e priorização </h6>
@@ -160,3 +168,4 @@ Tabela da Etapa 7 possui as atividades de validação e verificação final do p
 |`1.1`|15/04/2023|Alteração nas datas das atividades| Samuel Sato |Vitor Manoel|
 |`1.2`|16/04/2023|Adição de descrição das etapas| Samuel Sato |Felipe Corrêa|
 |`1.3`|26/04/2023|Adição de legendas nas tabelas| Vitor Manoel | Pedro Muniz |
+|`1.4`|01/05/2023|Alteração do planejamento da [etapa 2](./versao_anterior_cronograma.md#11-disponível-ate-01052023)| Felipe Corrêa | Pedro Muniz |
