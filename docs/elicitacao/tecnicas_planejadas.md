@@ -1,4 +1,4 @@
-# Técnicas planejadas
+# Técnicas de elicitação planejadas
 
 ## 1. Introdução
 

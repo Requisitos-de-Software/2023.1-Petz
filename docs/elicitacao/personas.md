@@ -57,13 +57,13 @@ Segundo Barbosa, um elenco de personas deve possuir entre 3 e 12 personas, sendo
 
 * **Identidade:**
     * **Nome:** Anete Marcondes Alves.
-    * **Idade:** 53 anos.
+    * **Idade:** 52 anos.
     * **Profissão:** Aposentada.
     * **Moradia:** Mora em uma casa grande.
     * **Animais de estimação:** Possui dois cães de pequeno porte.
 * **Status:** Persona primária.
 * **Objetivo:** Agora que aposentou Anete apenas quer descansar e ficar tranquila, adora seus cachorros e deseja dar o maior conforto para eles. 
-* **Habilidades:** Anete possui ensino superior completo. Possui pouca facilidade com aparelhos móveis, contudo conseguiu aprender a utilizar alguns aplicativos com os filhos.
+* **Habilidades:** Anete possui ensino superior completo. Possui alguma facilidade com aparelhos móveis, contudo conseguiu aprender a utilizar alguns aplicativos com os filhos.
 * **Expectativas:** Anete espera poder comprar produtos para entrega, além de marcar banho e tosa para seus cachorros com o profissional que confia, também espera poder evitar deslocamento com serviços de leva e trás para seus _pets_.
 * **Descrição:** Anete passou sua vida trabalhando para criar seus filhos. Agora que aposentou e seus filhos saíram de casa, acabou por adotar dois pequenos cachorros que acabaram por ser seus grandes amores, substituindo a falta que tem dos filhos.
 * **Frase:** "Meus bebês são tudo para mim."

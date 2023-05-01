@@ -47,10 +47,11 @@ nav:
       - Introspecção: elicitacao/introspeccao.md
       - Storytelling: elicitacao/Storytelling.md
       - Questionário: elicitacao/questionario.md
-      - Requisitos Elicitados: elicitacao/resultadoElicitacao.md
+      - Resultados da elicitação: elicitacao/resultadoElicitacao.md
       - Priorização:
           - Escala de três níveis: elicitacao/escalaTresNiveis.md
           - Baseada em valor, custo e risco: elicitacao/custoxbeneficio.md
+          - Resultados da priorização: elicitacao/resultadoPriorizacao.md
 
 markdown_extensions:
   - tables
