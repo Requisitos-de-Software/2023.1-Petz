@@ -36,6 +36,20 @@ Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros qua
 <h6 align = "center"> Tabela 1: Lista de participantes da reunião</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+### 2.4 Termo de consentimento
+
+O termo de consentimento foi disponibilizado para todos os quatro participantes da reunião por compartilhamento de documento na plataforma Google Docs. Cada participante recebeu uma cópia do termo de consentimento no dia 28 de abril de 2023 e a assinou em sua conta do Google, sendo essas mudanças registradas pelo histórico de versão destes documentos.
+
+O documento 1 incorporado abaixo descreve o modelo do termo de consentimento entregue aos participantes.
+
+<center>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTOaOA2CSVtMMg68AXyIR46Y8gbtjk-2IBeXEuxegaMYar3-7bSTWwhQC3ylK-Oy8oSfJF91JmY9a8Q/pub?embedded=true"></iframe>
+
+</center>
+<h6 align = "center"> Documento 1: Lista de participantes da reunião</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
 ## 3. Requisitos elicitados
 
 Para a organização dos requisitos elicitados na sessão de _brainstorming_, cada requisito será marcado com uma _tag_ específica. A legenda abaixo marca o significado das tags e de outras uas siglas relevantes para o processo de elicitação de requisitos.
@@ -50,33 +64,33 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 
 <center>
 
-| Tag  | Requisito                                         | Tipo |
-| ---- | ------------------------------------------------- | ---- |
-| BR01 | Eu, como usuário, devo conseguir comprar ração     | RF   |
-| BR02 | Eu, como usuário, devo poder assinar produtos pelo aplicativo | RF   |
-| BR03 | O sistema deve ter uma pesquisa eficiente         | RNF  |
-| BR04 | O usuário deve ser capaz de registrar uma lista de compras frequentes | RF   |
-| BR05 | Eu, como usuário, devo conseguir criar perfil para o pet | RF   |
-| BR06 | O sistema deve realizar a sugestão de produtos a partir de um perfil | RF   |
-| BR07 | Eu, como usuário, devo ser capaz de marcar banho e tosa no aplicativo | RF   |
-| BR08 | Eu, como usuário, devo poder acessar a avaliação e recomendações de um produto | RF   |
-| BR09 | Eu, como usuário, devo poder consultar e me beneficiar de promoções| RF   |
-| BR10 | Eu, como usuário, devo poder acessar um blog com dicas sobre pets no aplicativo | RF   |
-| BR11 | Eu, como usuário, devo ser capaz de consultar a loja mais próxima | RF   |
-| BR12 | Eu, como usuário, devo ser capaz de marcar consulta veterinária | RF   |
-| BR13 | O sistema deve permitir a solicitação de um sistema de trasporte para pets| RF   |
-| BR14 | Eu, como usuário, devo poder consultar uma página para eventos(adoção, vacinação, etc...)    | RF   |
-| BR15 | Eu, como usuário, devo poder solicitar a entrega de produtos| RF   |
-| BR16 | O sistema deve realizar recomendações eficientes baseadas no perfil do usuário| RNF  |
-| BR17 | Eu, como usuário, desejo poder acessar uma aba de comunidade | RF   |
-| BR18 | Eu, como usuário, desejo receber avisos médcos para meu pet | RF   |
-| BR19 | Eu, como usuário, desejo receber avisos sobre vacinas a partir do perfil do pet | RF   |
-| BR20 | Eu, como usuário, desejo ter a opção de um plano de assinatura a partir de meu perfil | RF   |
-| BR21 | Eu, como usuário, desejo poder cadastrar-me em um plano de fidelidade com descontos | RF   |
-| BR22 | O sistema deve possuir filtros e classificação por categorias para os produtos| RF   |
-| BR23 | Eu, como usuário, desejo poder solicitar um serviço de hotelaria/creche para meu pet | RF   |
-| BR24 | Eu, como usuário, desejo poder solicitar um serviço de adestramento para meu pet | RF   |
-| BR25 | Eu, como usuário, desejo poder visualizar eventos e locais pet-friendly próximos | RF   |
+| Tag  | Requisito                                                                                 | Tipo |
+| ---- | ----------------------------------------------------------------------------------------- | ---- |
+| BR01 | Eu, como usuário, devo conseguir comprar ração                                            | RF   |
+| BR02 | Eu, como usuário, devo poder assinar produtos pelo aplicativo                             | RF   |
+| BR03 | O sistema deve ter uma pesquisa eficiente                                                 | RNF  |
+| BR04 | O usuário deve ser capaz de registrar uma lista de compras frequentes                     | RF   |
+| BR05 | Eu, como usuário, devo conseguir criar perfil para o pet                                  | RF   |
+| BR06 | O sistema deve realizar a sugestão de produtos a partir de um perfil                      | RF   |
+| BR07 | Eu, como usuário, devo ser capaz de marcar banho e tosa no aplicativo                     | RF   |
+| BR08 | Eu, como usuário, devo poder acessar a avaliação e recomendações de um produto            | RF   |
+| BR09 | Eu, como usuário, devo poder consultar e me beneficiar de promoções                       | RF   |
+| BR10 | Eu, como usuário, devo poder acessar um blog com dicas sobre pets no aplicativo           | RF   |
+| BR11 | Eu, como usuário, devo ser capaz de consultar a loja mais próxima                         | RF   |
+| BR12 | Eu, como usuário, devo ser capaz de marcar consulta veterinária                           | RF   |
+| BR13 | O sistema deve permitir a solicitação de um sistema de trasporte para pets                | RF   |
+| BR14 | Eu, como usuário, devo poder consultar uma página para eventos(adoção, vacinação, etc...) | RF   |
+| BR15 | Eu, como usuário, devo poder solicitar a entrega de produtos                              | RF   |
+| BR16 | O sistema deve realizar recomendações eficientes baseadas no perfil do usuário            | RNF  |
+| BR17 | Eu, como usuário, desejo poder acessar uma aba de comunidade                              | RF   |
+| BR18 | Eu, como usuário, desejo receber avisos médcos para meu pet                               | RF   |
+| BR19 | Eu, como usuário, desejo receber avisos sobre vacinas a partir do perfil do pet           | RF   |
+| BR20 | Eu, como usuário, desejo ter a opção de um plano de assinatura a partir de meu perfil     | RF   |
+| BR21 | Eu, como usuário, desejo poder cadastrar-me em um plano de fidelidade com descontos       | RF   |
+| BR22 | O sistema deve possuir filtros e classificação por categorias para os produtos            | RF   |
+| BR23 | Eu, como usuário, desejo poder solicitar um serviço de hotelaria/creche para meu pet      | RF   |
+| BR24 | Eu, como usuário, desejo poder solicitar um serviço de adestramento para meu pet          | RF   |
+| BR25 | Eu, como usuário, desejo poder visualizar eventos e locais pet-friendly próximos          | RF   |
 
 </center>
 
@@ -89,9 +103,8 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 
 ## 5. Histórico de versão
 
-| Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es) |
-| ------ | -------- | ------------------------------------------ | ------------- | ----------- |
-| `1.0`  | 26/04/23 | Criação da página da técnica de elicitação | Felipe Corrêa | Pedro Muniz |
-| `1.1`  | 28/04/23 | Adição dos requisitos                      | Felipe Corrêa | Magno Luiz  |
-| `1.2`  | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
-
+| Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es)   |
+| ------ | -------- | ------------------------------------------ | ------------- | ------------- |
+| `1.0`  | 26/04/23 | Criação da página da técnica de elicitação | Felipe Corrêa | Pedro Muniz   |
+| `1.1`  | 28/04/23 | Adição dos requisitos                      | Felipe Corrêa | Magno Luiz    |
+| `1.2`  | 30/04/23 | Padronização de legendas                   | Pedro Muniz   | Felipe Corrêa |
