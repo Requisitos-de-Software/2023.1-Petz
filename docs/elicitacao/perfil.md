@@ -37,7 +37,7 @@ Com base nestas características, a tabela 1 apresenta o perfil de usuário prin
 
 ## 3. Perfil final
 
-Após aplicação de questionário aos usuários e potenciais usuários do aplicativo, foi possível detalhar o perfil inicial para a criação de um perfil detalhado dos usuários do sistema, apresentado na tabela 2 levando em consideração as mesmas características apresentadas anteriormente.
+Após aplicação de questionário aos usuários e potenciais usuários do aplicativo, foi possível detalhar o perfil inicial para a criação de um perfil detalhado dos usuários do sistema, apresentado na tabela 2 levando em consideração as mesmas características apresentadas anteriormente. O questionário aplicado forneceu informações para a elicitação de requisitos assim como para o perfil de usuário, o questionário e suas respostas podem ser encontrados no artefato de[Questionário](./questionario.md).
 
 <center>
 
@@ -61,8 +61,7 @@ Após aplicação de questionário aos usuários e potenciais usuários do aplic
 
 ## 5. Histórico de versão
 
-| Versão | Data     | Descrição                         | Autor(es)   | Revisor(es) |
-| ------ | -------- | --------------------------------- | ----------- | ----------- |
-| `1.0`  | 26/04/23 | Criação e organização do artefato | Pedro Muniz | Samuel Sato |
-|  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
-
+| Versão | Data     | Descrição                         | Autor(es)   | Revisor(es)   |
+| ------ | -------- | --------------------------------- | ----------- | ------------- |
+| `1.0`  | 26/04/23 | Criação e organização do artefato | Pedro Muniz | Samuel Sato   |
+| `1.1`  | 30/04/23 | Padronização de legendas          | Pedro Muniz | Felipe Corrêa |
