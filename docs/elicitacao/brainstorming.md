@@ -108,3 +108,4 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 | `1.0`  | 26/04/23 | Criação da página da técnica de elicitação | Felipe Corrêa | Pedro Muniz   |
 | `1.1`  | 28/04/23 | Adição dos requisitos                      | Felipe Corrêa | Magno Luiz    |
 | `1.2`  | 30/04/23 | Padronização de legendas                   | Pedro Muniz   | Felipe Corrêa |
+| `1.3`  | 04/05/23 | Adição de termo de consentimento           | Felipe Corrêa | Samuel Sato   |
