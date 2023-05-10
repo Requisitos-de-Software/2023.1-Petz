@@ -56,6 +56,8 @@ nav:
           - MosCoW: elicitacao/moscow.md
           - Baseada em valor, custo e risco: elicitacao/custoxbeneficio.md
           - Resultados da priorização: elicitacao/resultadoPriorizacao.md
+  - Modelagem:
+      - Cenários: modelagem/cenarios.md
 
 markdown_extensions:
   - tables
