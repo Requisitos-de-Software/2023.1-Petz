@@ -8,6 +8,7 @@ Essas descrições seguem o princípio circular e o princípio do vocabulário m
 
 ## 2. Metodologia
 
+Os símbolos foram identificados a partir do uso do aplicativo Petz e dos requisitos elicitados na etapa anterior. Seguem o padrão da tabela [1], ondem cada símbolo apresenta sinônimo, noção, impacto e classificação. 
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
@@ -108,11 +109,11 @@ ESCREVER TEXTO
 |--------|----------|-------|---------|---------------|
 |Tosa|-|Serviço que usuário pode agendar para seus animais de estimação|Usuário pode agendar serviço pelo aplicativo|Objeto|
 
+### L18
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Central de atendimento|Atendimento|Formas de entrar em contato com a Petz|Usuário pode entrar em contato com a Petz pelo chat online|Objeto|
 
-</center>
-
-<h6 align = "center"> Tabela 2: Léxicos extraídos do aplicativo Petz</h6>
-<h6 align = "center"> Fonte: Autores, 2023 </h6>
 
 ## 4. Referências Bibliográficas
 
@@ -122,4 +123,4 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10
 
 | Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es)   |
 | ------ | -------- | ------------------------------------------ | ------------- | ------------- |
-| `1.0`  | 09/05/23 | Criação inicial do léxico | Samuel Sato | Lucas Rodrigues |
+| `1.0`  | 11/05/23 | Criação inicial do léxico | Samuel Sato | Lucas Rodrigues |
