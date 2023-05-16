@@ -45,7 +45,7 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
 | Ator | [Usuário]() cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário] já cadastrado no aplicativo |
+| Restrição | Aplicativo instalado no smartphone<br> [Usuário]() já cadastrado no aplicativo |
 | Episódios | 1. [Usuário]() [clica]() na [categoria]() de [produtos]() desejada.<br>2. [Usuário]() [clica]() no [produto]() desejado.<br>3. [Usuário]() [clica]() em adicionar ao [carrinho]().<br>4. [Usuário]() seleciona os dados de endereço e pagamento.<br>5. [Usuário]() [clica]() em finalizar compra. |
 | Exceção | Falha de conexão<br>Produto indisponível<br>Falta de bateria |
 | Rastreabilidade | [RF13](../elicitacao/resultadoElicitacao.md#RF13) e [RF14](../elicitacao/resultadoElicitacao.md#RF14) |
@@ -62,7 +62,7 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
 | Ator | [Usuário]() cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário] já cadastrado no aplicativo |
+| Restrição | Aplicativo instalado no smartphone<br> [Usuário]() já cadastrado no aplicativo |
 | Episódios | 1. [Usuário]() [clica]() na opção [Perfil]().<br>2. [Usuário]() [clica]() na opção Meus [pets]().<br>3. [Usuário]() [clica]() na opção Adicionar [pet]().<br>4. [Usuário]() insere as informações do animal.<br>5. [Usuário]() [clica]() em [Salvar](). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF15](../elicitacao/resultadoElicitacao.md#RF15) |
@@ -79,7 +79,7 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
 | Ator | [Usuário]() cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário] já cadastrado no aplicativo |
+| Restrição | Aplicativo instalado no smartphone<br> [Usuário]() já cadastrado no aplicativo |
 | Episódios | 1. [Usuário]() [clica]() na opção [Banho e tosa]().<br>2. [Usuário]() [clica]() na opção [Agendar Serviço]().<br>3. [Usuário]() [clica]() no [pet]() desejado.<br>4. [Usuário]() seleciona o profissional desejado.<br>5. [Usuário]() seleciona as datas e horários desejados.<br>6. [Usuário]() [clica]() em [Salvar](). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF19](../elicitacao/resultadoElicitacao.md#RF19) |
@@ -121,11 +121,28 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 <h6 align = "center"> Tabela 6: Cenário C05 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+### 3.6 C06 - Assinar um pacote periódico de [produtos]()
+
+| Elemento | Informações |
+|--|--|
+| Título | Assinar um pacote periódico de [produtos]() |
+| Objetivos | Utilizar o aplicativo para assinar um pacote periódico de <br>[produtos]() |
+| Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
+| Ator | [Usuário]() cadastrado |
+| Recursos | Smartphone<br>Acesso à internet |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado |
+| Episódios | 1. [Usuário]() adiciona os [produtos]() desejados ao [carrinho]().<br>2. [Usuário]() clica na opção [pedido periódica]().<br>3. [Usuário]() insere as informações de entrega e pagamento.<br>4. [Usuário]() insere a periodicidade do [pedido]().<br>5. [Usuário]() [clica]() na opção [Salvar](). |
+| Exceção | Falha de conexão<br>Falta de bateria |
+| Rastreabilidade | [RF33](../elicitacao/resultadoElicitacao.md#RF33) |
+
+<h6 align = "center"> Tabela 07: Cenário C06 </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
+
 ## 4. Cenários não implementados
 
 Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em funcionamento no aplicativo analisado, isso durante o período de desenvolvimento do projeto.
 
-### 4.1 C06 - Repetir um [pedido]()
+### 4.1 C07 - Repetir um [pedido]()
 
 | Elemento | Informações |
 |--|--|
@@ -139,10 +156,10 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF06](../elicitacao/resultadoElicitacao.md#RF06) |
 
-<h6 align = "center"> Tabela 7: Cenário C06 </h6>
+<h6 align = "center"> Tabela 8: Cenário C07 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-### 4.2 C07 - Registrar um [pedido]() como frequente
+### 4.2 C08 - Registrar um [pedido]() como frequente
 
 | Elemento | Informações |
 |--|--|
@@ -156,7 +173,7 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF24](../elicitacao/resultadoElicitacao.md#RF24) |
 
-<h6 align = "center"> Tabela 8: Cenário C07 </h6>
+<h6 align = "center"> Tabela 9: Cenário C08 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
 ### 4.3 C08 - Reportar um erro
@@ -173,25 +190,10 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF30](../elicitacao/resultadoElicitacao.md#RF30) |
 
-<h6 align = "center"> Tabela 9: Cenário C08 </h6>
-<h6 align = "center"> Fonte: Autores, 2023 </h6>
-
-### 4.4 C09 - Assinar um pacote periódico de [produtos]()
-
-| Elemento | Informações |
-|--|--|
-| Título | Assinar um pacote periódico de [produtos]() |
-| Objetivos | Utilizar o aplicativo para assinar um pacote periódico de <br>[produtos]() |
-| Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
-| Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado |
-| Episódios | 1. [Usuário]() adiciona os [produtos]() desejados ao [carrinho]().<br>2. [Usuário]() clica na opção [pedido periódica]().<br>3. [Usuário]() insere as informações de entrega e pagamento.<br>4. [Usuário]() insere a periodicidade do [pedido]().<br>5. [Usuário]() [clica]() na opção [Salvar](). |
-| Exceção | Falha de conexão<br>Falta de bateria |
-| Rastreabilidade | [RF33](../elicitacao/resultadoElicitacao.md#RF33) |
-
 <h6 align = "center"> Tabela 10: Cenário C09 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+
 
 ### 4.5 C10 - Visualizar conteúdo adicional sobre [pets]()
 
