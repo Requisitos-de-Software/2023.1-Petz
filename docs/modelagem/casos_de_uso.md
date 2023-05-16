@@ -224,7 +224,7 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 
 
-## . Referências Bibliográficas
+## 5. Referências Bibliográficas
 
 > [1] DevMedia. O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. 2012. DevMedia. Disponível em: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acessado em 16 de maio de 2023.
 
@@ -233,7 +233,7 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 > [3] SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Acessado em 16 de maio de 2023.
 
 
-## 5. Histórico de versão
+## 6. Histórico de versão
 
 | Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es)   |
 | ------ | -------- | ------------------------------------------ | ------------- | ------------- |
