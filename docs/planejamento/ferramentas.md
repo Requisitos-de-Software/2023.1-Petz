@@ -20,6 +20,7 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 | ![Ícone Trello](../assets/ferramentas/trello.png){ align=center, width="100" }              |                           [Trello](https://www.trello.com)[10]                            | Gestão de tarefas e datas.                            |
 | ![Ícone This Person Does Not Exist](../assets/ferramentas/tpdne.png){ align=center, width="100" } | [This Person Does Not Exist](https://this-person-does-not-exist.com/en)[11] | Geração de imagens para as personas. |
 | ![Ícone Miro](../assets/ferramentas/miro.png){ align=center, width="100" } | [Miro](https://miro.com)[12] | Criação de elementos visuais colaborativos. |
+| ![ícone LucidChart](../assets/ferramentas/lucidchart.png){ align=center, width="100" }| [Lucidchart](https://www.lucidchart.com/pages/pt)[13] | Criação de diagramas |
 
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -50,6 +51,7 @@ Para realizar a análise do aplicativo Petz, serão necessários softwares para 
 
 > [12] Miro, acesso em: 30 de abril de 2023. Para mais informações acesse: [link](https://miro.com).
 
+> [13] Lucidchart, acesso em: 16 de maio de 2023. Para mais informações acesse: [link](https://www.lucidchart.com/pages/pt).
 ## 4. Histórico de versão
 
 | Versão | Data     | Descrição                               | Autor(es)     | Revisor(es)   |
