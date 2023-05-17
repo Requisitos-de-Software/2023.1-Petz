@@ -58,6 +58,8 @@ nav:
           - Resultados da priorização: elicitacao/resultadoPriorizacao.md
   - Modelagem:
       - Cenários: modelagem/cenarios.md
+      - Casos de uso: modelagem/casos_de_uso.md
+      - Léxicos: modelagem/lexico.md
 
 markdown_extensions:
   - tables
