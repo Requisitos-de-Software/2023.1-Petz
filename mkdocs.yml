@@ -57,7 +57,8 @@ nav:
           - Baseada em valor, custo e risco: elicitacao/custoxbeneficio.md
           - Resultados da priorização: elicitacao/resultadoPriorizacao.md
   - Modelagem:
-        - Casos de uso: modelagem/casos_de_uso.md
+      - Casos de uso: modelagem/casos_de_uso.md
+      - Léxico: modelagem/lexico.md
 
 markdown_extensions:
   - tables
