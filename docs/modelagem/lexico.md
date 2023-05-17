@@ -142,5 +142,5 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10
 
 | Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es)   |
 | ------ | -------- | ------------------------------------------ | ------------- | ------------- |
-| `1.0`  | 11/05/23 | Criação inicial do léxico | Samuel Sato | Lucas Rodrigues |
+| `1.0`  | 11/05/23 | Criação inicial do léxico | Samuel Sato, Lucas Rodrigues | Pedro Muniz |
 | `1.1`  | 16/05/23 | Adição de novos símbolos | Samuel Sato | Pedro Muniz |
