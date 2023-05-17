@@ -102,5 +102,5 @@ Aplicativo Petz. Disponível em : https://play.google.com/store/apps/details?id=
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 16/05/23 | Criação da primeira versão do artefato Especificação suplementar | Vitor Manoel   | Felipe Corrêa |
+|  `1.0`   | 16/05/23 | Criação da primeira versão do artefato Especificação suplementar | Vitor Manoel  | Lucas Cardoso |
 
