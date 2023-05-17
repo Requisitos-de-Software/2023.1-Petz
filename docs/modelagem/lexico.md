@@ -122,7 +122,7 @@ Os símbolos foram identificados a partir do uso do aplicativo Petz e dos requis
 |--------|----------|-------|---------|---------------|
 |Central de atendimento|Atendimento|Formas de entrar em contato com a Petz|Usuário pode entrar em contato com a Petz pelo chat online|Objeto|
 
-### Léxico não implementados
+### Léxicos não implementados
 
 ### L21
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
