@@ -60,6 +60,7 @@ nav:
       - Cenários: modelagem/cenarios.md
       - Casos de uso: modelagem/casos_de_uso.md
       - Léxicos: modelagem/lexico.md
+      - Especificação suplementar: modelagem/EspecificacaoSup.md
 
 markdown_extensions:
   - tables
