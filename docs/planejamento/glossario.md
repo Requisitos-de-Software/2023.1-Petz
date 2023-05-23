@@ -12,14 +12,17 @@ As palavras documentadas neste glossário estão discriminadas em ordem alfabét
 
 Glossário
 
-| Palavra | Definição |
-|---------|-----------|
-| Artefato | Produto decorrente do trabalho humano. |
-| Hobby | Atividade praticada com o intuito de lazer ou descontração. |
-| Petshop/Pet shop | Loja para a venda de animais de estimação e itens para os cuidados dos mesmos, bem como serviços como banho e tosa.|
-| Petz | O aplicativo da rede de petshops de mesmo nome. O aplicativo selecionado para este projeto.|
-| Post | Postagem realizada em um ambiente online, normalmente em _blogs_. |
-| Blog | Diário virtual. |
+| Palavra          | Definição                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Artefato         | Produto decorrente do trabalho humano.                                                                              |
+| Hobby            | Atividade praticada com o intuito de lazer ou descontração.                                                         |
+| Petshop/Pet shop | Loja para a venda de animais de estimação e itens para os cuidados dos mesmos, bem como serviços como banho e tosa. |
+| Petz             | O aplicativo da rede de petshops de mesmo nome. O aplicativo selecionado para este projeto.                         |
+| Post             | Postagem realizada em um ambiente online, normalmente em _blogs_.                                                   |
+| Blog             | Diário virtual.                                                                                                     |
+| PO               | _Product Owner_.                                                                                                    |
+| Product Owner    | Representa o dono/cliente do produto de software a ser desenvolvido.                                                |
+| Feature          | Funcionalidade do aplicativo.                                                                                       |
 
 </center>
 
@@ -32,7 +35,7 @@ Glossário
 
 ## 4. Histórico de versão
 
- |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
-| -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 26/04/23 | Criação da página do glossário | Felipe Corrêa       | Pedro Muniz  |
-|  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+| Versão | Data     | Descrição                      | Autor(es)     | Revisor(es)   |
+| ------ | -------- | ------------------------------ | ------------- | ------------- |
+| `1.0`  | 26/04/23 | Criação da página do glossário | Felipe Corrêa | Pedro Muniz   |
+| `1.1`  | 30/04/23 | Padronização de legendas       | Pedro Muniz   | Felipe Corrêa |
