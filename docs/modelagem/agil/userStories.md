@@ -308,7 +308,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 A validação e definição de critérios de aceitação com um _Product Owner_ (abreviado para PO) foi realizada a fim de garantir que as histórias de usuário representavam os requisitos elicitados e para definir critérios de aceitação para cada história que devem ser satisfeitos pelas funções a serem desenvolvidas para o aplicativo.
 
-A PO definida para esta validação foi Luana Bartoco ..., que possui perfil similar ao definido no artefato de [perfil de usuário](./../../elicitacao/perfil.md). A validação ocorreu no dia 24/05/2023 a partir das 16:00 via [Google Meet](https://meet.google.com/) e foi gravada com o auxílio do [OBS Studio](https://obsproject.com). A participante também assinou termo de consentimento disponível via Google Docs. O termo de consentimento está transcrito abaixo.
+A PO definida para esta validação foi Luana Bartoco, que possui perfil similar ao definido no artefato de [perfil de usuário](./../../elicitacao/perfil.md). A validação ocorreu no dia 24/05/2023 a partir das 16:00 via [Google Meet](https://meet.google.com/) e foi gravada com o auxílio do [OBS Studio](https://obsproject.com). A participante também assinou termo de consentimento disponível via Google Docs. O termo de consentimento está transcrito abaixo.
 
 <center>
 
