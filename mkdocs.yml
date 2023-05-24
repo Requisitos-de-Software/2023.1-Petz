@@ -61,7 +61,9 @@ nav:
       - Casos de uso: modelagem/casos_de_uso.md
       - Léxicos: modelagem/lexico.md
       - Especificação suplementar: modelagem/EspecificacaoSup.md
-      - Backlog: modelagem/backlog.md
+      - Ágil:
+          - Histórias de usuário: modelagem/agil/userStories.md
+          - Backlog: modelagem/backlog.md
 
 markdown_extensions:
   - tables
