@@ -63,6 +63,28 @@ nav:
       - Especificação suplementar: modelagem/EspecificacaoSup.md
       - Ágil:
           - Histórias de usuário: modelagem/agil/userStories.md
+  - Análise:
+        - Planejamento da verificação: analise/planejamento.md
+        - Teste piloto - Verificação Grupo 8:
+            - Planejamento: analise/teste/planejamento.md
+            - Aspectos gerais: analise/teste/aspectosGerais.md
+            - Rich Picture: analise/teste/richpicture.md
+            - Perfil de usuário: analise/teste/perfilDeUsuario.md
+            - Personas: analise/teste/personas.md
+            - Brainstorm: analise/teste/brainstorm.md
+            - Observação: analise/teste/observacao.md
+            - Análise documental: analise/teste/analiseDocumental.md
+            - MosCow: analise/teste/moscow.md
+            - First things First: analise/teste/firstThingsFirst.md
+            - Escala de três níveis: analise/teste/escalaTresNiveis.md
+            - Cenários: analise/teste/cenarios.md
+            - Léxicos: analise/teste/lexicos.md
+            - Casos de uso: analise/teste/casosDeUso.md
+            - Especificação suplementar: analise/teste/especificacaoSuplementar.md
+            - Histórias de usuário: analise/teste/historiasUsuario.md
+            - Backlog: analise/teste/backlog.md
+            - NFR Framework: analise/teste/nfr.md
+    
 
 markdown_extensions:
   - tables
