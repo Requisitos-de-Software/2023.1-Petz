@@ -63,6 +63,7 @@ nav:
       - Especificação suplementar: modelagem/EspecificacaoSup.md
       - Ágil:
           - Histórias de usuário: modelagem/agil/userStories.md
+          - Backlog: modelagem/agil/backlog.md
   - Análise:
         - Planejamento da verificação: analise/planejamento.md
         - Teste piloto - Verificação Grupo 8:
@@ -82,7 +83,7 @@ nav:
             - Casos de uso: analise/teste/casosDeUso.md
             - Especificação suplementar: analise/teste/especificacaoSuplementar.md
             - Histórias de usuário: analise/teste/historiasUsuario.md
-            - Backlog: analise/teste/backlog.md
+            - Backlog: analise/teste/backlogAnalise.md
             - NFR Framework: analise/teste/nfr.md
     
 
