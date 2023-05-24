@@ -87,8 +87,9 @@ Os itens foram agrupados em tema e épicos:
 
 ## 4. Referências Bibliográficas
 
-[1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15
-[2] MAXIM, Bruce; PRESSMAN, Roger; Engenharia de Software: Uma abordagem profissional
+> [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
+
+> [2] MAXIM, Bruce; PRESSMAN, Roger; Engenharia de Software: Uma abordagem profissional.
 
 ## 5. Histórico de versão
 
