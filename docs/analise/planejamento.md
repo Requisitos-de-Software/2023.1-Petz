@@ -8,9 +8,9 @@ Este artefato detalha o planejamento da verificação para este projeto, apresen
 
 ## 2. Metodologia
 
-Para a verificação do projeto, será utilizado o método de inspeção. Que consiste na utilização de _checklists_ para verificar os padrões especificados, assim como a presença correta de elementos e conceitos nos artefatos analisados. Para a elaboração do _checklist_, foi utilizada a proposta de Fagan[1], onde o _checklist_ deve ponderar os erros mais comuns identificados em projetos semelhantes. Por fim, para que a verificação do projeto seja realizada de forma correta, será executado um teste piloto onde será verificada a estrutura e conteúdo do projeto realizado pelo [grupo 8 da disciplina](https://github.com/Requisitos-de-Software/2023.1-Twitch)[4], o qual é responsável pela análise do aplicativo [Twitch]()[5].
+Para a verificação do projeto, será utilizado o método de inspeção. Que consiste na utilização de _[checklist](../planejamento/glossario.md#Checklist)s_ para verificar os padrões especificados, assim como a presença correta de elementos e conceitos nos artefatos analisados. Para a elaboração do _[checklist](../planejamento/glossario.md#Checklist)_, foi utilizada a proposta de Fagan[1], onde o _[checklist](../planejamento/glossario.md#Checklist)_ deve ponderar os erros mais comuns identificados em projetos semelhantes. Por fim, para que a verificação do projeto seja realizada de forma correta, será executado um teste piloto onde será verificada a estrutura e conteúdo do projeto realizado pelo [grupo 8 da disciplina](https://github.com/Requisitos-de-Software/2023.1-Twitch)[4], o qual é responsável pela análise do aplicativo [Twitch]()[5].
 
-Através dos dados coletados pelo método do _checklist_, pode-se calcular numericamente o grau de satisfação com os padrões propostos, sendo este cálculo descrito pela fórmula presente na figura 1, a representação gráfica do grau de satisfação será realizada atráves de um anel de progresso, como o apresentado na figura 2. Além do grau de satisfação, pode-se calcular a porcentagem de ocorrência de erros, que deve ser representado em cada verificação por um gráfico de pizza, assim como o representado pela figura 3.
+Através dos dados coletados pelo método do _[checklist](../planejamento/glossario.md#Checklist)_, pode-se calcular numericamente o grau de satisfação com os padrões propostos, sendo este cálculo descrito pela fórmula presente na figura 1, a representação gráfica do grau de satisfação será realizada atráves de um anel de progresso, como o apresentado na figura 2. Além do grau de satisfação, pode-se calcular a porcentagem de ocorrência de erros, que deve ser representado em cada verificação por um gráfico de pizza, assim como o representado pela figura 3.
 
 <center>
 
@@ -28,32 +28,44 @@ Através dos dados coletados pelo método do _checklist_, pode-se calcular numer
 <h6 align="center">Tabela 1: Modelos para representação gráfica</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
-## 3. _Checklist_
+## 3. _[Checklist](../planejamento/glossario.md#Checklist)_
 
-Para a verificação de cada artefato, serão utilizados dois _checklists_ distintos, onde um será responsável pelos parâmetros de padronização para cada artefato, sendo este idêntico para cada documento. O segundo _checklist_ será exclusivo para cada artefato, e analisará o documento de acordo com as necessidades previstas no plano de ensino da disciplina[6]. A tabela 2 abaixo, demonstra a estrutura do _checklist_ de padronização que será utilizado.
+Para a verificação de cada artefato, serão utilizados dois _[checklist](../planejamento/glossario.md#Checklist)s_ distintos, onde um será responsável pelos parâmetros de padronização para cada artefato, sendo este idêntico para cada documento. O segundo _[checklist](../planejamento/glossario.md#Checklist)_ será exclusivo para cada artefato, e analisará o documento de acordo com as necessidades previstas no plano de ensino da disciplina[6]. A tabela 2 abaixo, demonstra a estrutura do _[checklist](../planejamento/glossario.md#Checklist)_ de padronização que será utilizado. A tabela 3 detalha os elementos que a _[checklist](../planejamento/glossario.md#Checklist)_ de conteúdo deve conter.
 
 <center>
 
-| ID  | Verificação                                                          | Realizado | Possíveis correções |
-| :-: | -------------------------------------------------------------------- | --------- | ------------------- |
-|  1  | Possui ortografia correta e formal?                                  | -         | -                   |
-|  2  | Possui introdução?                                                   | -         | -                   |
-|  3  | Possui links necessários?                                            | -         | -                   |
-|  4  | As tabelas e imagens possuem legenda padronizada e chamada no texto? | -         | -                   |
-|  5  | As tabelas e imagens estão totalmente em português?                  | -         | -                   |
-|  6  | Possui bibliografia?                                                 | -         | -                   |
-|  7  | Possui histórico de versão padronizado?                              | -         | -                   |
-|  8  | O histórico de versão possui autor(es) e revisor(es)?                | -         | -                   |
+| ID | Verificação | Realizado | Possíveis correções |
+|:-:|--|--|--|
+| 1 | Possui ortografia correta e formal? | - | - |
+| 2 | Possui introdução? | - | - |
+| 3 | Possui links necessários? | - | - |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | - | - |
+| 5 | As tabelas e imagens estão totalmente em português? | - | - |
+| 6 | Possui bibliografia? | - | - |
+| 7 | A bibliografia está em ordem alfabética? | - | - |
+| 8 | Possui histórico de versão padronizado? | - | - |
+| 9 | O histórico de versão possui autor(es) e revisor(es)? | - | - |
 
 </center>
 
 <h6 align="center">Tabela 2: Modelo de checklist para padronização</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
+<center>
+
+| ID | Verificação | Ocorrências | Acertos | Erros | Possíveis correções |
+| :-: | ------- | -------- | -------- | ------ | -------- |
+| USX | Descrição | Qtd. de verificações | Qtd. de acertos | Qtd. de erros | Possíveis correções |
+
+<h6 align="center">Tabela 3: Modelo de checklist para conteúdo</h6>
+<h6 align="center">Fonte: Autor, 2023</h6>
+
+</center>
+
 ## 4. Padrões do projeto
 
 Para verificar se o projeto segue um padrão consiso em todos os seus artefatos, segue abaixo o padrão adotado para legenda, bibliografia e histórico de versão
-
+´
 ### 4.1 Legenda
 
 Todas as tabelas e imagens presentes no projeto, além de serem chamadas de forma coesa pelo texto, devem possuir a legnda padronizada. Tal padrão pode ser encontrado abaixo.
@@ -94,7 +106,7 @@ Abaixo se encontra o padrão de histórico de versão adotado no projeto.
 
 </center>
 
-<h6 align="center">Tabela 3: Padrão para histórico de versão</h6>
+<h6 align="center">Tabela 4: Padrão para histórico de versão</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
 ## 5. Teste piloto
@@ -103,30 +115,30 @@ Para a verificação seja feita de forma correta, primeiramente será executado 
 
 <center>
 
-| Artefato                  | Revisor |
-| ------------------------- | ------- |
-| Planejamento              | Magno   |
-| Aspectos gerais           | Felipe  |
-| Rich Picture              | Samuel  |
-| Perfil de usuário         | Lucas   |
-| Personas                  | Vitor   |
-| Brainstorm                | Pedro   |
-| Observação                | Felipe  |
-| Análise documental        | Magno   |
-| MosCow                    | Samuel  |
-| First things First        | Lucas   |
-| Escala de três níveis     | Pedro   |
-| Cenários                  | Vitor   |
-| Léxicos                   | Magno   |
-| Casos de uso              | Lucas   |
-| Especificação suplementar | Samuel  |
-| Histórias de usuário      | Vitor   |
-| Backlog                   | Felipe  |
-| NFR Framework             | Pedro   |
+| Artefato | Revisor |
+|--|--|
+| [Planejamento](../analise/teste/planejamento.md) | Magno |
+| [Aspectos gerais](../analise/teste/aspectosGerais.md) | Felipe |
+| [Rich Picture](../analise/teste/richpicture.md) | Samuel |
+| [Perfil de usuário](../analise/teste/perfilDeUsuario.md) | Lucas |
+| [Personas](../analise/teste/personas.md) | Vitor |
+| [Brainstorm](../analise/teste/brainstorm.md) | Pedro |
+| [Observação](../analise/teste/observacao.md) | Felipe |
+| [Análise documental](../analise/teste/analiseDocumental.md) | Magno |
+| [MosCow](../analise/teste/moscow.md) | Samuel |
+| [First things First](../analise/teste/firstThingsFirst.md) | Lucas |
+| [Escala de três níveis](../analise/teste/escalaTresNiveis.md) | Pedro |
+| [Cenários](../analise/teste/cenarios.md) | Vitor |
+| [Léxicos](../analise/teste/lexicos.md) | Magno |
+| [Casos de uso](../analise/teste/casosDeUso.md) | Lucas |
+| [Especificação suplementar](../analise/teste/especificacaoSuplementar.md) | Samuel |
+| [Histórias de usuário](../analise/teste/historiasUsuario.md) | Vitor |
+| [Backlog](../analise/teste/backlog.md) | Felipe |
+| [NFR Framework](../analise/teste/nfr.md) | Pedro |
 
 </center>
 
-<h6 align="center">Tabela 4: Artefatos a serem verificados</h6>
+<h6 align="center">Tabela 5: Artefatos a serem verificados</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
 ## 6. Referências Bibliográficas
@@ -145,4 +157,5 @@ Para a verificação seja feita de forma correta, primeiramente será executado 
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
-| `1.0`  | 24/05/23 | Criação da página de planejamento da verificação | Pedro Muniz | Felipe Correa |
+| `1.0`  | 24/05/23 | Criação da página de planejamento da verificação | Pedro Muniz | Felipe Corrêa |
+| `1.0` | 25/05/23 | Adição da tabela de conteúdo | Pedro Muniz | Felipe Corrêa |
