@@ -41,17 +41,21 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 
 ![](../assets/nfr/confiabilidade.jpg)
 
-## NFR de Confiablidade com propagação
+## NFR de Confiabilidade com propagação
 
 ![](../assets/nfr/confiabilidadeProp.jpg)
 
 ## NFR de Desempenho
+![](../assets/nfr/desempenho.png)
 
 ## NFR de Desempenho com propagação
+![](../assets/nfr/desempenhoProp.png)
 
 ## NFR de Suportabilidade
+![](../assets/nfr/suportabilidade.png)
 
 ## NFR de Suportabilidade com propagação
+![](../assets/nfr/suportabilidadeProp.png)
 
 ## 8. Bibliografia
 
@@ -62,7 +66,8 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 23/05/23 | Criação da versão inicial do NFR Framework | Vitor manoel | Samuel Sato  |
+|  `1.0`   | 23/05/23 | Criação da versão inicial do NFR Framework | Vitor manoel | Samuel Sato |
+|  `1.1`   | 24/05/23 | Criação do NFR de Desempenho e compatibilidade | Lucas Rodrigues | Felipe Mastromauro |
 
 
 
