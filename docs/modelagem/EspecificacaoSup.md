@@ -1,3 +1,5 @@
+# Especificação Suplementar
+
 ## Introdução
 
 Especificação Suplementar é um documento que descreve requisitos adicionais ou complementares a uma especificação principal de um sistema ou produto. É usada para fornecer informações detalhadas e específicas que não foram incluídas na especificação principal, como requisitos de desempenho, de segurança, de usabilidade, de confiabilidade, de interoperabilidade, entre outros.

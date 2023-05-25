@@ -364,4 +364,4 @@ O vídeo 1 diz respeito à gravação da reunião com a PO, disponível no YouTu
 | Versão | Data     | Descrição                                     | Autor(es)   | Revisor(es)   |
 | ------ | -------- | --------------------------------------------- | ----------- | ------------- |
 | `1.0`  | 22/05/23 | Criação da página de histórias de usuário | Pedro Muniz | Samuel Sato |
-| `1.1`  | 24/05/23 | Validação de histórias de usuário | Felipe Corrêa | Samuel Sato |
+| `1.1`  | 24/05/23 | Validação de histórias de usuário | Felipe Corrêa |Lucas Cardoso|

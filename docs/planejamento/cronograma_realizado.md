@@ -6,7 +6,7 @@ Neste artefato serão mantidos os cronogramas reais da produção dos artefatos 
 
 ## 2. Cronograma Realizado Etapa 1
 
-A Tabela 1 descreve o que foi realizado para a entrega da Etapa 1.
+A tabela 1 descreve o que foi realizado para a entrega da Etapa 1.
 
 |Atividade|	Autor(es)|	Revisor(es)|Data Inicio	|Data Entrega|	Data Limite Revisão|
 |---------|----------|-------------|------------|------------|----------------------|
@@ -23,7 +23,7 @@ A Tabela 1 descreve o que foi realizado para a entrega da Etapa 1.
 
 ## 2. Cronograma Realizado Etapa 2
 
-A Tabela 2 descreve o que foi realizado para a entrega da Etapa 2.
+A tabela 2 descreve o que foi realizado para a entrega da Etapa 2.
 
 |Atividade|	Autor(es)|	Revisor(es)|	Data Início	|Data Entrega|	Data Limite Revisão|
 |---------|----------|-------------|-----------------|-----------|----------------------|
@@ -45,6 +45,35 @@ A Tabela 2 descreve o que foi realizado para a entrega da Etapa 2.
 |Gravação da apresentação|	Todos os integrantes|	Todos os integrantes	|01/05/2023	|01/05/2023	|01/05/2023|
 
 <h6 align = "center"> Tabela 2: cronograma realizado da Etapa 2 </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 3. Cronograma Realizado Etapa 3
+
+A tabela 3 descreve o que foi realizado para a entrega da Etapa 3.
+
+|Atividade|	Autor(es)|	Revisor(es)|	Data Início	|Data Entrega|	Data Limite Revisão|
+|---------|----------|-------------|-----------------|-----------|----------------------|
+|Casos de uso|	Magno Luiz|	Pedro Muniz|16/05/2023|16/05/2023|16/05/2023		|
+|Cenários|	Pedro Muniz, Felipe Corrêa |	Samuel Sato|11/05/2023|11/05/2023|16/05/2023|
+|Léxico|	Samuel Sato, Lucas Cardoso|	Pedro Muniz|11/05/2023|16/05/2023|16/05/2023			|
+|Especificação Suplementar|	Vitor Manoel|	Lucas Cardoso|16/05/2023|16/05/2023|16/05/2023		|
+|Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	17/05/2023|	17/05/2023|	17/05/2023|
+
+<h6 align = "center"> Tabela 3: cronograma realizado da Etapa 3 </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 4. Cronograma Realizado Etapa 4
+
+A tabela 4 descreve o que foi realizado para a entrega da Etapa 4.
+
+|Atividade|	Autor(es)|	Revisor(es)|	Data Início	|Data Entrega|	Data Limite Revisão|
+|---------|----------|-------------|-----------------|-----------|---------------------|
+|Histórias de Usuário|	Pedro Muniz, Felipe Corrêa|	Lucas Cardoso, Samuel Sato|22/05/2023|24/05/2023|24/05/2023			|
+|Backlog| Magno Luiz, Samuel Sato| Felipe Corrêa |20/05/2023|24/05/2023|24/05/2023			|
+|NFR Framework|	Vitor Manoel, Lucas Cardoso|Samuel Sato, Felipe Corrêa|23/05/2023|24/05/2023|24/05/2023			|
+|Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	24/04/2023|	24/04/2023|	24/05/2023|
+
+<h6 align = "center"> Tabela 4: cronograma realizado da Etapa 4 </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 ## 3. Bibliografia
