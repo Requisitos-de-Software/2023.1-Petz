@@ -65,6 +65,7 @@ nav:
       - Ágil:
           - Histórias de usuário: modelagem/agil/userStories.md
           - Backlog: modelagem/agil/backlog.md
+          - NFR Framework: modelagem/NFRframework.md
   - Análise:
         - Planejamento da verificação: analise/planejamento.md
         - Teste piloto - Verificação Grupo 8:
