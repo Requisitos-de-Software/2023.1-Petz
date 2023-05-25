@@ -11,11 +11,11 @@ Para a realização da atividade de diagramação no artefato, foi utilizada a f
 ### 3.1 Ator(es)
 
  Atores são caracterizados por serem os usuários do sistema ou um tipo de usuário[1].
-<h6 align = "center">
+<center>
 
- ![Ator](../assets/casos_de_uso/elemento_ator.png)
+![Ator](../assets/casos_de_uso/elemento_ator.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 1: Ator </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -23,11 +23,12 @@ Para a realização da atividade de diagramação no artefato, foi utilizada a f
 ### 3.2 Caso de uso
 
 Caso de uso é uma tarefa ou funcionalidade realizada pelo ator[1].
-<h6 align = "center">
 
- ![Caso de uso](../assets/casos_de_uso/elemento_caso_de_uso.png)
+<center>
 
- </h6>
+![Caso de uso](../assets/casos_de_uso/elemento_caso_de_uso.png)
+
+</center>
 
 <h6 align = "center"> Figura 2: Caso de uso </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -36,11 +37,11 @@ Caso de uso é uma tarefa ou funcionalidade realizada pelo ator[1].
 
 Cenário é uma sequência de eventos que estão acontecendo enquanto o usuário interage com o sistema[1].
 
-<h6 align = "center">
+<center>
 
- ![Cenário](../assets/casos_de_uso/elemento_cenario.png)
+![Cenário](../assets/casos_de_uso/elemento_cenario.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 3: Cenário </h6>
 <h6 align = "center"> Fonte: Autor,2023 </h6>
@@ -49,11 +50,11 @@ Cenário é uma sequência de eventos que estão acontecendo enquanto o usuário
 
 Ponto de extensão é a especificação de um caso de uso base, sendo referido por um relacionamento de extensão entre o caso de uso e base e o de extensão[2].
 
-<h6 align = "center">
+<center>
 
- ![Pontos de extensão](../assets/casos_de_uso/elemento_ponto_de_ext.png)
+![Pontos de extensão](../assets/casos_de_uso/elemento_ponto_de_ext.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 4: Pontos de extensão </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -69,11 +70,12 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 **Extend**: Relação de um caso de uso que executa sem necessidade de outro caso de uso, entretanto, pode ter novas etapas. Sendo assim o caso de uso extendido pode ou não ser executado[3].
 - Notação na diagramação: <<extend\>\>
 
-<h6 align = "center">
+<center>
 
  ![Comunicação](../assets/casos_de_uso/elemento_comunica.png)
  ![Comunicação2](../assets/casos_de_uso/elemento_comunica2.png)   
- </h6>
+
+</center>
 
 <h6 align = "center"> Figura 5: Comunicação </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -82,11 +84,11 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## 4. Diagrama de Casos de Uso
 
-<h6 align = "center">
+<center>
 
- ![Diagrama Geral](../assets/casos_de_uso/caso_de_uso_geral.png)
+![Diagrama Geral](../assets/casos_de_uso/caso_de_uso_geral.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 6: Caso de uso geral </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -95,11 +97,11 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## UC01 - Realizar Cadastro
 
-<h6 align = "center">
+<center>
 
- ![Cadastro](../assets/casos_de_uso/fluxo_cadastro.png)
-
- </h6>
+![Cadastro](../assets/casos_de_uso/fluxo_cadastro.png)
+ 
+</center>
 
 <h6 align = "center"> Figura 7: Realizar cadastro </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -121,11 +123,11 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 ## UC02 - Efetuar Login
 
 
-<h6 align = "center">
+<center>
 
- ![Login](../assets/casos_de_uso/fluxo_login.png)
+![Login](../assets/casos_de_uso/fluxo_login.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 8: Efetuar Login </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -146,11 +148,11 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## UC03 - Compra de produto
 
-<h6 align = "center">
+<center>
 
- ![Compra](../assets/casos_de_uso/fluxo_compra.png)
+![Compra](../assets/casos_de_uso/fluxo_compra.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 9: Compra de produto </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -172,11 +174,11 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## UC04 - Efetuar Pagamento
 
-<h6 align = "center">
+<center>
 
- ![Pagamento](../assets/casos_de_uso/fluxo_pagamento.png)
+![Pagamento](../assets/casos_de_uso/fluxo_pagamento.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 10: Pagamento </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -198,11 +200,11 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## UC05 - Consultar conta 
 
-<h6 align = "center">
+<center>
 
- ![Conta](../assets/casos_de_uso/fluxo_conta.png)
+![Conta](../assets/casos_de_uso/fluxo_conta.png)
 
- </h6>
+</center>
 
 <h6 align = "center"> Figura 11: Conta </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
