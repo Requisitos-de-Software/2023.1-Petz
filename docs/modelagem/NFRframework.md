@@ -35,11 +35,15 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 
 ## NFR de Usabilidade com propagação
 
+![](../assets/nfr/UsabilidadeProp.jpg)
+
 ## NFR de Confiabilidade
 
 ![](../assets/nfr/confiabilidade.jpg)
 
 ## NFR de Confiablidade com propagação
+
+![](../assets/nfr/confiabilidadeProp.jpg)
 
 ## NFR de Desempenho
 
