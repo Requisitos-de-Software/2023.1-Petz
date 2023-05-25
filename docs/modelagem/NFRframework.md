@@ -84,8 +84,9 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 
 ## 8. Bibliografia
 
-> CASTRO, Jaelson - Requisitos Não funcionais. 2014. Disponivel em: [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf) <br>
->  SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Disponivel em: [link](https://repositorio.ufpe.br/handle/123456789/34150)
+> [1] CASTRO, Jaelson - Requisitos Não funcionais. 2014. Disponivel em: [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf) <br>
+> <br>
+>  [2] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Disponivel em: [link](https://repositorio.ufpe.br/handle/123456789/34150)
 
 ## 9. Histórico de versão
 
