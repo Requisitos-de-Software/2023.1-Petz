@@ -1,10 +1,10 @@
 ## 1 - Introdução
 
-Este artefato tem como objetivo verificar a composição do documento de personas do Grupo 8 que está analisando a Twitch. Com base nisso o objetivo é buscar possíveis erros que possam ter passado despercebidos durante a etapa de desenvolvimento do documento.
+Este artefato tem como objetivo verificar a composição do documento de personas do Grupo 8 que está analisando a Twitch. Com base nisso o objetivo é buscar possíveis erros conceituais e estruturais que possam ter passado despercebidos durante a etapa de desenvolvimento do documento.
 
 ## 2 - Metodologia
 
-Como especificado no [planejamento da verificação](../planejamento.md) o método de verificação utilizado será a inspeção, assim produzindo checklists para analisar o conteúdo e a estrutura do documento. A versão do artefato que está sendo verificada é a 2.1 .
+Como especificado no [planejamento da verificação](../planejamento.md) o método de verificação utilizado será a inspeção, assim produzindo checklists para analisar o conteúdo e a estrutura do documento. A versão do artefato que está sendo verificada é a `2.1` .
 
 ## 3 - Checklist
 
@@ -162,7 +162,7 @@ identidade: dê a uma persona nome e sobrenome. Forneça uma idade e outros dado
 
 ## Conclusões
 
-A verificação conclui que foi feito um trabalho que atende as definições conceituais esperadas para a confecção de uma persona. Porém foi colocado como atributo das personas , requisitos elicitados, algo que não é encontrado nas literaturas referentes ao assunto.
+A verificação conclui que foi feito um trabalho que atende as definições conceituais esperadas para a confecção de uma persona. Porém foi colocado como atributo das personas , requisitos elicitados, algo que não é encontrado nas literaturas referentes ao assunto. Outra adição relevante é referente a pesquisa de perfil de usuário, pois poderia ser indexado os resultados da pesquisa realizada.
 
 ## 5. Referências Bibliográficas
 
