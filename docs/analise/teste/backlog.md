@@ -76,39 +76,39 @@ Na tabela 2, se encontra o _[checklist](../../planejamento/glossario.md#Checklis
 <h6 align = "center"> Tabela 2: Verificação de conteúdo do backlog do produto </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-### 3.5 Problemas encontrados - padronização
+### 3.3 Problemas encontrados - padronização
 
-#### 3.5.1 Verificação 3 - Possui links necessários?
+#### 3.3.1 Verificação 3 - Possui links necessários?
 
 Os requisitos representados pelas histórias de usuário não são ligados aos artefatos que os originaram.
 
-#### 3.5.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+#### 3.3.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
 
 As tabelas possuem legendas mas não são adequadamente chamadas no texto.
 
-#### 3.5.3 Verificação 6 - Possui bibliografia?  
+#### 3.3.3 Verificação 6 - Possui bibliografia?  
 
 A bibliografia do artefato é existente. Porém, não segue o padrão de outros artefatos ou alguma norma técnica e não apresenta a fonte das infomações de forma a permitir a rastreabilidade.
 
-#### 3.5.4 Verificação 8 - Possui histórico de versão padronizado?
+#### 3.3.4 Verificação 8 - Possui histórico de versão padronizado?
 
 O histórico de versão deste artefato não segue o mesmo padrão do histórico de versão da página inicial. A versão do artefato e a data estão em posições diferentes.
 
-### 3.6 Problemas encontrados - conteúdo
+### 3.4 Problemas encontrados - conteúdo
 
-#### 3.6.1 Verificação 1 - Os épicos definem um agrupamento coerente de histórias de usuário?
+#### 3.4.1 Verificação 1 - Os épicos definem um agrupamento coerente de histórias de usuário?
 
 O épico de "Plataforma" do artefato não agrupa as histórias de forma coerente. Dentro deste épico estão as histórias USB34 e USB36, que dizem respeito a configurações de conta da Twitch.
 
-#### 3.6.2 Verificação 2 - A escrita das histórias de usuário possui o ator, a ação e a razão dessa ação?
+#### 3.4.2 Verificação 2 - A escrita das histórias de usuário possui o ator, a ação e a razão dessa ação?
 
 Nenhuma das histórias de usuário possui as razões pelas quais um ator usaria uma funcionalidade do software, não respeitando as determinações de metodologias ágeis. 
 
-#### 3.6.3 Verificação 4 - Os épicos são coerentes com o sistema analisado?
+#### 3.4.3 Verificação 4 - Os épicos são coerentes com o sistema analisado?
 
 Os épicos são amplos demais para serem coerentes com o sistema em si, sendo mais adequados como temas. Não é visível uma ideia geral de uma funcionalidade ou atributo do sistema nos épicos.
 
-#### 3.6.4 Verificação 5 - O backlog do produto define temas?
+#### 3.4.4 Verificação 5 - O backlog do produto define temas?
 
 Não há temas definidos para o backlog do produto.
 
