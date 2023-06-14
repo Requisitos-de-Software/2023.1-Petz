@@ -192,10 +192,6 @@ As tabelas 5,6,7 e 8 são responsáveis por verificar o conteúdo abordado do ar
 <h6 align="center">Fonte: Autor, 2023</h6>
 
 
-## 4. Resultados
-
-Nas figuras 1 e 2 abaixo, se encontram as representações gráficas referentes ao grau de satisfação e da ocorrência de erros do artefato. Estes dados foram recolhidos a partir da verificação de conteúdo do artefato.
-
 
 ## 5. Justificativas
 
