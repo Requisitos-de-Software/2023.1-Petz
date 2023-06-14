@@ -65,10 +65,6 @@ Esta  _[checklist](../planejamento/glossario.md#Checklist)_ é responsável por 
 <h6 align="center">Tabela 2: Verificação do artefato sobre Léxicos </h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
-### 3.3 Resultados
-
-Nas figuras 1 e 2 abaixo, se encontram as representações gráficas referentes ao grau de satisfação e da ocorrência de erros do artefato. Estes dados foram recolhidos a partir da verificação de conteúdo do artefato.
-
 ## 4 Justificativas
 
 ### 4.1 Léxico
