@@ -105,36 +105,32 @@ Na tabela 4, se encontra o _[checklist](../../planejamento/glossario.md#Checklis
 | 10 | As contribuições foram corretamente representadas?[3] | 4 | 0 | 4 |
 | 11 | Os impactos levaram em consideração as contribuições?[3] | 4 | 0 | 4 |
 
-### 3.3 Resultados
+### 3.3 Problemas encontrados - padronização
 
-Nas figuras 1 e 2 abaixo, se encontram as representações gráficas referentes ao grau de satisfação e da ocorrência de erros do artefato. Estes dados foram recolhidos a partir da verificação de conteúdo do artefato.
-
-### 3.4 Problemas encontrados - padronização
-
-#### 3.4.1 Verificação 3 - Possui links necessários?
+#### 3.3.1 Verificação 3 - Possui links necessários?
 Os requisitos não funcionais representados no artefato não estão conectados com o artefato onde estão sumarizados.
 
-#### 3.4.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+#### 3.3.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
 As legendas das tabelas deste artefato se encontram fora do padrão utilizado no restante do projeto.
 
-#### 3.4.3 Verificação 7 - A bibliografia está em ordem alfabética?
+#### 3.3.3 Verificação 7 - A bibliografia está em ordem alfabética?
 A bibliografia do artefato não se encontra em ordem alfabética.
 
-### 3.5 Problemas encontrados - conteúdo
+### 3.4 Problemas encontrados - conteúdo
 
-#### 3.5.1 Verificação 3 - Os diagramas foram retirados e adaptados de fonte confiável?
+#### 3.4.1 Verificação 3 - Os diagramas foram retirados e adaptados de fonte confiável?
 Segundo as legendas dos diagramas presentes no artefato verificado, os mesmos foram criados pelos autores do documento, não sendo retirados ou adaptados de uma fonte confiável, como dissertações ou livros.
 
-#### 3.5.2 Verificação 5 - O artefato possui o cartão de especificação para o NFR?
+#### 3.4.2 Verificação 5 - O artefato possui o cartão de especificação para o NFR?
 Não há no artefato, cartões de especificação para os requisitos não funcionais representados nos diagramas.
 
-#### 3.5.3 Verificação 8 - 	Os impactos foram corretamente propagados?
+#### 3.4.3 Verificação 8 - 	Os impactos foram corretamente propagados?
 Nos diagramas presentes no artefato, apenas os softgoals externos possuem identificação de impacto, sendo assim, não foram representadas as propagações destes impactos no diagrama.
 
-#### 3.5.4 Verificação 10 - As contribuições foram corretamente representadas?
+#### 3.4.4 Verificação 10 - As contribuições foram corretamente representadas?
 Percebe-se nos diagramas, algumas contribuições que não fazem sentido, nos diagramas percebe-se por exemplo dois softgoals com contribuição AND e MAKE ao mesmo tempo.
 
-#### 3.5.5 Verificação 11 - Os impactos levaram em consideração as contribuições?
+#### 3.4.5 Verificação 11 - Os impactos levaram em consideração as contribuições?
 Como a propagação dos impactos não foi representada de forma correta nos diagramas, não há como dizer se houve influência das contribuições nos impactos.
 
 ## 5. Referências bibliográficas
