@@ -97,43 +97,39 @@ Na tabela 2, se encontra o _[checklist](../../planejamento/glossario.md#Checklis
 <h6 align = "center"> Tabela 2: Verificação de conteúdo da observação</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>]
 
-### 3.3 Resultados
+### 3.3 Problemas encontrados - padronização
 
-Nas figuras 1 e 2 abaixo, se encontram as representações gráficas referentes ao grau de satisfação e da ocorrência de erros do artefato. Estes dados foram recolhidos a partir da verificação de conteúdo do artefato.
-
-### 3.4 Problemas encontrados - padronização
-
-#### 3.4.1 Verificação 1 - Possui ortografia correta e formal?
+#### 3.3.1 Verificação 1 - Possui ortografia correta e formal?
 
 A intrudução do artefato é pleonástica e tem o sentido prejudicado por sua elaboração. A metodologia possui diversos erros ortográficos (ex.: "afim", "aúdio"), além de não ser escrita impessoalmente.
 
-#### 3.4.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+#### 3.3.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
 
 As tabelas possuem legendas mas não são adequadamente chamadas no texto.
 
-#### 3.4.4 Verificação 8 - Possui histórico de versão padronizado?
+#### 3.3.4 Verificação 8 - Possui histórico de versão padronizado?
 
 O histórico de versão deste artefato não segue o mesmo padrão do histórico de versão da página inicial. A versão do artefato e a data estão em posições diferentes.
 
-### 3.5 Problemas encontrados - conteúdo
+### 3.4 Problemas encontrados - conteúdo
 
-#### 3.5.1 Verificação 2 - A postura do observador é definida?
+#### 3.4.1 Verificação 2 - A postura do observador é definida?
 
 A postura do observador, apesar de inferida pela metodologia, não é explicitamente definida como ativa ou passiva.
 
-#### 3.5.2 Verificação 4 - Há uma definição de um período mais interessante para a observação?
+#### 3.4.2 Verificação 4 - Há uma definição de um período mais interessante para a observação?
 
 Não é definido um período mais interessante para a observação no artefato.
 
-#### 3.5.3 Verificação 5 - São disponibilizadas notas a respeito da observação ocorrida?
+#### 3.4.3 Verificação 5 - São disponibilizadas notas a respeito da observação ocorrida?
 
 Não são disponibilizadas notas no artefato a respeito da observação ocorrida. Mesmo havendo uma gravação em vídeo, não é possível verificar facilmente de onde os requisitos foram elicitados.
 
-#### 3.5.4 Verificação 6 - O participante recebeu orientações adequadamente?
+#### 3.4.4 Verificação 6 - O participante recebeu orientações adequadamente?
 
 Apesar de explicitado na metodologia que os membros do grupo estariam de prontidão assíncronamente via Whatsapp durante a gravação, não são explicitadas as orientações passadas ao participante para a realização da observação.
 
-#### 3.5.5 Verificação 7 - O termo de consentimento para a participação é disponibilizado?
+#### 3.4.5 Verificação 7 - O termo de consentimento para a participação é disponibilizado?
 
 O termo de consentimento para a participação não é disponibilizado em nennhum momento e nem mesmo é mencionado no artefato.
  
