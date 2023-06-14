@@ -92,36 +92,32 @@ Na tabela 4, se encontra o _[checklist]_ de conteúdo preenchido após a realiza
 | 7 | O brainstorm leva em consideração um "sistema ideal"?[2] | 1 | 0 | 1 |
 | 8 | O brainstorm abordou apenas conceitos, evitando questões de design?[2] | 1 | 1 | 0 |
 
-### 3.3 Resultados
+### 3.3 Problemas encontrados - Padronização
 
-Nas figuras 1 e 2 abaixo, se encontram as representações gráficas referentes ao grau de satisfação e da ocorrência de erros do artefato. Estes dados foram recolhidos a partir da verificação de conteúdo do artefato.
-
-### 3.4 Problemas encontrados - Padronização
-
-#### 3.4.1 Verificação 1 - Possui ortografia correta e formal?
+#### 3.3.1 Verificação 1 - Possui ortografia correta e formal?
 O artefato possui alguns erros de ortografia, como palavras com letras trocadas e frases incompletas.
 
-#### 3.4.2 Verificação 6 - Possui bibliografia?
+#### 3.3.2 Verificação 6 - Possui bibliografia?
 O artefato não possui qualquer referência bibliográfica.
 
-#### 3.4.3 Verificação 7 - A bibliografia está em ordem alfabética?
+#### 3.3.3 Verificação 7 - A bibliografia está em ordem alfabética?
 Como o artefato não possui bibliografia, não é possível realizar esta verificação.
 
-### 3.5 Problemas encontrados - Conteúdo
+### 3.4 Problemas encontrados - Conteúdo
 
-#### 3.5.1 Verificação 2 - O artefato possui um cronograma com data e local da realização do brainstorm?
+#### 3.4.1 Verificação 2 - O artefato possui um cronograma com data e local da realização do brainstorm?
 O artefato apresenta as informações de data e local da realização da técnica, contudo tais informações não se encontram em um cronograma organizado, já que se encontram em seções diferentes do documento.
 
-#### 3.5.2 Verificação 3 - Houve participação de um usuário ou persona na realização do brainstorm?
+#### 3.4.2 Verificação 3 - Houve participação de um usuário ou persona na realização do brainstorm?
 No artefato não há indicação de participação de um usuário ou encenação de persona para a realização da técnica.
 
-#### 3.5.3 Verificação 5 - O artefato possui a gravação do brainstorm?
+#### 3.4.3 Verificação 5 - O artefato possui a gravação do brainstorm?
 Não há no artefato, gravação de vídeo ou áudio da realização da técnica.
 
-#### 3.5.4 Verificação 6 - O brainstorm possui moderador e relator?
+#### 3.4.4 Verificação 6 - O brainstorm possui moderador e relator?
 Por mais que exista uma indicação de que houve um moderador na realização da técnica, não há indicação da existência de um relator na mesma.
 
-#### 3.5.5 Verificação 7 - O brainstorm leva em consideração um "sistema ideal"?
+#### 3.4.5 Verificação 7 - O brainstorm leva em consideração um "sistema ideal"?
 O artefato não deixa claro se foi considerado um "sistema ideal", além disso, os requisitos elicitados levam a crer que as ideias geradas se mantiveram no escopo do sistema já implementado do aplicativo analisado, levando a poucas ideias inovadoras.
 
 
