@@ -99,19 +99,15 @@ Na tabela 4, se encontra o _[checklist]_ de conteúdo preenchido após a realiza
 | 9 | Os níveis estão equilibrados quanto ao número de requisitos?[3] | 1 | 0 | 1 |
 | 10 | As dependências entre requisitos foram consideradas na priorização?[3] | 1 | 1 | 0 |
 
-### 3.3 Resultados
+### 3.3 Problemas encontrados - Padronização
 
-Nas figuras 1 e 2 abaixo, se encontram as representações gráficas referentes ao grau de satisfação e da ocorrência de erros do artefato. Estes dados foram recolhidos a partir da verificação de conteúdo do artefato.
-
-### 3.4 Problemas encontrados - Padronização
-
-#### 3.4.1 Verificação 3 - Possui links necessários?
+#### 3.3.1 Verificação 3 - Possui links necessários?
 Os requisitos presentes no artefatos deveriam conter links para sua elicitação, buscando informar uma rastreabilidade para os mesmos.
 
-#### 3.4.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+#### 3.3.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
 A legenda da tabela deste artefato se encontra fora do padrão utilizado no restante do projeto.
 
-### 3.5 Problemas encontrados - Conteúdo
+### 3.4 Problemas encontrados - Conteúdo
 
 #### 3.4.1 Verificação 2 - O artefato possui um cronograma com data e local da realização da técnica?
 O artefato não apresenta um cronograma detalhando quando e onde foi realizada a técnica.
