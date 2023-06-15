@@ -58,6 +58,7 @@ Esta  _[checklist](../planejamento/glossario.md#Checklist)_ é responsável por 
 Tabela 2 apresenta o resultado da verificação de conteúdo.
 
 <center>
+
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |:-:|--|--|--|--|
 | 1 | Há participação do cliente e/ou persona no processo de priorização? | 1 | 0 | 1 |
@@ -90,3 +91,4 @@ Não há na documentação informações sobre os motivos da priorização dos r
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
 | `1.0`  | 14/06/23 | Criação da verificação do MoSCoW do grupo 8 - Twitch | Samuel Sato | Vitor Manoel |
+| `1.1`  | 14/06/23 | Correção formatação | Samuel Sato | Lucas Rodrigues |
