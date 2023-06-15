@@ -61,7 +61,7 @@ Tabela 2 apresenta o resultado da verificação de conteúdo.
 <center>
 
 | ID | Verificação | Ocorrências | Acertos | Erros |
-|:-:|--|--|--|
+|:-:|--|--|--|--|
 | 1 | Todos os elementos do FURPS+ estão presentes? | 9 | 5 | 4 |
 | 2 | Todos os requisitos são testaveis? | 30 | 30 | 0 |
 | 3 | Os requisitos são compativeis com a classificação?| 30 | 28 | 2 |
@@ -92,3 +92,4 @@ Os requisitos U01 e U07 não fazem parte de requisitos de usabilidade.
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
 | `1.0`  | 14/06/23 | Criação da verificação do Especificação Suplementar do grupo 8 - Twitch | Samuel Sato | Vitor Manoel |
+| `1.1`  | 14/06/23 | Correção formatação | Samuel Sato | Lucas Rodrigues |

@@ -79,15 +79,17 @@ Na tabela 1, se encontra o _[checklist]_ de padronização preenchido após a re
 
 Esta _[checklist](../planejamento/glossario.md#Checklist)_ é responsável por verificar o conteúdo abordado baseado na definição da análise documental[1][2]. Tabela 2 apresenta o resultado da verificação de padronização.
 
+<center>
+
 | ID | Verificação | Ocorrências | Acertos | Erros |
-|:-:|--|--|--|
+|:-:|--|--|--|--|
 | 1 | Possui um título? | 1 | 0 | 1 |
 | 2 | Possui uma legenda explicando os símbolos utilizados no diagrama? | 1 | 1 | 0 |
 | 3 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato? | 1 | 1 | 0 |
 | 4 | Os atores estão fora da fronteira? | 1 | 1 | 0 |
 | 5 | Os elementos de armazenamento de dados estão dentro da fronteira? | 1 | 1 | 0 |
 | 6 | O fluxo das setas seguem uma ordem lógica? | 1 | 1 | 0 |
-
+</center>
 <h6 align="center">Tabela 2: Verificação do artefato rich picture</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
@@ -105,3 +107,4 @@ Esta _[checklist](../planejamento/glossario.md#Checklist)_ é responsável por v
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
 | `1.0`  | 14/06/23 | Criação da verificação do Rich Picture do grupo 8 - Twitch | Samuel Sato | Vitor Manoel |
+| `1.1`  | 14/06/23 | Correção formatação | Samuel Sato | Lucas Rodrigues |
