@@ -19,6 +19,7 @@ testes de aceitação fazem parte do aspecto de confirmação e dão origem aos 
 Longo, H. E. R.; Silva, M. P. (2014). A Utilização de Histórias de Usuários no Levantamento de 
 Requisitos Ágeis. Int. J. Knowl. Eng. Manag., ISSN 2316-6517.
 `
+
 * 2 - **As histórias possuem quem, o que e porque?**
 
 A sintaxe de uma história de usuário sugerida por Cohn (2004) deve conter:
@@ -88,6 +89,8 @@ Carvalho, L.A.C.; Barbosa, M. W.; Silva, V.B (2014). PROPOSTA E AVALIAÇÃO DE U
 `
 
 
+## Checklist conteúdo e padronização
+
 <center>
 
 |Item | Descrição| Avaliação |
@@ -130,8 +133,11 @@ A verificação conclui que foi feito um trabalho que atende as definições con
 ## 5. Referências Bibliográficas
 
 > [1] Carvalho, L.A.C.; Barbosa, M. W.; Silva, V.B (2014). PROPOSTA E AVALIAÇÃO DE UMA ABORDAGEM LÚDICA PARA O ENSINO DE HISTÓRIAS DE USUÁRIO E SCRUM. Revista de Gestão e Projetos - GeP e-ISSN: 2236-0972
+
 > [2] Cohn, M., User Stories Applied: For Agile Software Development, Addison-Wesley, 2004
+
 > [3] Longo, H. E. R.; Silva, M. P. (2014). A Utilização de Histórias de Usuários no Levantamento de Requisitos Ágeis. Int. J. Knowl. Eng. Manag., ISSN 2316-6517.
+
 > [4] Lista de Verificação da Qualidade de Artefatos - Checklist Ágil - disponivel em: [link](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view)
 
 
