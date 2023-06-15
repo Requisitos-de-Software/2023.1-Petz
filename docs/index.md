@@ -28,8 +28,13 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 <h6 align = "center"> Tabela 1: Integrantes da equipe </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+## 3. Permissão para realização do estudo
 
-## 3. Histórico de versão
+Foi enviado um email para um dos diretores do ecommerce Petz, afim de solicitar a permissão para realizar este estudo sobre o aplicativo da Petz, deixando claro que não se trata de uma engenharia reversa.
+
+![Permissão para estudo](./assets/images/permissaoCaioPraxedes.jpg){ width="500" }
+
+## 4. Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
@@ -38,3 +43,4 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 |  `1.3`   | 13/04/23 | Alteração do nome do aplicativo | Pedro Muniz | Felipe Corrêa |
 |  `1.4`   | 15/04/23 | Alteração dos ícones e adição do nome do aplicativo | Pedro Muniz | Samuel Sato |
 |  `1.5`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+|  `1.6`   | 16/06/23 | Adição da permissão de estudo | Lucas Rodrigues | Samuel Sato |
