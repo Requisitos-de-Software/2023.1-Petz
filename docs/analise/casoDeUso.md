@@ -99,7 +99,7 @@ A especificação deve conter todos os elementos básicos de um caso de uso, tai
 - Ator primário
 - Atores Secundários
 - Fluxo Principal
-- Gatilho
+- Pontos de exceção
 - Fluxo alternativo
 - Fluxo de exceção
 
@@ -109,3 +109,127 @@ A especificação deve conter todos os elementos básicos de um caso de uso, tai
 Para que se tenha a certeza de que os diagramas e especificação foram realizados corretamente, deve-se validar tais elementos com um usuário, para se certificar que os diagramas refletem o sistema real.
 
 `SALES, André Barros. Plano de ensino da disciplina.`
+
+### 2.15 O artefato possui a gravação da realização da técnica, assim como de sua validação?
+
+Para se registrar a realização da técnica, é interessante a presença de uma gravação em áudio ou vídeo da mesma.
+
+`SALES, André Barros. Plano de ensino da disciplina.`
+
+## 3. Desenvolvimento
+
+### 3.1 Padronização
+
+Na tabela 1, se encontra o _checklist_ de padronização preenchido após a realização da verificação.
+
+| ID | Verificação                                                          | Realizado |
+|----|----------------------------------------------------------------------|-----------|
+| 1  | Possui ortografia correta e formal?                                  | Sim       |
+| 2  | Possui introdução?                                                   | Sim       |
+| 3  | Possui links necessários?                                            | Sim       |
+| 4  | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Parcialmente       |
+| 5  | As tabelas e imagens estão totalmente em português?                  | Sim       |
+| 6  | Possui bibliografia?                                                 | Sim       |
+| 7  | A bibliografia está em ordem alfabética?                             | Sim       |
+| 8  | Possui histórico de versão padronizado?                              | Sim       |
+| 9  | O histórico de versão possui autor(es) e revisor(es)?                | Sim       |
+
+<h6 align = "center"> Tabela 1: Verificações de padronização do artefato</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+### 3.2 Conteúdo
+
+Na tabela 2, se encontra o _checklist_ de conteúdo preenchido após a realização da verificação.
+
+| ID | Verificação                                                                                               | Ocorrências | Acertos | Erros |
+|----|-----------------------------------------------------------------------------------------------------------|-------------|---------|-------|
+| 1  | Os diagramas representam de forma simples e completa as principais funcionalidades do sistema?            | 1           | 0       | 1     |
+| 2  | Os diagramas possuem todos os elementos essenciais de um caso de uso?                                     | 4           | 4       | 0     |
+| 3  | Nos diagramas, os elementos seguem o padrão UML de representação?                                         | 4           | 4       | 0     |
+| 4  | Nos diagramas, os atores se encontram fora da fronteira do sistema?                                       | 4           | 4       | 0     |
+| 5  | Os diagramas possuem ao menos um ator primário?                                                           | 4           | 4       | 0     |
+| 6  | Nos diagramas, os atores primários se encontram a esquerda do sistema, enquanto os secundários a direita? | 4           | 4       | 0     |
+| 7  | Nos diagramas, os cenários de uso são bem definidos?                                                      | 4           | 4       | 0     |
+| 8  | Nos diagramas, os casos de uso são objetivos e autoexplicativos?                                          | 4           | 4       | 0     |
+| 9  | Nos diagramas, é possível observar um cenário principal?                                                  | 4           | 0       | 4     |
+| 10 | Nos diagramas, é possível observar quais condições levam a cenários alternativos?                         | 4           | 0       | 4     |
+| 11 | Nos diagramas, as associações entre casos de uso são utilizadas de forma correta?                         | 4           | 4       | 0     |
+| 12 | O artefato possui a especificação dos casos de uso?                                                       | 4           | 4       | 0     |
+| 13 | A especificação possui os elementos básicos de um caso de uso?                                            | 4           | 0       | 4     |
+| 14 | Os diagramas de caso de uso foram validados por um usuário ou persona?                                    | 4           | 0       | 4     |
+| 15 | O artefato possui a gravação da realização da técnica, assim como de sua validação?                       | 1           | 0       | 1     |
+
+<h6 align = "center"> Tabela 2: Verificações de conteúdo do artefato</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+## 4. Problemas encontrados - Padronização
+
+### 4.1 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+As imagens e tabelas presentes no artefato não possuem chamada no texto, apenas legenda.
+
+## 5. Problemas encontrados - Conteúdo
+
+### 5.1 Verificação 1 - Os diagramas representam de forma simples e completa as principais funcionalidades do sistema?
+Percebe-se que os diagramas elaborados não cobrem todas as funcionalidades principais do aplicativo analisado, se focando em funções de cadastro e autenticação.
+
+### 5.2 Verificação 9 - Nos diagramas, é possível observar um cenário principal?
+Nos diagramas elaborados, se encontra apenas um cenário de execução, sem levar em conta fluxos alternativos ou de exceção, o que acaba por deixá-lo imcompleto. Sem fluxos alternativos, não é possível observar um cenário principal, mesmo que o diagrama o possua.
+
+### 5.3 Verificação 10 - Nos diagramas, é possível observar quais condições levam a cenários alternativos?  
+Como não foram representados cenários alternativos ou de exceção nos diagramas apresentados, também não é possível observar pontos de gatilho que levam o sistema à troca de fluxo de atividade.
+
+### 5.4 Verificação 13 - A especificação possui os elementos básicos de um caso de uso?
+Por mais que a especificação dos diagramas referencie todos os elementos básicos, a mesma não possui conteúdo nestes elementos, notado principalmente na falta de fluxos alternativos e de exceção.
+
+### 5.5 Verificação 14 - Os diagramas de caso de uso foram validados por um usuário ou persona?
+No artefato não há qualquer referência à uma validação dos diagramas por parte de um usuário real ou de uma persona por meio de encenação.
+
+### 5.6 Verificação 15 - O artefato possui a gravação da realização da técnica, assim como de sua validação?
+O artefato não apresenta a gravação de vídeo ou áudio da realização da técnica ou da validação da mesma.
+
+## 6. Resultados
+
+Os resultados da verificação do artefato de casos de uso podem ser encontrados na tabela 3 abaixo, por meio das figuras 1 e 2, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
+
+<center>
+
+| ![Representação do grau de satisfação no artefato](../assets/analise/usecases1/1.png)               | ![Gráfico de ocorrência de erros no artefato](../assets/analise/usecases1/2.png)                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 3: Gráfico de ocorrência de erros no artefato<br>Fonte: Autor, 2023</h6> |
+
+</center>
+
+<h6 align = "center"> Tabela 3: Representações gráficas dos resultados da verificação</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 7. Acompanhamento
+Após a verificação, os problemas relacionados à padronização do artefato foram corrigidas através da versão 1.2 do documento. As correções relacionadas ao conteúdo contudo, não foram realizadas até o momento de escrita da versão 1.0 deste artefato, tais correções possuem o planejamento de serem realizadas até o dia 28 de junho de 2023, através de uma nova versão do documento verificado.
+
+Como não houveram correções de conteúdo, o grau de satisfação e a ocorrência de erros no artefato se mantiveram inalterados, como se percebe através da tabela 4.
+
+<center>
+
+| ![Representação do grau de satisfação no artefato](../assets/analise/usecases1/1.png)               | ![Gráfico de ocorrência de erros no artefato](../assets/analise/usecases1/2.png)                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <h6 align="center">Figura 3: Representação do grau de satisfação no artefato após as correções<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 4: Gráfico de ocorrência de erros no artefato após as correções<br>Fonte: Autor, 2023</h6> |
+
+</center>
+
+<h6 align = "center"> Tabela 4: Representações gráficas dos resultados da verificação após as correções</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 8. Referências bibliográficas
+
+> [1] COCKBURN, Alistair. Writing Effective Use Cases. Washington: Addison-Wesley Professional, 1999. 240 p. Disponível em: <https://www-public.imtbs-tsp.eu/~gibson/Teaching/Teaching-ReadingMaterial/Cockburn00.pdf>. Acesso em: 18 jun. 2023.
+
+> [2] REINEHR, Sheila. Especificação de requisitos funcionais utilizando casos de uso. In: REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Sagah, 2020. p. 135-155.
+
+> [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf>. Acesso em: 19 de junho de 2023;
+
+## 9. Histórico de versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|--|--|--|--|--|
+| `1.0` | 19/06/23 | Criação do documento e adição do conteúdo | Pedro Muniz | Felipe Corrêa |

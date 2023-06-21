@@ -121,7 +121,7 @@ Por mais que exista uma indicação de que houve um moderador na realização da
 O artefato não deixa claro se foi considerado um "sistema ideal", além disso, os requisitos elicitados levam a crer que as ideias geradas se mantiveram no escopo do sistema já implementado do aplicativo analisado, levando a poucas ideias inovadoras.
 
 
-## 5. Referências bibliográficas
+## 4. Referências bibliográficas
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)
 
@@ -129,7 +129,7 @@ O artefato não deixa claro se foi considerado um "sistema ideal", além disso, 
 
 > [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023;
 
-## 6. Histórico de versão
+## 5. Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
