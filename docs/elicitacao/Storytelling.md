@@ -53,6 +53,10 @@ A tabela 1 detalha os requisitos funcionais que foram elicitados a partir da té
 | ST06 | Eu como usuário desejo uma seção dedicada a serviços de banho e tosa com opções de agendamento | RF |
 | ST07 | Eu como usuário desejo criar listas de compras recorrentes de produtos para animais de estimação, para facilitar a compra de itens básicos | RF |
 | ST08 | Eu como usuário desejo ter um fórum e sessões de ajuda para cuidados de animais com necessidades especiais | RF |
+| ST09 | Eu como usuário desejo um assinar um programa de fidelidade | RF |
+| ST10 | Eu como usuário desejo receber descontos a partir do programa de fidelidade | RF |
+
+
 
 <h6 align = "center"> Tabela 1: Requisitos funcionais elicitados </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
@@ -63,13 +67,13 @@ A tabela 2 detalha os requisitos não funcionais que foram elicitados a partir d
 
 ||||
 |------|--------|------|
-| ST09 | Performance rápida e consistente do aplicativo, incluindo tempo de carregamento de página e de checkout | RNF |
-| ST10 | Segurança das informações do usuário e de pagamento, incluindo criptografia de ponta a ponta | RNF |
-| ST11 | Disponibilidade dos produtos em estoque e prazo de entrega/retirada adequados | RNF |
-| ST12 | Interface de usuário amigável e fácil de usar | RNF|
-| ST13 | Confiabilidade e disponibilidade do sistema para garantir que os usuários possam acessar o aplicativo e fazer compras em qualquer momento do dia | RNF |
-| ST14 | Interface de usuário atraente e intuitiva, com fácil navegação e busca de informações | RNF |
-| ST15 | Eu como usuário desejo um programa de fidelidade para clientes frequentes, oferecendo descontos e benefícios exclusivos | RNF |
+| ST11 | Performance rápida e consistente do aplicativo, incluindo tempo de carregamento de página e de checkout | RNF |
+| ST12 | Segurança das informações do usuário e de pagamento, incluindo criptografia de ponta a ponta | RNF |
+| ST13 | Disponibilidade dos produtos em estoque e prazo de entrega/retirada adequados | RNF |
+| ST14 | Interface de usuário amigável e fácil de usar | RNF|
+| ST15 | Confiabilidade e disponibilidade do sistema para garantir que os usuários possam acessar o aplicativo e fazer compras em qualquer momento do dia | RNF |
+| ST16 | Interface de usuário atraente e intuitiva, com fácil navegação e busca de informações | RNF |
+
 
 <h6 align = "center"> Tabela 2: Requisitos não funcionais Elicitados </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
@@ -86,5 +90,6 @@ A tabela 2 detalha os requisitos não funcionais que foram elicitados a partir d
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 26/04/23 | Criação da primeira versão do artefato storytelling | Vitor Manoel   | Felipe Corrêa |
 |  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+|  `1.2`   | 21/06/23 | Correção de requisitos | Magno Luiz | Vitor Manoel |
 
 
