@@ -128,7 +128,7 @@ Idealmente, deve exisitir a validação dos requisitos elicitados no artefato da
 
 ## 6. Resultados 
 
-Os resultados da verificação do artefato de casos de uso podem ser encontrados na tabela 3 abaixo, por meio das figuras 1 e 2, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
+Os resultados da verificação do artefato de Introspecção podem ser encontrados na tabela 3 abaixo, por meio das figuras 1 e 2, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
 
 <center>
 
