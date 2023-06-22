@@ -74,6 +74,9 @@ nav:
         - Aspectos gerais: analise/aspectosgerais.md 
         - Introspecção: analise/introspeccao.md
         - Storytelling: analise/storytelling.md
+        - Questionário: analise/questionario.md
+        - Lexico: analise/lexicos.md
+        - NFR: analise/NFR.md
         - Teste piloto - Verificação Grupo 8:
             - Planejamento: analise/teste/planejamento.md
             - Aspectos gerais: analise/teste/aspectosGerais.md
