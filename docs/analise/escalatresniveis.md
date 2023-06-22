@@ -67,3 +67,8 @@ Na tabela 1, se encontra o _checklist_ de padronização preenchido após a real
 <h6 align = "center"> Tabela 1: Verificações de padronização do artefato</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+## 4. Histórico de versão
+
+| Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
+| ------ | -------- | -------------------------------- | ------------- | ----------- |
+| `1.0`  | 21/06/23 | Criação do documento e adição do conteúdo | Lucas | Pedro Muniz |
