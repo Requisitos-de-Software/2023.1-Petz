@@ -71,20 +71,6 @@ nav:
           - NFR Framework: modelagem/NFRframework.md
   - Análise:
         - Planejamento da verificação: analise/planejamento.md
-
-        - Priorização baseada em valor, custo e risco: analise/verif_prioValorCustoRisco.md
-        - Planejamento: analise/verif_planejamento.md
-        - Brainstorming: analise/verif_brainstorming.md
-        - Aspectos gerais: analise/aspectosgerais.md 
-        - Personas: analise/Personas.md
-        - Introspecção: analise/introspeccao.md
-        - Storytelling: analise/storytelling.md
-        - Questionário: analise/questionario.md
-        - Lexico: analise/lexicos.md
-        - NFR: analise/NFR.md
-        - Historias de usuário: analise/historiasDeUsuario.md
-        - Backlog: analise/Backlog.md
-        - mosCow: analise/mosCow.md
         - Teste piloto - Verificação Grupo 8:
             - Planejamento: analise/teste/planejamento.md
             - Aspectos gerais: analise/teste/aspectosGerais.md
@@ -108,6 +94,19 @@ nav:
             - Rich Picture: analise/richpicture.md
             - Casos de uso: analise/casoDeUso.md
             - Storytelling: analise/storytelling.md
+            - Priorização baseada em valor, custo e risco: analise/verif_prioValorCustoRisco.md
+            - Planejamento: analise/verif_planejamento.md
+            - Brainstorming: analise/verif_brainstorming.md
+            - Aspectos gerais: analise/aspectosgerais.md 
+            - Personas: analise/Personas.md
+            - Introspecção: analise/introspeccao.md
+            - Storytelling: analise/storytelling.md
+            - Questionário: analise/questionario.md
+            - Lexico: analise/lexicos.md
+            - NFR: analise/NFR.md
+            - Historias de usuário: analise/historiasDeUsuario.md
+            - Backlog: analise/Backlog.md
+            - mosCow: analise/mosCow.md
         - Validação:
             - Prototipação: analise/validacao/prototipagem.md
     
