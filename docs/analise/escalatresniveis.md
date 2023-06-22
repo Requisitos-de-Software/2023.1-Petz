@@ -1,9 +1,9 @@
 # Verificação - Escala de Três Níveis
 
 ## 1. Introdução
-A Escala de Três Níveis é uma técnica utilizada para avaliar e classificar o grau de satisfação dos usuários em relação a um determinado produto, serviço ou experiência. Ela permite a coleta de feedbacks e opiniões dos usuários em três categorias distintas: positiva, neutra e negativa. A verificação desse artefato tem como objetivo analisar a aplicação correta da Escala de Três Níveis e garantir a qualidade das avaliações realizadas.
+A Escala de Três Níveis é uma técnica utilizada para avaliar e classificar o grau de satisfação dos usuários em relação a um determinado produto ou serviço. Ela permite a coleta de feedbacks e opiniões dos usuários em três categorias: positiva, neutra e negativa. A verificação desse artefato tem como objetivo analisar a aplicação correta da Escala de Três Níveis e garantir a qualidade das avaliações realizadas.
 
-Este documento possui a função de verificar o artefato da Escala de Três Níveis do projeto. A verificação leva em conta a versão 1.0 do artefato realizada em 16 de maio de 2023.
+A verificação leva em conta a versão 1.1 do artefato realizada em 30 de abril de 2023.
 
 ## 2. Metodologia
 A verificação a seguir segue a metodologia proposta no [planejamento](../planejamento.md)[1], onde serão utilizados _[checklists](../../planejamento/glossario.md#Checklist)_ para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo.
@@ -42,7 +42,7 @@ Além da coleta dos feedbacks, é importante realizar uma análise dos resultado
 
 ### 2.6 Verificação 6 - O artefato apresenta conclusões e recomendações baseadas nos resultados?
 
-As conclusões e recomendações são etapas importantes para fechar o ciclo da Escala de Três Níveis. Foi importante verificar se o artefato continha conclusões e recomendações embasadas nos resultados obtidos, visando melhorias e tomada de decisões.
+As conclusões e recomendações são etapas importantes para fechar o ciclo da Escala de Três Níveis. É importante verificar se o artefato contém conclusões e recomendações embasadas nos resultados obtidos, visando melhorias e tomada de decisões.
 
 `[1] Cooper, A., Reimann, R., & Cronin, D. (2007). About Face 3: The Essentials of Interaction Design.`
 
@@ -57,7 +57,7 @@ Na tabela 1, se encontra o _checklist_ de padronização preenchido após a real
 | 1  | Possui ortografia correta e formal?                                  | Sim       |
 | 2  | Possui introdução?                                                   | Sim       |
 | 3  | Possui links necessários?                                            | Sim       |
-| 4  | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Parcialmente       |
+| 4  | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Sim       |
 | 5  | As tabelas e imagens estão totalmente em português?                  | Sim       |
 | 6  | Possui bibliografia?                                                 | Sim       |
 | 7  | A bibliografia está em ordem alfabética?                             | Sim       |
@@ -67,8 +67,37 @@ Na tabela 1, se encontra o _checklist_ de padronização preenchido após a real
 <h6 align = "center"> Tabela 1: Verificações de padronização do artefato</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## 4. Histórico de versão
+### 3.2 Conteúdo
+
+Na tabela 2, se encontra o _checklist_ de conteúdo preenchido após a realização da verificação.
+
+| ID | Verificação                                                          | Realizado |
+|----|----------------------------------------------------------------------|-----------|
+| 1  | As justificativas para a priorização dos requisitos estão claras e fundamentadas. | Sim       |
+| 2  | As tabelas de requisitos de alta, média e baixa prioridade estão completas e organizadas.                                | Sim       |
+| 3  | Os requisitos que não serão executados foram corretamente identificados e justificados. | Sim       |
+| 4  | A descrição dos quadrantes da matriz (alta prioridade, média prioridade, baixa prioridade) está clara e condizente com o projeto | Sim       |
+| 5  | A análise dos resultados obtidos foi apresentada de forma clara e compreensível.            | Sim       |
+
+<h6 align = "center"> Tabela 2: Verificações de conteúdo do artefato</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 4. Resultados
+
+Os resultados da verificação do artefato de casos de uso podem ser encontrados na tabela 3 abaixo, por meio das figuras 1, onde podem ser verificados o grau de satisfação, a ocorrência de erros no artefato não se aplica a esse artefato. Estes resultados levam em conta apenas a verificação do conteúdo.
+
+<center>
+
+| ![Representação do grau de satisfação no artefato](../assets/analise/graficosatisfacaoescala100.png) |
+| ----------------------------------------------------------------------------------------------------- |
+| <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> |
+
+</center>
+
+## 5. Histórico de versão
 
 | Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
 | ------ | -------- | -------------------------------- | ------------- | ----------- |
 | `1.0`  | 21/06/23 | Criação do documento e adição do conteúdo | Lucas | Pedro Muniz |
+| `1.1`  | 22/06/23 | Correção e adição de conteúdo             | Lucas | Pedro Muniz |
+
