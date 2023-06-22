@@ -71,6 +71,9 @@ nav:
           - NFR Framework: modelagem/NFRframework.md
   - Análise:
         - Planejamento da verificação: analise/planejamento.md
+        - Aspectos gerais: analise/aspectosgerais.md 
+        - Introspecção: analise/introspeccao.md
+        - Storytelling: analise/storytelling.md
         - Teste piloto - Verificação Grupo 8:
             - Planejamento: analise/teste/planejamento.md
             - Aspectos gerais: analise/teste/aspectosGerais.md

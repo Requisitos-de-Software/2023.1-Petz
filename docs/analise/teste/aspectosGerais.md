@@ -40,7 +40,7 @@ As apresentações do projeto devem ser feitas assíncronamente e presencialment
 
 `SALES, André Barros. Plano de ensino da disciplina. Página 7.`
 
-### 2.6 Verificaçã0 6 - As páginas das apresentações marcam os membros peesentes nas mesmas?
+### 2.6 Verificaçã0 6 - As páginas das apresentações marcam os membros presentes nas mesmas?
 
 Para efeito de registro de participação e avaliação, os membros pŕesentes nas apresentações de cada etapa devem ser devidamente registrados.
 
@@ -91,7 +91,7 @@ Na tabela 2, se encontra o _[checklist](../../planejamento/glossario.md#Checklis
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
-### 3.3 Problemas encontrados - padronização
+### 3.3 Problemas encontrados - Padronização
 
 #### 3.3.1 Verificação 1 - Possui ortografia correta e formal?
 
@@ -113,7 +113,7 @@ Nenhum dos artefatos possui bibliografia.
 
 O histórico de versão da página inicial não possui revisores, bem como os das páginas das reuniões 6,7 e 8.
 
-### 3.4 Problemas encontrados - conteúdo
+### 3.4 Problemas encontrados - Conteúdo
 
 #### 3.4.1 Verificação 4 - As páginas das reuniões possuem as gravações das mesmas disponibilizadas no YouTube como vídeos não listados ou de outra forma?
 

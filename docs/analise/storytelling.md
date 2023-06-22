@@ -121,11 +121,7 @@ O artefato não apresenta a gravação de vídeo ou áudio da realização da t�
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 3: Gráfico de ocorrência de erros no artefato<br>Fonte: Autor, 2023</h6> |
 
-</center>
-
-<h6 align = "center"> Tabela 3: Representações gráficas dos resultados da verificação</h6>
-<h6 align = "center"> Fonte: Autor, 2023 </h6>
-
+  
 ## 7. Acompanhamento
 Após a verificação, foram iniciadas as correções de conteúdo necessárias, desta forma, é planejado que tais correções sejam realizadas até o dia 28 de junho de 2023, através de uma nova versão do documento verificado.
 
