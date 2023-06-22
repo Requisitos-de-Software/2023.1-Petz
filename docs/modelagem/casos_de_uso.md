@@ -10,7 +10,7 @@ Para a realização da atividade de diagramação no artefato, foi utilizada a f
 
 ### 3.1 Ator(es)
 
- Atores são caracterizados por serem os usuários do sistema ou um tipo de usuário[1].
+ Atores são caracterizados por serem os usuários do sistema ou um tipo de usuário[1]. Sua representação nos diagramas pode ser vista na figura 1.
 <center>
 
 ![Ator](../assets/casos_de_uso/elemento_ator.png)
@@ -22,7 +22,7 @@ Para a realização da atividade de diagramação no artefato, foi utilizada a f
 
 ### 3.2 Caso de uso
 
-Caso de uso é uma tarefa ou funcionalidade realizada pelo ator[1].
+Caso de uso é uma tarefa ou funcionalidade realizada pelo ator[1]. Sua representação nos diagramas pode ser vista na figura 2.
 
 <center>
 
@@ -35,7 +35,7 @@ Caso de uso é uma tarefa ou funcionalidade realizada pelo ator[1].
 
 ### 3.3 Cenário 
 
-Cenário é uma sequência de eventos que estão acontecendo enquanto o usuário interage com o sistema[1].
+Cenário é uma sequência de eventos que estão acontecendo enquanto o usuário interage com o sistema[1]. Sua representação nos diagramas pode ser vista na figura 3.
 
 <center>
 
@@ -48,7 +48,7 @@ Cenário é uma sequência de eventos que estão acontecendo enquanto o usuário
 
 ### 3.4 Pontos de extensão
 
-Ponto de extensão é a especificação de um caso de uso base, sendo referido por um relacionamento de extensão entre o caso de uso e base e o de extensão[2].
+Ponto de extensão é a especificação de um caso de uso base, sendo referido por um relacionamento de extensão entre o caso de uso e base e o de extensão[2]. Sua representação nos diagramas pode ser vista na figura 4.
 
 <center>
 
@@ -82,7 +82,9 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 
 
-## 4. Diagrama de Casos de Uso
+## 4. Diagramas de Casos de Uso
+
+Na figura 6 observa-se o diagrama geral dos casos de uso do sistema.
 
 <center>
 
@@ -96,6 +98,8 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 
 ## UC01 - Realizar Cadastro
+
+Na figura 7 observa-se o diagrama de caso de uso referente ao cadastro. Abaixo na tabela 1 se encontra a especificação do diagrama.
 
 <center>
 
@@ -122,6 +126,7 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## UC02 - Efetuar Login
 
+Na figura 8 observa-se o diagrama de caso de uso referente ao login. Abaixo na tabela 2 se encontra a especificação do diagrama.
 
 <center>
 
@@ -147,6 +152,8 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 ## UC03 - Compra de produto
+
+Na figura 9 observa-se o diagrama de caso de uso referente à compra de um produto. Abaixo na tabela 3 se encontra a especificação do diagrama.
 
 <center>
 
@@ -174,6 +181,8 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 ## UC04 - Efetuar Pagamento
 
+Na figura 10 observa-se o diagrama de caso de uso referente ao pagamento. Abaixo na tabela 4 se encontra a especificação do diagrama.
+
 <center>
 
 ![Pagamento](../assets/casos_de_uso/fluxo_pagamento.png)
@@ -199,6 +208,8 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 
 
 ## UC05 - Consultar conta 
+
+Na figura 11 observa-se o diagrama de caso de uso referente à consulta de conta. Abaixo na tabela 5 se encontra a especificação do diagrama.
 
 <center>
 
@@ -240,3 +251,4 @@ Ponto de extensão é a especificação de um caso de uso base, sendo referido p
 | Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es)   |
 | ------ | -------- | ------------------------------------------ | ------------- | ------------- |
 | `1.0`  | 16/05/23 | Criação do artefato de casos de uso | Magno Luiz |  Pedro Muniz |
+| `1.1`  | 19/06/23 | Correções de padronização | Pedro Muniz |  Felipe Corrêa |

@@ -205,7 +205,7 @@ Os resultados da verificação do artefato de casos de uso podem ser encontrados
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 ## 7. Acompanhamento
-Após a verificação, os problemas relacionados à padronização do artefato foram corrigidas através da versão 1.2 do documento. As correções relacionadas ao conteúdo contudo, não foram realizadas até o momento de escrita da versão 1.0 deste artefato, tais correções possuem o planejamento de serem realizadas até o dia 28 de junho de 2023, através de uma nova versão do documento verificado.
+Após a verificação, os problemas relacionados à padronização do artefato foram corrigidas através da versão 1.1 do documento. As correções relacionadas ao conteúdo contudo, não foram realizadas até o momento de escrita da versão 1.0 deste artefato, tais correções possuem o planejamento de serem realizadas até o dia 28 de junho de 2023, através de uma nova versão do documento verificado.
 
 Como não houveram correções de conteúdo, o grau de satisfação e a ocorrência de erros no artefato se mantiveram inalterados, como se percebe através da tabela 4.
 

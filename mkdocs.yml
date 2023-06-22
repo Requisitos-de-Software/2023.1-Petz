@@ -90,9 +90,12 @@ nav:
             - Histórias de usuário: analise/teste/historiasUsuario.md
             - Backlog: analise/teste/backlog.md
             - NFR Framework: analise/teste/nfr.md
-        - Rich Picture: analise/richpicture.md
-        - Casos de uso: analise/casoDeUso.md
-        - Storytelling: analise/storytelling.md
+        - Verificação:
+            - Rich Picture: analise/richpicture.md
+            - Casos de uso: analise/casoDeUso.md
+            - Storytelling: analise/storytelling.md
+        - Validação:
+            - Prototipação: analise/validacao/prototipagem.md
     
 
 markdown_extensions:

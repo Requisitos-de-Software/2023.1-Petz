@@ -34,17 +34,17 @@ Para a verificação de cada artefato, serão utilizados dois _[checklist](../pl
 
 <center>
 
-| ID | Verificação | Realizado | Possíveis correções |
-|:-:|--|--|--|
-| 1 | Possui ortografia correta e formal? | - | - |
-| 2 | Possui introdução? | - | - |
-| 3 | Possui links necessários? | - | - |
-| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | - | - |
-| 5 | As tabelas e imagens estão totalmente em português? | - | - |
-| 6 | Possui bibliografia? | - | - |
-| 7 | A bibliografia está em ordem alfabética? | - | - |
-| 8 | Possui histórico de versão padronizado? | - | - |
-| 9 | O histórico de versão possui autor(es) e revisor(es)? | - | - |
+| ID | Verificação | Realizado |
+|:-:|--|--|
+| 1 | Possui ortografia correta e formal? | - |
+| 2 | Possui introdução? | - |
+| 3 | Possui links necessários? | - |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | - |
+| 5 | As tabelas e imagens estão totalmente em português? | - |
+| 6 | Possui bibliografia? | - |
+| 7 | A bibliografia está em ordem alfabética? | - |
+| 8 | Possui histórico de versão padronizado? | - |
+| 9 | O histórico de versão possui autor(es) e revisor(es)? | - |
 
 </center>
 
@@ -53,20 +53,41 @@ Para a verificação de cada artefato, serão utilizados dois _[checklist](../pl
 
 <center>
 
-| ID | Verificação | Ocorrências | Acertos | Erros | Possíveis correções |
-| :-: | ------- | -------- | -------- | ------ | -------- |
-| USX | Descrição | Qtd. de verificações | Qtd. de acertos | Qtd. de erros | Possíveis correções |
+| ID | Verificação | Ocorrências | Acertos | Erros |
+| :-: | ------- | -------- | -------- | ------ |
+| USX | Descrição | Qtd. de verificações | Qtd. de acertos | Qtd. de erros |
 
 <h6 align="center">Tabela 3: Modelo de checklist para conteúdo</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
 </center>
 
-## 4. Padrões do projeto
+## 4. Estrutura dos documentos
+Os documentos referentes à verificação dos artefatos deve seguir uma estrutura pré-definida, tal estrutura pode ser encontrada abaixo:
+
+### 4.1 Introdução
+Nesta seção deve ser feita uma pequena introdução acerca do artefato verificado, além de conter informações sobre a versão do artefato e data da verificação.
+
+### 4.2 Metodologia
+Nesta seção devem ser detalhadas todas as verificações de conteúdo elaboradas, contendo uma breve descrição e critérios para a escolha da mesma, além de sua fonte.
+
+### 4.3 Desenvolvimento
+Nesta seção devem ser apresentadas as duas _checklists_ de verificação do artefato preenchidas com os dados obtidos da verificação.
+
+### 4.4 Resultados
+Nesta seção devem ser apresentadas as representações gráficas do grau de satisfação e ocorrência de erros calculados a partir dos dados obtidos da verificação.
+
+### 4.5 Problemas encontrados
+Nesta seção devem ser apresentados os erros e problemas encontrados na verificação de forma detalhada. Além de propostas de correções para os problemas apresentados.
+
+### 4.6 Acompanhamento
+Nesta seção devem ser apresentadas as correções necessárias, além de informar quais problemas foram corrigidos.
+
+## 5. Padrões do projeto
 
 Para verificar se o projeto segue um padrão consiso em todos os seus artefatos, segue abaixo o padrão adotado para legenda, bibliografia e histórico de versão
 ´
-### 4.1 Legenda
+### 5.1 Legenda
 
 Todas as tabelas e imagens presentes no projeto, além de serem chamadas de forma coesa pelo texto, devem possuir a legnda padronizada. Tal padrão pode ser encontrado abaixo.
 
@@ -84,7 +105,7 @@ Para imagens:
 <h6 align="center">Fonte: Autor, 2023</h6>
 ```
 
-### 4.2 Bibliografia
+### 5.2 Bibliografia
 
 A bibliografia de cada artefato deve estar em ordem alfabética e identificada com numeração crescente. Abaixo se encontra um exemplo de bibliografia
 
@@ -94,7 +115,7 @@ A bibliografia de cada artefato deve estar em ordem alfabética e identificada c
 
 > [3] Referência C
 
-### 4.3 Histórico de versão
+### 5.3 Histórico de versão
 
 Abaixo se encontra o padrão de histórico de versão adotado no projeto.
 
@@ -109,7 +130,7 @@ Abaixo se encontra o padrão de histórico de versão adotado no projeto.
 <h6 align="center">Tabela 4: Padrão para histórico de versão</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
-## 5. Teste piloto
+## 6. Teste piloto
 
 Para a verificação seja feita de forma correta, primeiramente será executado um teste piloto, onde serão analisados os artefatos criados pelo [grupo 8](https://github.com/Requisitos-de-Software/2023.1-Twitch)[4], na tabela 4 apresentada abaixo se encontram os artefatos que serão analisados, assim como o responsável por cada verificação.
 
@@ -141,7 +162,57 @@ Para a verificação seja feita de forma correta, primeiramente será executado 
 <h6 align="center">Tabela 5: Artefatos a serem verificados</h6>
 <h6 align="center">Fonte: Autor, 2023</h6>
 
-## 6. Referências Bibliográficas
+## 7. Verificação
+Na tabela 6 se encontram os responsáveis pela verificação dos artefatos desenvolvidos pela equipe.
+
+<center>
+
+| Artefato | Revisor |
+|------------------------------------------------------------------------------|--------|
+| Planejamento                                                                 | Felipe |
+| Aspectos gerais                                                              | Magno  |
+| Rich picture                                                                 | Pedro  |
+| Geral - Elicitação(Técnicas planejadas, resultados elicitação e priorização) | Samuel |
+| Perfil de usuário                                                            | Lucas  |
+| Personas                                                                     | Vitor  |
+| Brainstorm                                                                   | Felipe |
+| Instrospecção                                                                | Magno  |
+| StoryTelling                                                                 | Pedro  |
+| Questionário                                                                 | Samuel |
+| Escala de três níveis                                                        | Lucas  |
+| MosCow                                                                       | Vitor  |
+| Baseada em valor, custo e risco                                              | Felipe |
+| Cenários                                                                     | Magno  |
+| Casos de uso                                                                 | Pedro  |
+| Léxicos                                                                      | Samuel |
+| Especificação suplementar                                                    | Lucas  |
+| Histórias de usuário                                                         | Vitor  |
+| Backlog                                                                      | Vitor  |
+| NFR Framework                                                                | Samuel |
+
+</center>
+
+<h6 align="center">Tabela 6: Artefatos a serem verificados</h6>
+<h6 align="center">Fonte: Autor, 2023</h6>
+
+## 8. Validação 
+
+Na tabela 7 se encontram os responsáveis pela verificação dos artefatos desenvolvidos pela equipe.
+
+<center>
+
+| Validação | Reponsável (eis) |
+|-----------|------------------|
+| Informal | Lucas |
+| Prototipação | Pedro e Felipe |
+
+<h6 align="center">Tabela 7: Responsáveis pela validação</h6>
+<h6 align="center">Fonte: Autor, 2023</h6>
+
+
+</center>
+
+## 7. Referências Bibliográficas
 
 > [1] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP
 
@@ -153,9 +224,10 @@ Para a verificação seja feita de forma correta, primeiramente será executado 
 
 > [5] Twitch, acesso em: 24 de maio de 2023. Para mais informações acesse: <https://www.twitch.tv/>
 
-## 7. Histórico de versão
+## 8. Histórico de versão
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
 | `1.0`  | 24/05/23 | Criação da página de planejamento da verificação | Pedro Muniz | Felipe Corrêa |
-| `1.0` | 25/05/23 | Adição da tabela de conteúdo | Pedro Muniz | Felipe Corrêa |
+| `1.1` | 25/05/23 | Adição da tabela de conteúdo | Pedro Muniz | Felipe Corrêa |
+| `1.2` | 18/06/23 | Adição da verificação e validação do projeto | Pedro Muniz | Felipe Corrêa |
