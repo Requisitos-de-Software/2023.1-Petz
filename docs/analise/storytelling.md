@@ -1,163 +1,155 @@
-# Verificação do Storytelling
+# Storytelling
 
-## 1. Introdução
+# 1. Introdução
 
-A verificação do [Storytelling](https://requisitos-de-software.github.io/2023.1-Petz/elicitacao/Storytelling/#1-introducao) é tratada pela inspeção do artefato relacionado. Envolvendo a descrição da técnica que consiste no uso de contagem de histórias em grupos de pessoas[1], com o objetivo de elicitar requisitos que serão utilizados na concepção do projeto. A versão verificada é a 1.1.
+Storytelling é uma técnica de elicitação de requisitos de realização extremamente simples, onde o engenheiro de requisitos cria uma narrativa de uso do sistema, ou seja uma história onde um usuário necessita de algo e o sistema planejado o atende, é necessário citar que para a correta realização desta técnica, é imprescindível que o engenheiro tenha em mãos personas bem definidas, a fim de representá-las corretamente nas histórias criadas.
+
+Este documento possui a função de verificar o artefato de casos de uso do projeto. A verificação leva em conta a versão 1.1 do artefato realizada em 30 de abril de 2023.
 
 ## 2. Metodologia
 
-A verificação a seguir segue a metodologia proposta no [planejamento](../planejamento.md)[1], onde serão utilizados _[checklists](../../planejamento/glossario.md#Checklist)_ para a verificação dos conteúdos presentes no artefatos, buscando encontrar erros e elementos faltantes no mesmo.
+A verificação a seguir segue a metodologia proposta no [planejamento](../planejamento.md)[1], onde serão utilizados _[checklists](../../planejamento/glossario.md#Checklist)_ para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo.
 
 Abaixo seguem as verificações de conteúdo elaboradas, contendo a justificativa de cada uma além de sua fonte:
 
-## 2.1 Verificação 1 - O Storytelling está dividido em eventos?
+### 2.1 As histórias criadas seguem uma ordem lógica?
 
-Eventos são importantes para definir os acontecimentos das histórias.
+Como são narrativas, é de extrema importância que as histórias criadas possuam uma coesão e coerência. Além de poderem ser lidas de forma a criar uma linha temporal de acontecimentos.
 
-`Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).`
+`READE, Dennis et al. Storytelling. In: READE, Dennis et al. Marketing: novas tendências. São Paulo: Saraiva, 2015. Cap. 2. p. 30-43.`
 
-## 2.2 Verificação 2 - Existe uma estrutura de causalidade desenvolvida?
+### 2.2 As histórias contém os elementos necessários para uma boa história?
 
-A causalidade é necessária para estabelecer as motivações e razões de acontecimentos.
+Para que uma narrativa seja realizada de forma satisfatória, é necessário que se tenham elementos básicos que levam ao entendimento da mesma, tais elementos são:
 
-`Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).`
+- **Mensagem:** Representa a ideia da narrativa, aquilo que deve ser passado ao leitor.
+- **Ambiente:** Contexto da narrativa.
+- **Personagem:** Aquele que participa da história, no caso do artefato, uma persona.
+- **Conflito:** Situação a ser superada pelo personagem da narrativa.
 
-## 2.3 Verificação 3 - O Storytelling apresenta uma estrutura que desenvolve o início,meio e fim da história compartilhada?
+`VIEIRA, Dimitri. O que é Storytelling? O guia para você dominar a arte de contar histórias e se tornar um excelente Storyteller. 2023. Disponível em: https://rockcontent.com/br/blog/o-que-e-storytelling-guia-para-voce-dominar-a-arte-de-contar-historias/. Acesso em: 20 jun. 2023.`
 
-Para que a história gerada seja compreensível e tenha valor para a elicitação, ela deve possuir início, meio e fim.
+### 2.3 As histórias possuem mais de um autor?
 
-`Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).`
+Para criar histórias capazes de transmitir diversas ideias e por fim inspirar a elicitação, é necessário que as mesmas sejam revisadas e complementadas por mais de um autor, buscando diversos pontos de vista.
 
-## 2.4 Verificação 4 - O Storytelling contém personagens desenvolvidos no método?
+`SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE, 12., 2013, Salvador. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. Salvador: Sociedade Brasileira de Computação, 2013. 14 p.`
 
-A utilização de personagens é importante para definir quem realiza e sofre as ações das histórias.
+### 2.4 Os personagens das histórias são personas ou usuários?
 
-`Migon, Lilian Bitton, and Luiz Carlos SILVA JUNIOR. "De histórias a processos: Utilização da técnica de Group Storytelling para apoio à elicitação de processos de negócios." Brazilian Workshop on Business Process Management, I. 2007.`
+Por se tratarem de narrativas propostas sobre o sistema a ser projetado, é necessário que as histórias circulem sobre aqueles que utilizarão o mesmo.
 
-## 2.5 Verificação 5 - O Storytelling é interativo (Existe interação entre usuário,história e personagens)?
+`READE, Dennis et al. Storytelling. In: READE, Dennis et al. Marketing: novas tendências. São Paulo: Saraiva, 2015. Cap. 2. p. 30-43.`
 
-A interação é importante para que a história alcance coesão em sua criação, tenha direcionamento e gerencie os agentes.
+### 2.5 O artefato sumariza de forma organizada os requisitos provenientes da técnica?
 
-`Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).`
+Para que se tenha uma leitura limpa do artefato, é interessante que os requisitos obtidos a partir do storytelling sejão apresentados de forma organizada.
 
-## 2.6 Verificação 6 - No desenvolvimento do Storytelling, teve a utilização de personas contextualizadas?
+`SALES, André Barros. Plano de ensino da disciplina.`
 
-As personas podem ser utilizadas para enriquecer o desenvolvimento das histórias.
+### 2.6 As histórias foram validadas com um usuário ou persona?
 
-`Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).`
+Para garantir que as histórias elaboradas são condizentes com a realidade e contexto dos usuários reais do sistema, é necessária uma validação da técnica junto aos mesmos.
 
-## 2.7 Verificação 7 - Os requisitos elicitados estão expressados em sentenças que definem critérios de aceitação da aplicação?
+`SALES, André Barros. Plano de ensino da disciplina.`
 
-Para que os requisitos elicitados sejam relevantes, é necessário que façam sentido ao redor dos critérios de aceitação para a aplicação ser um sucesso.
+### 2.7 O artefato possui a gravação da realização da técnica, assim como de sua validação?
 
-`Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).`
+Para se registrar a realização da técnica, é interessante a presença de uma gravação em áudio ou vídeo da mesma.
 
-## 2.8 Verificação 8 - Os requisitos elicitados estão padronizados para facilitar a identificação?
+`SALES, André Barros. Plano de ensino da disciplina.`
 
-Importante para a organização e rastreabilidade do projeto.
-
-`Tribunal Regional do Trabalho do Paraná. Disponível em: https://www.trt9.jus.br/pds/index.htm. Acesso em 21 de jun. 2023.`
-
-## 2.9 Verificação 9 - Os requisitos funcionais estão adequados a sua categorização?
-
-A caracterização de requisitos funcionais existe para identificar soluções para a aplicação em forma de funcionalidades que a aplicação apresenta.
-
-`Tribunal Regional do Trabalho do Paraná. Disponível em: https://www.trt9.jus.br/pds/index.htm. Acesso em 21 de jun. 2023.`
-
-## 2.10 Verificação 10 - Os requisitos não-funcionais estão adequados a sua categorização?
-
-Os requisitos não-funcionais abordam problemáticas que a aplicação apresenta em relação a desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenibilidade e tecnologias envolvidas.
-
-`Tribunal Regional do Trabalho do Paraná. Disponível em: https://www.trt9.jus.br/pds/index.htm. Acesso em 21 de jun. 2023.`
-
-``
 ## 3. Desenvolvimento
 
 ### 3.1 Padronização
 
-Na tabela 1, se encontra o _[checklist](../../planejamento/glossario.md#Checklist)_ de padronização preenchido após a realização da verificação.
+Na tabela 1, se encontra o _checklist_ de padronização preenchido após a realização da verificação.
 
-| ID  | Verificação                                                          | Realizado |
-| --- | -------------------------------------------------------------------- | --------- |
-| 1   | Possui ortografia correta e formal?                                  | Sim |
-| 2   | Possui introdução?                                                   | Sim       |
-| 3   | Possui links necessários?                                            | Sim       |
-| 4   | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Sim|
-| 5   | As tabelas e imagens estão totalmente em português?                  | Sim       |
-| 6   | Possui bibliografia?                                                 | Sim       |
-| 7   | A bibliografia está em ordem alfabética?                             | Sim       |
-| 8   | Possui histórico de versão padronizado?                              | Sim       |
-| 9   | O histórico de versão possui autor(es) e revisor(es)?                | Sim|
+| ID | Verificação                                                          | Realizado |
+|----|----------------------------------------------------------------------|-----------|
+| 1  | Possui ortografia correta e formal?                                  | Sim       |
+| 2  | Possui introdução?                                                   | Sim       |
+| 3  | Possui links necessários?                                            | Sim       |
+| 4  | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Sim       |
+| 5  | As tabelas e imagens estão totalmente em português?                  | Sim       |
+| 6  | Possui bibliografia?                                                 | Sim       |
+| 7  | A bibliografia está em ordem alfabética?                             | Sim       |
+| 8  | Possui histórico de versão padronizado?                              | Sim       |
+| 9  | O histórico de versão possui autor(es) e revisor(es)?                | Sim       |
 
-<h6 align = "center"> Tabela 1: Verificação de padronização do Storytelling </h6>
+<h6 align = "center"> Tabela 1: Verificações de padronização do artefato</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
 ### 3.2 Conteúdo
 
-Na tabela 2, se encontra o _[checklist](../../planejamento/glossario.md#Checklist)_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir do plano de ensino da disciplina [2].
+Na tabela 2, se encontra o _checklist_ de conteúdo preenchido após a realização da verificação.
 
-| ID| Verificação                                | Ocorrências | Acertos | Erros |
-| - | ------------------------------------------ | ----------- | ------- | ----- |
-| 1 | O Storytelling está dividido em eventos?[2]| 2 | 2 | 0 |
-| 2 | Existe uma estrutura de causalidade desenvolvida?[2] | 2 | 2 | 0 |
-| 3 | O Storytelling apresenta uma estrutura que desenvolve o início,meio e fim da história compartilhada?[2] | 2 | 2 | 0 |
-| 4 | O Storytelling contém personagens desenvolvidos no método?[2] | 2 | 2 | 0 |
-| 5 | O Storytelling é interativo (Existe interação entre usuário,história e personagens)?[2] | 2 | 2 | 0 |
-| 6 | No desenvolvimento do Storytelling, teve a utilização de personas contextualizadas?[1] | 2 | 2 | 0 |
-| 7 | Os requisitos elicitados estão expressados em sentenças que definem critérios de aceitação da aplicação?[2] | 1 | 1 | 0 |
-| 8 | Os requisitos elicitados estão padronizados para facilitar a identificação?[3] | 15 | 14 | 1 |
-| 9 | Os requisitos funcionais estão adequados a sua categorização?[3] | 8 | 8 | 0 |
-| 10 | Os requisitos não-funcionais estão adequados a sua categorização?[3]| 7 | 6 | 1 |
+| ID | Verificação                                                                         | Ocorrências | Acertos | Erros |
+|----|-------------------------------------------------------------------------------------|-------------|---------|-------|
+| 1  | As histórias criadas seguem uma ordem lógica?                                       | 2           | 2       | 0     |
+| 2  | As histórias contém os elementos necessários para uma boa história?                 | 2           | 2       | 0     |
+| 3  | As histórias possuem mais de um autor?                                              | 2           | 0       | 2     |
+| 4  | Os personagens das histórias são personas ou usuários?                              | 2           | 2       | 0     |
+| 5  | O artefato sumariza de forma organizada os requisitos provenientes da técnica?      | 2           | 2       | 0     |
+| 6  | As histórias foram validadas com um usuário ou persona?                             | 2           | 0       | 2     |
+| 7  | O artefato possui a gravação da realização da técnica, assim como de sua validação? | 2           | 0       | 2     |
 
-<h6 align = "center"> Tabela 2: Verificação de conteúdo do Storytelling </h6>
+<h6 align = "center"> Tabela 2: Verificações de conteúdo do artefato</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
-## 4. Problemas encontrados - Conteúdo
+## 4. Problemas encontrados - Padronização
+Não foram encontrados problemas de padronização no documento.
 
-## 4.1 Verificação 8 - Os requisitos elicitados estão padronizados para facilitar a identificação?
+## 5. Problemas encontrados - Conteúdo
 
-O requisitos não funcional [ST15](https://requisitos-de-software.github.io/2023.1-Petz/elicitacao/Storytelling/#32-requisitos-nao-funcionais) está categorizado com padronização diferente dos demais.
+### 5.1 Verificação 3 - As histórias possuem mais de um autor?
+O artefato não possui indicação de que as narrativas elaboradas foram analisadas e alteradas ou complementadas por outros auteores além do principal.
 
-## 4.2 Verificação 10 - Os requisitos não-funcionais estão adequados a sua categorização?
+### 5.2 Verificação 6 - As histórias foram validadas com um usuário ou persona?
+No artefato não há qualquer referência à uma validação das narrativas por parte de um usuário real ou de uma persona por meio de encenação.
 
-O requisitos não funcional [ST15](https://requisitos-de-software.github.io/2023.1-Petz/elicitacao/Storytelling/#32-requisitos-nao-funcionais) deveria ser categorizado como requisito funcional e deve ter maior nível de abstração.
+### 5.3 Verificação 7 - O artefato possui a gravação da realização da técnica, assim como de sua validação?
+O artefato não apresenta a gravação de vídeo ou áudio da realização da técnica ou da validação da mesma.
 
-
-## 5. Resultados
-
-Os resultados da verificação do artefato de Storytelling podem ser encontrados na tabela 3 abaixo, por meio das figuras 1 e 2, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
-
+## 6. Resultados
 
 <center>
 
-| ![Representação do grau de satisfação no artefato](../assets/analise/story1.png)               | ![Gráfico de ocorrência de erros no artefato](../assets/analise/story2.png)                 |
+| ![Representação do grau de satisfação no artefato](../assets/analise/story1/1.png)               | ![Gráfico de ocorrência de erros no artefato](../assets/analise/story1/2.png)                 |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| <h6 align="center">Figura 1: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 2: Gráfico de ocorrência de erros no artefato<br>Fonte: Autor, 2023</h6> |
+| <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 3: Gráfico de ocorrência de erros no artefato<br>Fonte: Autor, 2023</h6> |
+
+  
+## 7. Acompanhamento
+Após a verificação, foram iniciadas as correções de conteúdo necessárias, desta forma, é planejado que tais correções sejam realizadas até o dia 28 de junho de 2023, através de uma nova versão do documento verificado.
+
+Como não houveram correções de conteúdo, o grau de satisfação e a ocorrência de erros no artefato se mantiveram inalterados, como se percebe através da tabela 4.
+
+<center>
+
+| ![Representação do grau de satisfação no artefato](../assets/analise/story1/1.png)               | ![Gráfico de ocorrência de erros no artefato](../assets/analise/story1/2.png)                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <h6 align="center">Figura 3: Representação do grau de satisfação no artefato após as correções<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 4: Gráfico de ocorrência de erros no artefato após as correções<br>Fonte: Autor, 2023</h6> |
 
 </center>
 
-<h6 align = "center"> Tabela 3: Representações gráficas dos resultados da verificação</h6>
+<h6 align = "center"> Tabela 4: Representações gráficas dos resultados da verificação após as correções</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
-
-
-## 7. Acompanhamento
-
-Por se tratar de uma pequena correção no artefato em questão, ela já foi realizada e consta na versão [1.2](https://requisitos-de-software.github.io/2023.1-Petz/elicitacao/Storytelling/#5-historico-de-versao) do artefato. Entretanto a reação em cadeia que gera ao aderir dois novos requisitos funcionais para o projeto ainda será corrigida, com previsão para o dia 28 de junho de 2023.
-
-
 
 ## 8. Referências bibliográficas
 
-> [1] Migon, Lilian Bitton, and Luiz Carlos SILVA JUNIOR. "De histórias a processos: Utilização da técnica de Group Storytelling para apoio à elicitação de processos de negócios." Brazilian Workshop on Business Process Management, I. 2007.
+> [1] READE, Dennis et al. Storytelling. In: READE, Dennis et al. Marketing: novas tendências. São Paulo: Saraiva, 2015. Cap. 2. p. 30-43.
 
-> [2] Santos, Venícios Gustavo, and Nesley Daher. "Utilização de storytelling como ferramenta de aquisição de requisitos em processo de desenvolvimento de software apoiados em modelos ágeis: o uso apoiado no extreme programming." e-Tec 1.1 (2008).
+> [2] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf>. Acesso em: 19 de junho de 2023;
 
-> [3] Tribunal Regional do Trabalho do Paraná. Disponível em: https://www.trt9.jus.br/pds/index.htm. Acesso em 21 de jun. 2023.
+> [3] SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE, 12., 2013, Salvador. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. Salvador: Sociedade Brasileira de Computação, 2013. 14 p.
 
+> [4] VIEIRA, Dimitri. O que é Storytelling? O guia para você dominar a arte de contar histórias e se tornar um excelente Storyteller. 2023. Disponível em: <https://rockcontent.com/br/blog/o-que-e-storytelling-guia-para-voce-dominar-a-arte-de-contar-historias/>. Acesso em: 20 jun. 2023.
 
+## 9. Histórico de versão
 
-| Versão | Data     | Descrição | Autor(es) | Revisor(es) |
-| ------ | -------- | --------- | --------- | ----------- |
-| `1.0`  | 21/06/2023 | Criação do artefato e adição do conteúdo | Magno Luiz | Vitor Manoel |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|--|--|--|--|--|
+| `1.0` | 20/06/23 | Criação do documento e adição do conteúdo | Pedro Muniz | Felipe Corrêa |
