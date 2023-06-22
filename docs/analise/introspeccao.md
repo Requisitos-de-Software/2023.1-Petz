@@ -100,15 +100,15 @@ Na tabela 2, se encontra o _[checklist](../../planejamento/glossario.md#Checklis
 
 | ID| Verificação                                | Ocorrências | Acertos | Erros |
 | - | ------------------------------------------ | ----------- | ------- | ----- |
-| 1 | A introspecção é utilizada como técnica complementar na elicitação de requisitos?| 1 | 1 | 0 |
-| 2 | A introspecção realizada reflete ideias que possam significar as necessidades dos usuários?| 1 | 1 | 0 |
-| 3 | Os requisitos elicitados refletem tarefas que desejam ser completadas na utilização da aplicação?| 1 | 1 | 0 |
-| 4 | Os requisitos elicitados refletem a diversidade de funcionalidades que a aplicação busca desempenhar? | 24 | 24 | 0 |
-| 5 | Os requisitos estão categorizados adequadamente?| 24 | 24 | 0 |
-| 6 | Os requisitos funcionais estão padronizados para facilitar a identificação e rastreabilidade?| 22 | 22 | 0 |
-| 7 | Os requisitos não funcionais estão padronizados para facilitar a identificação e rastreabilidade?| 2 | 2 | 0 |
-| 8 | Os requisitos funcionais elicitados foram validados por um usuário ou utilizando as personas?| 22 | 0 | 22 |
-| 9 | O artefato apresenta os participantes que realizaram a técnica?| 3 | 3 | 0 |
+| 1 | A introspecção é utilizada como técnica complementar na elicitação de requisitos?[2]| 1 | 1 | 0 |
+| 2 | A introspecção realizada reflete ideias que possam significar as necessidades dos usuários?[2]| 1 | 1 | 0 |
+| 3 | Os requisitos elicitados refletem tarefas que desejam ser completadas na utilização da aplicação?[1]| 1 | 1 | 0 |
+| 4 | Os requisitos elicitados refletem a diversidade de funcionalidades que a aplicação busca desempenhar?[3] | 24 | 24 | 0 |
+| 5 | Os requisitos estão categorizados adequadamente?[4]| 24 | 24 | 0 |
+| 6 | Os requisitos funcionais estão padronizados para facilitar a identificação e rastreabilidade?[4]| 22 | 22 | 0 |
+| 7 | Os requisitos não funcionais estão padronizados para facilitar a identificação e rastreabilidade?[4]| 2 | 2 | 0 |
+| 8 | Os requisitos funcionais elicitados foram validados por um usuário ou utilizando as personas?[8]| 22 | 0 | 22 |
+| 9 | O artefato apresenta os participantes que realizaram a técnica?[3]| 3 | 3 | 0 |
 
 
 <h6 align = "center"> Tabela 2: Verificação de conteúdo da Introspecção </h6>

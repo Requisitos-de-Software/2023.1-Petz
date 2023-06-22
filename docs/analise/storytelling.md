@@ -148,7 +148,7 @@ Por se tratar de uma pequena correção no artefato em questão, ela já foi rea
 
 
 
-## 5. Referências bibliográficas
+## 8. Referências bibliográficas
 
 > [1] Migon, Lilian Bitton, and Luiz Carlos SILVA JUNIOR. "De histórias a processos: Utilização da técnica de Group Storytelling para apoio à elicitação de processos de negócios." Brazilian Workshop on Business Process Management, I. 2007.
 
