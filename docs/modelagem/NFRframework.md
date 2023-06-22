@@ -12,9 +12,9 @@ Os diagramas SIG (softgoal interdependency Graph)  que serão representados adia
 
 Existem três tipos de softgoals: Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação. Estes são descritos a seguir:
 
-* **Softgoals NFR**: representam os Requisitos Não- Funcionais  e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto.
+* **Softgoals NFR**: representam os Requisitos Não- Funcionais  e podem estar inter-relacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto.
 
-* **Softgoals de Operacionalização**: representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções incluem operações, processos, representações de dados, struturações e restrições no sistema alvo para atender às necessidades indicadas pelos softgoals NFR e de operacionalização.
+* **Softgoals de Operacionalização**: representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções incluem operações, processos, representações de dados, estruturações e restrições no sistema alvo para atender às necessidades indicadas pelos softgoals NFR e de operacionalização.
 
 * **Softgoals de Afirmação**: permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão. Eles servem como justificativa para apoiar ou negar a forma como os softgoals são priorizados, refinados e os componentes são selecionados. Os softgoals de afirmação fornecem as razões para as decisões de desenvolvimento, facilitando a revisão, a justificativa e a mudança do sistema, bem como o aprimoramento da rastreabilidade
 
@@ -84,15 +84,15 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 
 ## 8. Bibliografia
 
-> [1] CASTRO, Jaelson - Requisitos Não funcionais. 2014. Disponivel em: [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf) <br>
+> [1] CASTRO, Jaelson - Requisitos Não funcionais. 2014. Disponível em: [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf) <br>
 > <br>
->  [2] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Disponivel em: [link](https://repositorio.ufpe.br/handle/123456789/34150)
+>  [2] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Disponível em: [link](https://repositorio.ufpe.br/handle/123456789/34150)
 
 ## 9. Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 23/05/23 | Criação da versão inicial do NFR Framework | Vitor manoel | Samuel Sato |
+|  `1.0`   | 23/05/23 | Criação da versão inicial do NFR Framework | Vitor Manoel | Samuel Sato |
 |  `1.1`   | 24/05/23 | Criação do NFR de Desempenho e compatibilidade | Lucas Rodrigues | Felipe Mastromauro |
 
 
