@@ -71,6 +71,9 @@ nav:
           - NFR Framework: modelagem/NFRframework.md
   - Análise:
         - Planejamento da verificação: analise/planejamento.md
+        - Priorização baseada em valor, custo e risco: analise/verif_prioValorCustoRisco.md
+        - Planejamento: analise/verif_planejamento.md
+        - Brainstorming: analise/verif_brainstorming.md
         - Teste piloto - Verificação Grupo 8:
             - Planejamento: analise/teste/planejamento.md
             - Aspectos gerais: analise/teste/aspectosGerais.md
