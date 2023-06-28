@@ -96,6 +96,7 @@ Na figura 6 observa-se o diagrama geral dos casos de uso do sistema.
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
+<div id="UC01"></div>
 
 ## UC01 - Realizar Cadastro
 
@@ -124,6 +125,8 @@ Na figura 7 observa-se o diagrama de caso de uso referente ao cadastro. Abaixo n
 <h6 align = "center"> Tabela 1: Realizar cadastro </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+<div id="UC02"></div>
+
 ## UC02 - Efetuar Login
 
 Na figura 8 observa-se o diagrama de caso de uso referente ao login. Abaixo na tabela 2 se encontra a especificação do diagrama.
@@ -150,6 +153,8 @@ Na figura 8 observa-se o diagrama de caso de uso referente ao login. Abaixo na t
 
 <h6 align = "center"> Tabela 2: Efetuar Login </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC03"></div>
 
 ## UC03 - Compra de produto
 
@@ -178,6 +183,7 @@ Na figura 9 observa-se o diagrama de caso de uso referente à compra de um produ
 <h6 align = "center"> Tabela 3: Compra de produto </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+<div id="UC04"></div>
 
 ## UC04 - Efetuar Pagamento
 
@@ -206,6 +212,7 @@ Na figura 10 observa-se o diagrama de caso de uso referente ao pagamento. Abaixo
 <h6 align = "center"> Tabela 4: Efetuar pagamento </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+<div id="UC05"></div>
 
 ## UC05 - Consultar conta 
 

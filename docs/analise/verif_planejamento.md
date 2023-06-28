@@ -250,7 +250,7 @@ Nas tabelas de 1 a 5 encontram-se os _checklists_ de padronização preenchido a
 
 #### 3.1.5 Checklist Atas
 
-| ID Verificação                                                         Realizado |
+| ID | Verificação                                                        | Realizado |
 | --- | -------------------------------------------------------------------- | --------- |
 | 1  |Possui ortografia correta e formal?                                 |Sim     |
 | 2  |Possui introdução?                                                  |Sim     |

@@ -107,8 +107,13 @@ nav:
             - Historias de usuário: analise/historiasDeUsuario.md
             - Backlog: analise/Backlog.md
             - mosCow: analise/mosCow.md
+            - Escala de três níveis: analise/escalatresniveis.md
+            - Especificação Suplementar: analise/especificacaosuplementar.md
+            - Perfil de usuário: analise/perfildeusuario.md
         - Validação:
             - Prototipação: analise/validacao/prototipagem.md
+  - Rastreabilidade:
+        - Pré-Rastrabilidade: rastreabilidade/pre.md
     
 
 markdown_extensions:

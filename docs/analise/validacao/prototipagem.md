@@ -34,9 +34,15 @@ Para confirmar que o protótipo foi elaborado de forma correta, foi realizada um
 | Pedro Muniz | Equipe de desenvolvimento | Relator |
 | Antônio Moscatelli | Usuário do sistema | Entrevistado |
 
+<h6 align = "center"> Tabela 1: Participantes da validação</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
 | Data | Horário | Local |
 |------|---------|-------|
 | 21/06/2023 | 17:00 | Remoto(Google Meet) |
+
+<h6 align = "center"> Tabela 2: Cronograma da validação</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 Abaixo se encontra a gravação da entrevista, disponível como vídeo não listado no YouTube.
 

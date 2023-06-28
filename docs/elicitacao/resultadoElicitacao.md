@@ -61,12 +61,12 @@ As tabelas 1 e 2 correspondem aos requisitos funcionais e não funcionais. Os re
 
 ### 2.2 Requisitos não funcionais
 
-| ID | Requisito |
+| <div id="RNF01"></div>ID | Requisito |
 |--|--|
-| RNF01 | O sistema deve ser manter seguro as informações do usuário criptografando dados sensíveis. |
-| RNF02 | O sistema deve estar disponível para os sistemas Android e iOS. |
-| RNF03 | O sistema deve ser responsivo. |
-| RNF04 | O sistema deve ter um sistema de busca eficiente. |
+| <div id="RNF02"></div>RNF01 | O sistema deve ser manter seguro as informações do usuário criptografando dados sensíveis. |
+| <div id="RNF03"></div>RNF02 | O sistema deve estar disponível para os sistemas Android e iOS. |
+| <div id="RNF04"></div>RNF03 | O sistema deve ser responsivo. |
+| <div id="RNF05"></div>RNF04 | O sistema deve ter um sistema de busca eficiente. |
 | RNF05 | O sistema deve ser confiável e disponível. |
 
 <h6 align = "center"> Tabela 2: Requisitos não funcionais Elicitados </h6>
