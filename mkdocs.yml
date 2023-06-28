@@ -32,10 +32,12 @@ nav:
       - Reunião 4: atas/reuniao23052023.md
       - Reunião 5: atas/reuniao01062023.md
   - Apresentações:
-      - Primeira apresentação: apresentacoes/apresentacao1.md
-      - Segunda apresentação: apresentacoes/apresentacao2.md
-      - Terceira apresentação: apresentacoes/apresentacao3.md
-      - Quarta apresentação: apresentacoes/apresentacao4.md
+      - Etapa 1: apresentacoes/apresentacao1.md
+      - Etapa 2: apresentacoes/apresentacao2.md
+      - Etapa 3: apresentacoes/apresentacao3.md
+      - Etapa 4: apresentacoes/apresentacao4.md
+      - Etapa 5.1 : apresentacoes/apresentacao5.md
+      - Etapa 5.2 : apresentacoes/apresentacao6.md
   - Planejamento:
       - Glossário de palavras: planejamento/glossario.md
       - Cronograma: planejamento/cronograma.md
@@ -93,7 +95,6 @@ nav:
         - Verificação:
             - Rich Picture: analise/richpicture.md
             - Casos de uso: analise/casoDeUso.md
-            - Storytelling: analise/storytelling.md
             - Priorização baseada em valor, custo e risco: analise/verif_prioValorCustoRisco.md
             - Planejamento: analise/verif_planejamento.md
             - Brainstorming: analise/verif_brainstorming.md
@@ -102,7 +103,7 @@ nav:
             - Introspecção: analise/introspeccao.md
             - Storytelling: analise/storytelling.md
             - Questionário: analise/questionario.md
-            - Lexico: analise/lexicos.md
+            - Léxicos: analise/lexicos.md
             - NFR: analise/NFR.md
             - Historias de usuário: analise/historiasDeUsuario.md
             - Backlog: analise/Backlog.md
