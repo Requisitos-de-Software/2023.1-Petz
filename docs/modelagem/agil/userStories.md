@@ -14,7 +14,7 @@ Eu como **(tipo de usuário)**, gostaria de **(ação a ser realizada)** para **
 
 Além disso, as histórias de usuário devem se basear no método INVEST que diz que boas histórias devem ser independentes, negociáveis, estimáveis, pequenas e testáveis. Para o projeto cada cartão de história de usuário terá a seguinte estrutura:
 
-| Elemento | Conteúdo |
+| <div id="USXX"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | USXX |
 | **Título** | Título da história |
@@ -37,7 +37,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.1.1 Cadastro de usuário
 
-| Elemento | Conteúdo |
+| <div id="US01"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US01 |
 | **Título** | Cadastro de novo usuário no aplicativo |
@@ -50,7 +50,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.1.2 Login de usuário
 
-| Elemento | Conteúdo |
+| <div id="US02"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US02 |
 | **Título** | Login de usuário cadastrado no aplicativo |
@@ -63,7 +63,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.1.3 Cadastro de _pet_
 
-| Elemento | Conteúdo |
+| <div id="US03"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US03 |
 | **Título** | Cadastro de um novo animal no aplicativo |
@@ -78,7 +78,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.2.1 Realizar pedido
 
-| Elemento | Conteúdo |
+| <div id="US04"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US04 |
 | **Título** | Realizar um novo pedido de produtos pelo aplicativo |
@@ -91,7 +91,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.2.2 Cancelar um pedido
 
-| Elemento | Conteúdo |
+| <div id="US05"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US05 |
 | **Título** | Cancelar um pedido de produtos já realizado |
@@ -105,7 +105,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.2.3 Repetir um pedido
 
-| Elemento | Conteúdo |
+| <div id="US06"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US06 |
 | **Título** | Repetir um pedido de produtos já realizado anteriormente |
@@ -118,7 +118,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.2.4 Realizar um pedido periódico
 
-| Elemento | Conteúdo |
+| <div id="US07"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US07 |
 | **Título** | Realizar de forma automática a compra de produtos periódicamente |
@@ -131,7 +131,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.2.5 Acompanhar e alterar pedidos
 
-| Elemento | Conteúdo |
+| <div id="US08"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US08 |
 | **Título** | Acompanhar e gerenciar compras pelo aplicativo |
@@ -146,7 +146,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.3.1 Solicitar serviço de banho e tosa
 
-| Elemento | Conteúdo |
+| <div id="US09"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US09 |
 | **Título** | Solicitar um serviço de banho e tosa pelo aplicativo |
@@ -159,7 +159,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.3.2 Solicitar serviço de veterinária
 
-| Elemento | Conteúdo |
+| <div id="US10"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US10 |
 | **Título** | Solicitar um serviço veterinário pelo aplicativo |
@@ -172,7 +172,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.3.3 Solicitar serviço de hotelaria para animais
 
-| Elemento | Conteúdo |
+| <div id="US11"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US11 |
 | **Título** | Solicitar um serviço de hotelaria para animais pelo aplicativo |
@@ -185,7 +185,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.3.4 Solicitar serviço de transporte para animais
 
-| Elemento | Conteúdo |
+| <div id="US12"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US12 |
 | **Título** | Solicitar um serviço de transporte para animais pelo aplicativo |
@@ -200,7 +200,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.4.1 Visualizar catálogo
 
-| Elemento | Conteúdo |
+| <div id="US13"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US13 |
 | **Título** | Visualizar catálogo de produtos pelo aplicativo |
@@ -213,7 +213,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.4.2 Filtrar catálogo
 
-| Elemento | Conteúdo |
+| <div id="US14"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US14 |
 | **Título** | Filtrar o catálogo de produtos pelo aplicativo |
@@ -226,7 +226,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.4.3 Pesquisar produto
 
-| Elemento | Conteúdo |
+| <div id="US15"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US15 |
 | **Título** | Pesquisar um produto específico pelo aplicativo |
@@ -239,7 +239,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.4.4 Visualizar produto
 
-| Elemento | Conteúdo |
+| <div id="US16"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US16 |
 | **Título** | Visualizar os detalhes de um produto pelo aplicativo |
@@ -252,7 +252,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.4.5 Sugestão de produtos
 
-| Elemento | Conteúdo |
+| <div id="US17"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US17 |
 | **Título** | Receber sugestão de produtos pelo aplicativo |
@@ -267,7 +267,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.5.1 Recuperar conta
 
-| Elemento | Conteúdo |
+| <div id="US18"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US18 |
 | **Título** | Recuperar conta cadastrada através do email |
@@ -280,7 +280,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.5.2 Reportar erros
 
-| Elemento | Conteúdo |
+| <div id="US19"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US19 |
 | **Título** | Reportar erros e falhas pelo aplicativo |
@@ -293,7 +293,7 @@ Para a listagem das histórias de usuário elicitadas para o projeto, consideram
 
 #### 3.5.3 Obter informações sobre animais
 
-| Elemento | Conteúdo |
+| <div id="US20"></div>Elemento | Conteúdo |
 | ------ | ---- |
 | **Código** | US20 |
 | **Título** | Obter informações sobre _pets_ pelo aplicativo |

@@ -1,6 +1,6 @@
 # Storytelling
 
-# 1. Introdução
+## 1. Introdução
 
 Storytelling é uma técnica de elicitação de requisitos de realização extremamente simples, onde o engenheiro de requisitos cria uma narrativa de uso do sistema, ou seja uma história onde um usuário necessita de algo e o sistema planejado o atende, é necessário citar que para a correta realização desta técnica, é imprescindível que o engenheiro tenha em mãos personas bem definidas, a fim de representá-las corretamente nas histórias criadas.
 
@@ -121,6 +121,7 @@ O artefato não apresenta a gravação de vídeo ou áudio da realização da t�
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 3: Gráfico de ocorrência de erros no artefato<br>Fonte: Autor, 2023</h6> |
 
+</center>
   
 ## 7. Acompanhamento
 Após a verificação, foram iniciadas as correções de conteúdo necessárias, desta forma, é planejado que tais correções sejam realizadas até o dia 28 de junho de 2023, através de uma nova versão do documento verificado.

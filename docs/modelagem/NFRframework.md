@@ -37,6 +37,8 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 
 ## 3. NFR
 
+<div id="NFR01"></div>
+
 ## NFR de Usabilidade
 
 ![](../assets/nfr/Usabilidade.jpg)
@@ -48,6 +50,8 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 ![](../assets/nfr/UsabilidadeProp.jpg)
 <h6 align = "center"> Figura 5: diagrama NFR com propagação Usabilidade </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="NFR02"></div>
 
 ## NFR de Confiabilidade
 
@@ -62,6 +66,8 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 <h6 align = "center"> Figura 7: diagrama NFR com propagação Confiabilidade </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="NFR03"></div>
+
 ## NFR de Desempenho
 ![](../assets/nfr/desempenho.png)
 <h6 align = "center"> Figura 8: diagrama NFR Desempenho </h6>
@@ -71,6 +77,8 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 ![](../assets/nfr/desempenhoProp.png)
 <h6 align = "center"> Figura 9: diagrama NFR com propagação Desempenho </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="NFR04"></div>
 
 ## NFR de Suportabilidade
 ![](../assets/nfr/suportabilidade.png)

@@ -36,6 +36,8 @@ Para a representação destes elementos, cada cenário apresentado seguirá a es
 
 Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em funcionamento no aplicativo analisado, isso durante o período de desenvolvimento do projeto.
 
+<div id="C01"></div>
+
 ### 3.1 C01 - Realizar uma compra no aplicativo
 
 | Elemento | Informações |
@@ -52,6 +54,8 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <h6 align = "center"> Tabela 2: Cenário C01 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="C02"></div>
 
 ### 3.2 C02 - Cadastrar um perfil de [pet]()
 
@@ -70,6 +74,8 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 <h6 align = "center"> Tabela 3: Cenário C02 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="C03"></div>
+
 ### 3.3 C03 - Agendar banho e tosa para seu [pet]()
 
 | Elemento | Informações |
@@ -86,6 +92,8 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <h6 align = "center"> Tabela 4: Cenário C03 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="C04"></div>
 
 ### 3.4 C04 - Visualizar preço de [produtos]() disponíveis
 
@@ -104,6 +112,8 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 <h6 align = "center"> Tabela 5: Cenário C04 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="C05"></div>
+
 ### 3.5 C05 - [Cancelar]() um [pedido]()
 
 | Elemento | Informações |
@@ -120,6 +130,8 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <h6 align = "center"> Tabela 6: Cenário C05 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="C06"></div>
 
 ### 3.6 C06 - Assinar um pacote periódico de [produtos]()
 
@@ -142,6 +154,8 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em funcionamento no aplicativo analisado, isso durante o período de desenvolvimento do projeto.
 
+<div id="C07"></div>
+
 ### 4.1 C07 - Repetir um [pedido]()
 
 | Elemento | Informações |
@@ -158,6 +172,8 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <h6 align = "center"> Tabela 8: Cenário C07 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="C08"></div>
 
 ### 4.2 C08 - Registrar um [pedido]() como frequente
 
@@ -176,7 +192,9 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 <h6 align = "center"> Tabela 9: Cenário C08 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-### 4.3 C08 - Reportar um erro
+<div id="C09"></div>
+
+### 4.3 C09 - Reportar um erro
 
 | Elemento | Informações |
 |--|--|
@@ -193,7 +211,7 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 <h6 align = "center"> Tabela 10: Cenário C09 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-
+<div id="C10"></div>
 
 ### 4.5 C10 - Visualizar conteúdo adicional sobre [pets]()
 
@@ -212,6 +230,8 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 <h6 align = "center"> Tabela 11: Cenário C10 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="C11"></div>
+
 ### 4.6 C11 - Marcar serviço [veterinário]() com [pet-táxi]()
 
 | Elemento | Informações |
@@ -229,6 +249,8 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 <h6 align = "center"> Tabela 12: Cenário C11 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="C12"></div>
+
 ### 4.7 C12 - Visualizar eventos para [pets]() próximos
 
 | Elemento | Informações |
@@ -245,6 +267,8 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <h6 align = "center"> Tabela 13: Cenário C12 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="C13"></div>
 
 ### 4.8 C13 - Agendar estadia de [pet]() em [hotel]() para animais
 
