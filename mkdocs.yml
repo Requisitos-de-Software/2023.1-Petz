@@ -114,9 +114,10 @@ nav:
         - Validação:
             - Prototipação: analise/validacao/prototipagem.md
   - Rastreabilidade:
-        - Pré-Rastrabilidade: rastreabilidade/pre.md
+        - Backward from: rastreabilidade/pre.md
+        - Forward-from: rastreabilidade/pos.md
+        - Matriz de rastreabilidade: rastreabilidade/matriz.md
     
-
 markdown_extensions:
   - tables
   - attr_list
