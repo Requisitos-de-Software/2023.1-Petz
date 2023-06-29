@@ -115,7 +115,7 @@ nav:
             - Prototipação: analise/validacao/prototipagem.md
   - Rastreabilidade:
         - Backward from: rastreabilidade/pre.md
-        - Forward-from: rastreabilidade/pos.md
+        - Forward from: rastreabilidade/pos.md
         - Matriz de rastreabilidade: rastreabilidade/matriz.md
     
 markdown_extensions:
@@ -125,6 +125,6 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:materialx.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
+   - pymdownx.emoji:
+       emoji_index: !!python/name:materialx.emoji.twemoji
+       emoji_generator: !!python/name:materialx.emoji.to_svg
