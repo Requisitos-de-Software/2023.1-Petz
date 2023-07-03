@@ -74,7 +74,6 @@ Na tabela 2, se encontra o _checklist_ de conteúdo preenchido após a realizaç
 | 1      | Os dados do perfil do usuário foram obtidos por meio de pesquisas, entrevistas, observação ou análise de dados existentes? Se sim, esses métodos estão documentados? | Sim | O documento menciona a aplicação de um questionário aos usuários e potenciais usuários do aplicativo para detalhar o perfil inicial. O questionário aplicado também está disponível. |
 | 2      | Os usuários foram agrupados em segmentos com base em características comuns? Se sim, essas características estão explicitamente mencionadas? | Sim | Os usuários foram segmentados com base em características como Faixa etária, Ocupação, Função, Faixa Salarial, Conhecimento de tecnologia e Objetivo no aplicativo. |
 | 3      | Foram criadas personas fictícias que representam perfis típicos de usuários, com base nas informações coletadas? | Sim | O documento apresenta um perfil de usuário, e também menciona a criação de personas fictícias. |
-| 4      | As porcentagens de usuários em cada segmento foram determinadas? Se sim, a metodologia para determinar essas porcentagens está documentada? | Não | O documento não apresenta porcentagens de usuários em cada segmento. |
 
 <h6 align = "center"> Tabela 2: Verificações de conteúdo do artefato</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -85,7 +84,7 @@ Os resultados da verificação do artefato de casos de uso podem ser encontrados
 
 <center>
 
-| ![Representação do grau de satisfação no artefato](../assets/analise/graficoSatisfacaoPerfil.png) |
+| ![Representação do grau de satisfação no artefato](../assets/analise/graficosatisfacaoescala100.png) |
 | ----------------------------------------------------------------------------------------------------- |
 | <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> |
 
@@ -100,5 +99,6 @@ Ainda não foram feitas as correções em cima deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 21/06/23 | Criação do documento e adição do conteúdo | Lucas | Felipe Corrêa |
+| `1.1` | 28/06/23 | Remoção de um critério que não era aplicável | Lucas | Felipe Corrêa |
 
 

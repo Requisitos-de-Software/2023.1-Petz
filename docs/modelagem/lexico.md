@@ -21,113 +21,136 @@ Os símbolos foram identificados a partir do uso do aplicativo Petz e dos requis
 ## 3. Tabela de Léxicos
 
 ### 3.1 Léxicos já implementados
+<div id="L01"></div>
 
 ### L01 - Usuário
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Usuário|cliente, consumidor| Pessoa que utiliza o aplicativo | Pode-se cadastrar novo usuário, Usuário possui pets, pode realizar compras, assinar produtos | Objeto |
+<div id="L02"></div>
 
 ### L02 - Pet
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Pet|animal de estimação, animal doméstico| Animal de estimação do usuário | Usuário pode agendar banho ou tosa para o pet e comprar produtos para o pet | Objeto |
+<div id="L03"></div>
 
 ### L03 - Perfil
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Perfil|características, informações| Local onde são armazenadas as informações do pet | Usuário pode visualizar e alterar informações do pet| Objeto |
+<div id="L04"></div>
 
 ### L04 - Novo Pet
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Novo Pet|Cadastrar Pet|Usuário pode cadastrar dados do animal de estimação no aplicativo|Usuário pode agendar banho e tosa para o animal|Verbo|
+<div id="L05"></div>
 
 ### L05 - Ofertas
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Ofertas|Promoções| Produtos que estão com desconto | Usuário pode comprar produtos com desconto | Objeto |
+<div id="L06"></div>
 
 ### L06 - Produto
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Produto|Mercadoria|Produto vendido pela Petz |Usuário pode ver informações específicas do produto, Usuário pode adicionar produto ao carrinho|Objeto|
+<div id="L07"></div>
 
 ### L07 - Assinatura
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Assinatura| Contrato | Usuário pode realizar assinatura especificando a frequência que deseja receber dos produtos assinados |Descontos em produtos, entregas periódicas dos produtos no endereço cadastrado |Objeto|
+<div id="L08"></div>
 
 ### L08 - Adicionar ao Carrinho
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Adicionar ao carrinho| Adicionar produto selecionado ao carrinho |Adicionar produto ao carrinho|Quantidade do produto adicionado ao carrinho, valor do produto é somado ao total da compra |Verbo|
+<div id="L09"></div>
 
 ### L09 - Finalizar Compra
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Finalizar compra| Realizar compra | Usuário pode realizar pagamento da compra | Pagamento realizado, Emissão de ordem de entrega ou retirada dos produtos |Verbo|
+<div id="L10"></div>
 
 ### L10 - Filtro
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Filtro| Agrupar por caracteristicas |Pode-se selecionar atributos e características dos produtos que serão filtrados|Usuário pode encontrar produto com base no filtro|Objeto|
+<div id="L11"></div>
 
 ### L11 - Ordenar
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Ordenar|Organizar|Produtos são exibidos de acordo com ordem estabelecida |Usuários pode visualizar primeiro os produtos de sua preferência|Objeto|
+<div id="L12"></div>
 
 ### L12 - Favoritos
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Favoritos|Preferido|Produto pode ser favoritado quando usuário adiciona-o a lista de favoritos|Produto pode ser retirado dos favoritos |Estado|
+<div id="L13"></div>
 
 ### L13 - Endereço
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Endereço|Local do imóvel|Local onde o usuário deseja receber os produtos comprados|Pode-se entregar produtos nos endereços cadastrados|Objeto|
+<div id="L14"></div>
 
 ### L14 - Lojas
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Lojas|Estabelecimento|Unidades da loja Petz próximas|Usuário pode levar animais de estimação para o atendimento, Usuário pode retirar produtos e fazer compras|Objeto|
+<div id="L15"></div>
 
 ### L15 - Sair
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Sair|Ausentar-se|Sair da conta|Usuário pode sair da conta|Verbo|
+<div id="L16"></div>
 
 ### L16 - Acompanhar Pedido
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Acompanhar Pedido|Pedidos|Usuário acompanhar pedido de produtos após finalizar compra|Usuário pode cancelar pedido|Verbo|
+<div id="L17"></div>
 
 ### L17 - Alertas
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Alertas|Avisos|Informa sobre notificações do pet ou pedido|Usuário pode visualizar estatus do pedido|Objeto|
+<div id="L18"></div>
 
 ### L18 - Banho
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Banho| Lavar |Serviço que usuário pode agendar para seus animais de estimação|Usuário pode agendar serviço pelo aplicativo|Objeto|
+<div id="L19"></div>
 
 ### L19 - Tosa
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Tosa| Aparar pelo |Serviço que usuário pode agendar para seus animais de estimação|Usuário pode agendar serviço pelo aplicativo|Objeto|
+<div id="L20"></div>
 
 ### L20 - Atendimento
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Central de atendimento|Atendimento|Formas de entrar em contato com a Petz|Usuário pode entrar em contato com a Petz pelo chat online|Objeto|
+<div id="Léx"></div>
 
 ### Léxicos não implementados
+<div id="L21"></div>
 
 ### L21 - Pedido Frequente
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Registrar pedido frequente|lista de compras frequente|lista de produtos comprados com recorrência|Usuário pode registrar lista de compras recorrente|Verbo|
+<div id="L22"></div>
 
 ### L22 - Reportar erro
 | Léxico | Sinônimo | Noção | Impacto | Classificação |

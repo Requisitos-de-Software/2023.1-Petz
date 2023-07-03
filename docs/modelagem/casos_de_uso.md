@@ -96,6 +96,7 @@ Na figura 6 observa-se o diagrama geral dos casos de uso do sistema.
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
+<div id="UC01"></div>
 
 ## UC01 - Realizar Cadastro
 
@@ -124,6 +125,8 @@ Na figura 7 observa-se o diagrama de caso de uso referente ao cadastro. Abaixo n
 <h6 align = "center"> Tabela 1: Realizar cadastro </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+<div id="UC02"></div>
+
 ## UC02 - Efetuar Login
 
 Na figura 8 observa-se o diagrama de caso de uso referente ao login. Abaixo na tabela 2 se encontra a especificação do diagrama.
@@ -143,13 +146,15 @@ Na figura 8 observa-se o diagrama de caso de uso referente ao login. Abaixo na t
 | **Ator(es)**	| Usuário e Sistema(Aplicação Petz) |
 | **Pré-Condições** | O Usuário não deve estar logado na aplicação |
 | **Pós-Condições** |  O Usuário estará logado na aplicação <br/> O Usuário tem acesso as funcionalidades que requerem login |
-| **Fluxo Principal** |	**[FP02] Efetuar Login** <br/>1. O Usuário inicia a aplicação. <br/>2. O Usuário preenche com Email ou CPF e com a senha o campo de login. <br/> 3. O Usuário clica em "Entrar". <br/> 4. O Sistema autentica o usuário. <br/> 5. O Sistema redireciona o usuário para a aplicação principal |
-| **Fluxo(s) Alternativo(s)** | - | 
+| **Fluxo Principal** |	**[FP02] Efetuar Login** <br/>1. O Usuário inicia a aplicação. <br/>2. O Usuário preenche com Email ou CPF e com a senha o campo de login. <br/> 3. O Usuário clica em "Entrar". <br/> 4. O Sistema autentica o usuário. <br/> 5. O Sistema redireciona o usuário para a aplicação principal. |
+| **Fluxo(s) Alternativo(s)** | **[FA01] Acessar rapidamente** <br/>1. O Usuário seleciona a opção "Receber código de acesso rápido". <br> 2. O Usuário escolhe a forma de receber o código(Email ou SMS). <br> 3. O Usuário digita o código de verificação para a autenticação. <br> 4. O Sistema autentica o usuário. <br> 5. O Sistema redireciona o usuário para a aplicação principal. | 
 | **Ponto(s) de Extensão**	| **[PE02] Alterar Senha** <br/>1. O Usuário clica em " Esqueci minha senha". <br/> 2. O Usuário escolhe a forma de recuperar a senha(Email ou SMS). <br/> 3. O Sistema envia um código de recuperação através do meio escolhido. <br/> 4. O Usuário preenche o campo com o código de vericação. <br/> 5. O Usuário altera a senha. <br/>**[PE03] Realizar Cadastro** <br/> 1.  **UC01**| 
-| **Fluxo(s) de Exceção** |  |
+| **Fluxo(s) de Exceção** | **[FE02] Dados inválidos** <br>1. O Sistema apresenta uma mensagem de alerta, avisando que os dados preenchidos são inválidos(Email, CPF/CPNJ ou senha). |
 
 <h6 align = "center"> Tabela 2: Efetuar Login </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC03"></div>
 
 ## UC03 - Compra de produto
 
@@ -173,11 +178,12 @@ Na figura 9 observa-se o diagrama de caso de uso referente à compra de um produ
 | **Fluxo Principal** |	**[FP03] Compra de produto** <br/>1. O Usuário seleciona item. <br/> 2. O Usuário adiciona o item ao carrinho. <br/> 3. O Usuário preenche o campo de CEP. <br/> 4. O Usuário seleciona como receber o produto(Retirar na loja ou solicitar envio). <br/> 5. O Sistema redireciona o usuário para a página de pagamento.|
 | **Fluxo(s) Alternativo(s)** | - | 
 | **Ponto(s) de Extensão**	| **[PE04] Inserir Cupom** <br/> 1. O Usuário insere um cupom no campo válido. <br/> 2. O Sistema valida o cupom. <br/> 3. O Sistema retorna o novo valor do produto.|
-| **Fluxo(s) de Exceção** | **[FE02] Produto Esgotado** <br/> 1. O Sistema informa que o item não está disponível para compra. <br/> **[FE03] Cupom inválido** <br/> 1. O Sistema informa que o cupom não é válido.|
+| **Fluxo(s) de Exceção** | **[FE03] Produto Esgotado** <br/> 1. O Sistema informa que o item não está disponível para compra. <br/> **[FE04] Cupom inválido** <br/> 1. O Sistema informa que o cupom não é válido.|
 
 <h6 align = "center"> Tabela 3: Compra de produto </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+<div id="UC04"></div>
 
 ## UC04 - Efetuar Pagamento
 
@@ -199,13 +205,14 @@ Na figura 10 observa-se o diagrama de caso de uso referente ao pagamento. Abaixo
 | **Pré-Condições** | O Usuário deve estar logado na aplicação. <br/> O Usuário deve ter realizado um pedido. |
 | **Pós-Condições** | O Usuário deve ter realizado o pagamento do pedido. <br/> O Usuário deve se capaz de acomapanhar o pedido.|
 | **Fluxo Principal** |	**[FP04] Efetuar Pagamento** <br/>1. O Usuário deve ter escolhido o meio de entrega(Retirar na loja ou solicitar envio). <br/>2. O Usuário seleciona o método de pagamento. <br/> 3. O Usuário realiza o pagamento. <br/> 4. O Sistema autentica o pagamento. <br/> 5. O Usuário pode acompanhar o pedido. |
-| **Fluxo(s) Alternativo(s)** |  | 
+| **Fluxo(s) Alternativo(s)** | - | 
 | **Ponto(s) de Extensão**	| **[PE05] Retirar na loja** <br/> 1. O Sistema não adiciona taxa de entrega. <br/> 2. O Sistema sinaliza a loja que pode ocorrer a retirada. <br/> **[PE06] Solicitar envio** <br/> 1. O Usuário adiciona o endereço de envio. <br/> 2. O Sistema retorna o valor de envio.|
-| **Fluxo(s) de Exceção** | **[FE03] Pagamento Inválido** <br/> 1. O Sistema informa uma mensagem de erro sobre a situação do pagamento. |
+| **Fluxo(s) de Exceção** | **[FE05] Pagamento Inválido** <br/> 1. O Sistema informa uma mensagem de erro sobre a situação do pagamento. |
 
 <h6 align = "center"> Tabela 4: Efetuar pagamento </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+<div id="UC05"></div>
 
 ## UC05 - Consultar conta 
 
@@ -228,9 +235,9 @@ Na figura 11 observa-se o diagrama de caso de uso referente à consulta de conta
 | **Pré-Condições** | O Usuário deve estar logado na aplicação. |
 | **Pós-Condições** | O Usuário visualiza as informações pretendidas. <br/> O Usuário edita as informações pretendidas.<br/> O Usuário pode sair da conta.|
 | **Fluxo Principal** |	**[FP05] Consultar dados da conta** <br/>1. O Usuário seleciona "Minha Conta". <br/> 2. O Usuário seleciona a opção em "Meus dados" (cadastro, alterar senha, endereço, pets, favoritos, carteira). <br/> 3. O Usuário visualiza ou edita os dados. |
-| **Fluxo(s) Alternativo(s)** | **[FP01] Acompanhar pedido** <br/> 1. O Usuário seleciona "Acompanhar pedido". <br/> 2. O Sistema retorna as informações dos pedidos realizados.<br/> **[FP02] Editar assinaturas** <br/> 1. O Usuário seleciona "Editar assinaturas". <br/> 2. O Sistema retorna as assinaturas vigentes. <br/> 3. O Usuário seleciona a assinatura para editar. <br/> **[FP03] Serviços** <br/> 1. O Usuário seleciona entre "Banho e Tosa" e "Lojas". <br/> 2a. O Usuário seleciona o agendamento de "Banho e Tosa" <br/> 2b. O Usuário visualiza as lojas Petz.| 
+| **Fluxo(s) Alternativo(s)** | **[FA02] Acompanhar pedido** <br/> 1. O Usuário seleciona "Acompanhar pedido". <br/> 2. O Sistema retorna as informações dos pedidos realizados.<br/> **[FA03] Editar assinaturas** <br/> 1. O Usuário seleciona "Editar assinaturas". <br/> 2. O Sistema retorna as assinaturas vigentes. <br/> 3. O Usuário seleciona a assinatura para editar. <br/> **[FA04] Serviços** <br/> 1. O Usuário seleciona entre "Banho e Tosa" e "Lojas". <br/> 2a. O Usuário seleciona o agendamento de "Banho e Tosa" <br/> 2b. O Usuário visualiza as lojas Petz.| 
 | **Ponto(s) de Extensão**	| **[PE07] Código de verificação** <br/> 1. O Sistema envia o código de verificação para alterar a senha. |
-| **Fluxo(s) de Exceção** |  |
+| **Fluxo(s) de Exceção** | **[FE06] Edição de dados inválida** <br> 1. O Usuário recebe uma mensagem de erro ao preencher dados inválidos. <br> **[FE07] Falta de dados obrigatórios** <br> 1a. O Sistema apresenta uma mensagem explicitando como inválido um campo cadastral obrigatório faltante.|
 
 <h6 align = "center"> Tabela 5: Consultar conta </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -252,3 +259,4 @@ Na figura 11 observa-se o diagrama de caso de uso referente à consulta de conta
 | ------ | -------- | ------------------------------------------ | ------------- | ------------- |
 | `1.0`  | 16/05/23 | Criação do artefato de casos de uso | Magno Luiz |  Pedro Muniz |
 | `1.1`  | 19/06/23 | Correções de padronização | Pedro Muniz |  Felipe Corrêa |
+| `1.2`  | 28/06/23 | Correções de diagramação e fluxos | Magno Luiz |  Pedro Muniz |

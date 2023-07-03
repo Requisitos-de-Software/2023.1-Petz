@@ -154,7 +154,13 @@ Os resultados da verificação dos artefatos que compõem os Aspectos gerais do 
 
 ## 5. Acompanhamento
 
+## 5.1 Acompanhamento versão 1.0
 As correções estão em andamento e serão terminadas e versionados até o dia 28 de junho.
+
+## 5.2 Acompanhamento versão 1.1
+
+Foram adicionadas as páginas e apresentações faltantes.
+
 
 ## 6. Referências bibliográficas
 
@@ -169,3 +175,4 @@ As correções estão em andamento e serão terminadas e versionados até o dia 
 | Versão | Data     | Descrição | Autor(es) | Revisor(es) |
 | ------ | -------- | --------- | --------- | ----------- |
 | `1.0`  | 19/06/2023 | Criação do artefato e adição do conteúdo | Magno Luiz | Samuel Sato |
+| `1.1`  | 28/06/2023 | Atualização do acompanhamento | Magno Luiz | Samuel Sato |
