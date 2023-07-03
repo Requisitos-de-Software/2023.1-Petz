@@ -22,6 +22,7 @@ Os itens foram agrupados em tema e épicos:
 ## 3. Backlog
 
 ### 3.1 Épicos
+<div id="EP01"></div>
 
 ### Épico 1 - Cadastro e autenticação 
 |Feature|História de usuário | Prioridade | Rastreabilidade |
@@ -32,6 +33,8 @@ Os itens foram agrupados em tema e épicos:
 
 <h6 align = "center"> Tabela 1: Épico 1 - Cadastro e autenticação </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="EP02"></div>
 
 ### Épico 2 - Processo de realização de pedidos
 
@@ -46,6 +49,8 @@ Os itens foram agrupados em tema e épicos:
 <h6 align = "center"> Tabela 2: Épico 2 - Processo de realização de pedidos </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="EP03"></div>
+
 ### Épico 3 - Serviços para o _pet_
 
 |Feature|História de usuário | Prioridade | Rastreabilidade |
@@ -58,6 +63,7 @@ Os itens foram agrupados em tema e épicos:
 <h6 align = "center"> Tabela 3: Épico 3 - Serviços para o pet </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+<div id="EP04"></div>
 
 ### Épico 4 - Catalogação de produtos
 |Feature|História de usuário | Prioridade | Rastreabilidade |
@@ -71,7 +77,7 @@ Os itens foram agrupados em tema e épicos:
 <h6 align = "center"> Tabela 4: Épico 4 - Catalogação de produtos </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
-
+<div id="EP05"></div>
 
 ### Épico 5 - Informação e configuração de conta
 |Feature|História de usuário | Prioridade | Rastreabilidade |

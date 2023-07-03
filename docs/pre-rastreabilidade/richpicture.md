@@ -27,6 +27,8 @@ As Rich Pictures concretizadas para a avaliação de aplicações e sistemas pos
 - Fronteiras do sistema;
 - Ligações para relacionamento de atores, processos e integrações através de linhas e setas;
 
+<div id="RP01"></div>
+
 ## 4. Primeira versão da Rich Picture da [Petz](https://play.google.com/store/apps/details?id=br.com.petz&hl=pt_BR&gl=US)
 
 A figura 1 mostra a primeira versão da Rich Picture do aplicativo da [Petz](https://play.google.com/store/apps/details?id=br.com.petz&hl=pt_BR&gl=US), entregue como atividade individual por Lucas Rodrigues.
@@ -40,6 +42,7 @@ A figura 1 mostra a primeira versão da Rich Picture do aplicativo da [Petz](htt
 <h6 align = "center"> Figura 1: primeira versão da Rich Picture da Petz</h6>
 <h6 align = "center"> Fonte: Lucas Rodrigues, 2023 </h6>
 
+<div id="RP02"></div>
 
 ## 5. Segunda versão da Rich Picture da [Petz](https://play.google.com/store/apps/details?id=br.com.petz&hl=pt_BR&gl=US)
 
@@ -52,6 +55,8 @@ A figura 2 mostra uma versão refinada da Rich Picture do aplicativo da [Petz](h
 
 <h6 align = "center"> Figura 2: Segunda versão da Rich Picture da Petz</h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<div id="RPF"></div>
 
 ## 6. Versão final do Rich Picture da [Petz](https://play.google.com/store/apps/details?id=br.com.petz&hl=pt_BR&gl=US)
 

@@ -17,7 +17,7 @@ A tabela a seguir (**Tabela 1**) descreve todos os integrantes da equipe. Todos 
 </center>
 
 <div style="text-align: center">
-<p> Tabela 1: Integrantes da equipe (Fonte: Do autor, 2023).</p>
+<p> Tabela 1: Integrantes da equipe (Fonte: Do autor, 2023).</p> 
 </div>
 
 ## Histórico de versão
