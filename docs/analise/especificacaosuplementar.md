@@ -3,10 +3,11 @@
 ## 1. Introdução
 A Especificação Suplementar é um documento que complementa a Especificação de Requisitos de Software (SRS) para cobrir itens que não foram, ou não puderam ser, mencionados na SRS. Esses itens incluem requisitos não funcionais, como usabilidade, desempenho, segurança, entre outros. Também pode incluir requisitos que se aplicam a todo o sistema, como processos de negócio e regras, ou restrições de licença e regulatórias. A verificação deste artefato tem como objetivo assegurar a qualidade do documento, verificando se todos os pontos necessários foram cobertos e se a metodologia foi corretamente aplicada.
 
-A verificação leva em conta a versão 1.2 do artefato realizada em 16 de maio de 2023.
+A verificação leva em conta a versão 1.0 do artefato realizada em 16 de maio de 2023.
 
 ## 2. Metodologia
 A verificação a seguir segue a metodologia proposta no [planejamento](../planejamento.md)[1], onde serão utilizados _[checklists](../../planejamento/glossario.md#Checklist)_ para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo.
+
 
 Abaixo seguem as verificações de conteúdo elaboradas, contendo a justificativa de cada uma além de sua fonte:
 
@@ -74,7 +75,22 @@ Na tabela 2, se encontra o _checklist_ de conteúdo preenchido após a realizaç
 <h6 align = "center"> Tabela 2: Verificações de conteúdo do artefato</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## 4. Resultados
+## 4. Problemas encontrados - Padronização 
+
+### 4.1 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+
+Nenhuma das tabelas apresentadas no artefato possui chamada no texto ou legenda de acordo com o padrão do projeto.
+
+### 4.2 Verificação 7 - A bibliografia está em ordem alfabética?   
+
+A bibliografia do artefato não está em ordem alfabética.
+## 5.  Problemas encontrados - Conteúdo 
+
+### 5.1 Verificação 10 - A Especificação Suplementar foi revisada e aprovada pelos stakeholders apropriados?
+
+Em nenhum momento na especificação suplementar foram consultadas partes interessadas a fim de revisar e aprovar aquilo que foi encontrado na atividade de especificação suplementar.
+
+## 6. Resultados
 
 Os resultados da verificação do artefato de casos de uso podem ser encontrados na tabela 3 abaixo, por meio das figuras 1, onde podem ser verificados o grau de satisfação, a ocorrência de erros no artefato não se aplica a esse artefato. Estes resultados levam em conta apenas a verificação do conteúdo.
 
@@ -86,11 +102,15 @@ Os resultados da verificação do artefato de casos de uso podem ser encontrados
 
 </center>
 
+## 7. Acompanhamento
+
+A partir da versão [`1.1`](./../modelagem/EspecificacaoSup.md) do artefato, os problemas de padronização foram devidamente corrigidos ([seção 4](#4-problemas-encontrados---padronizacao) deste artefato). Como estes problemas não fazem parte do cálculo do grau de satisfação do artefato, os gráficos não foram alterados.
 ## 5. Histórico de versão
 
 | Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
 | ------ | -------- | -------------------------------- | ------------- | ----------- |
 | `1.0`  | 21/06/23 | Criação do documento e adição do conteúdo | Lucas | Samuel Sato |
+| `1.1`  | 04/07/23 | Adição do acompanhamento do artefato | Felipe M. | Magno Luiz |
 
 
 
