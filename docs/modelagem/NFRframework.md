@@ -189,7 +189,7 @@ As priorizações foram indicadas com base no artefato de [Priorização](../eli
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 23/05/23 | Criação da versão inicial do NFR Framework | Vitor Manoel | Samuel Sato |
 |  `1.1`   | 24/05/23 | Criação do NFR de Desempenho e compatibilidade | Lucas Rodrigues | Felipe Mastromauro |
-| `1.2` | 05/07/23 | Adição dos cartões de especificação |Vitor Manoel e Samuel Sato | |
+| `1.2` | 05/07/23 | Adição dos cartões de especificação |Vitor Manoel e Samuel Sato | Pedro Muniz |
 
 
 
