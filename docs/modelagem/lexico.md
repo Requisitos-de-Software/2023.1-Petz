@@ -156,6 +156,81 @@ Os símbolos foram identificados a partir do uso do aplicativo Petz e dos requis
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|----------|-------|---------|---------------|
 |Reportar erro|Informações sobre erros no aplicativo|Informar falha ou erro para a Petz|Usuário pode informar eventuais erros ou bugs a equipe técnica da Petz|Verbo|
+<div id="L23"></div>
+
+### L23 - Clicar
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Clicar| Pressionar, apertar | Ação que pode ser realizada pelo Usuário para selecionar |Usuário pode selecionar campos e itens do aplicativo |Verbo|
+<div id="L24"></div>
+
+### L24 - Salvar
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Salvar| Gravar, armazenar | Armazenamento de informações | Usuário pode salvar informações |Verbo|
+<div id="L25"></div>
+
+### L25 - Agendar serviço
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Agendar serviço |marcar serviço, combinar serviço|Permitir marcar horário para realizar serviço |Usuário pode agendar horários para realização de serviços |Verbo|
+<div id="L26"></div>
+
+
+### L26 - Pedido
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Pedido | Solicitação, requisição |Pedido realizado pelo usuário |Usuário pode efetuar pedidos|Objeto|
+<div id="L27"></div>
+
+### L27 - Registrar Pedido
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+| Registrar Pedido |guardar pedido | Registrar pedido realizado pelo usuário | Pedido do usuário será armazenado para futura entrega  |Verbo|
+<div id="L28"></div>
+
+
+### L28 - Blog
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+| Blog | diário online |Informações sobre assuntos variados com relação a petz | Usuário pode ler informações relacionadas a petz |Objeto |
+<div id="L29"></div>
+
+### L29 - Categoria
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Categoria|Tipo, conjunto | Divisão de elementos por categoria | Usuário pode acessar itens que possuem finalidade comum dividos em categorias |Verbo|
+<div id="L30"></div>
+
+### L30 - Categoria de posts
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Categoria de posts| Tipo de posts |Divisão de elementos por categoria de posts (publicações) | Usuário pode acessar posts, dividos em categorias |Objeto|
+<div id="L31"></div>
+
+### L31 - Veterinário
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Veterinário| Médico de animais |Profissonal responsável pelo atendimento do pet | Usuário pode visualizar profissionais disponíveis para atender |Objeto|
+<div id="L32"></div>
+
+### L32 - Pet-Táxi
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Pet-Táxi| Transporte de petz |transporte de animais através de veiculo |Usuário pode solicitar transporte do seu pet para um estabelecimento da petz |Objeto|
+<div id="L33"></div>
+
+### L33 - Eventos
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Eventos| Festividades |Realização de eventos da Petz|Usuário pode visualizar eventos que estão ocorrendo na Petz|Objeto|
+<div id="L34"></div>
+
+### L34 - Hotel 
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+|--------|----------|-------|---------|---------------|
+|Hotel | Hospedaria |Hospedagem de animais na Petz| Usuário pode solicitar hospedagem para seu pet |Objeto|
+
 
 ## 4. Referências Bibliográficas
 
@@ -168,3 +243,4 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10
 | `1.0`  | 11/05/23 | Criação inicial do léxico | Samuel Sato, Lucas Rodrigues | Pedro Muniz |
 | `1.1`  | 16/05/23 | Adição de novos símbolos | Samuel Sato | Pedro Muniz |
 | `1.2`  | 21/06/23 | Adição de nomes aos léxicos e sinônimos faltantes | Samuel Sato | Magno Luiz |
+| `1.3`  | 04/07/23 | Adição de novos léxicos | Vitor Manoel | Samuel Sato |
