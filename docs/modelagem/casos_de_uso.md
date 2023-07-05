@@ -242,9 +242,101 @@ Na figura 11 observa-se o diagrama de caso de uso referente à consulta de conta
 <h6 align = "center"> Tabela 5: Consultar conta </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+## UC06 - Atendimento
+
+Na figura 12 observa-se o diagrama de caso de uso referente ao atendimento e comunicação com a Petz. Abaixo na tabela 6 se encontra a especificação do diagrama.
+
+<center>
+
+![Atendimento](../assets/casos_de_uso/fluxo_atendimento.png)
+
+</center>
+
+<h6 align = "center"> Figura 12: Atendimento </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
-## 5. Referências Bibliográficas
+| UC06	| Atendimento |
+| ----- | ------------- |
+| **Descrição** | Funcionalidade que permite comunicação para retirar dúvidas e reportar falhas.|
+| **Ator(es)**	|<br>**1.Principal**: Usuário. <br>**2. Secundário**: Atendente, Sistema.|
+| **Pré-Condições** | O Usuário deve ter acesso a aplicação.|
+| **Pós-Condições** | <br> 1. O Usuário deve conseguir comunicar-se com a Loja. <br>2. O Usuário deve ter suas dúvidas sanadas.|
+| **Fluxo Principal** |	**[FP06] Selecionar atendimento** <br>1. O Usuário seleciona "Atendimento".<br>2. O Usuário seleciona uma das opções frequentes. <br> 3. O Sistema retorna as respostas adequadas. |
+| **Fluxo(s) Alternativo(s)** |**[FA05] Selecionar chat online**<br>1. O Usuário seleciona "chat online".<br>2. O Usuário responde a pesquisa inicial com seus dados(Nome,CPF,Email e Número do pedido).<br>3. O Usuário comunica-se com o Atendente. <br>4. O Atendente responde ao Usuário. **[FA06] Enviar Email** <br>1. O Usuário seleciona a opção "Enviar E-mail".<br>2. O Usuário preenche as informações necessárias. <br>3. O Usuário seleciona "Enviar". <br> 4. O Atendente responde ao Email recebido.<br>**[FA06] Digitar dúvida** <br>1. O Usuário digitará no campo "Digitar dúvida".<br>2. O Sistema retorna respostas pré-estabelecidas que possuem relação com o digitado pelo Usuário.| 
+| **Ponto(s) de Extensão**	| **[PE08] Acompanhar pedido**<br>1. O Sistema retorna uma página de acompanhamento de pedido. <br>**[PE09]Disponibilidade de produtos**<br>1. O Sistema retorna uma resposta padrão.<br>**[PE010]Agendamento de serviços**<br>1. O Sistema redireciona para uma página em que é possível baixar o aplicativo. <br>**[PE011]Trocas e devoluções**<br>1. O Sistema redireciona para uma página com uma explicação sobre o processo. **[PE012]Horários de funcionamento**<br>1. O Sistema redireciona para uma página com o link para as lojas Petz. <br> **[PE013]Mudanças de Assinaturas**<br>1. O Sistema redireciona para uma página com uma explicação sobre o processo.|
+| **Fluxo(s) de Exceção** | **[FE08] Falta de dados obrigatórios** <br> 1. O Sistema apresenta uma mensagem explicitando como inválido um da pesquisa inicial obrigatório faltante. <br>**[FE09] Não é possível gerar resultados** <br>1a. O Sistema não gera resultados possíveis para o **[FA06]**. |
+
+<h6 align = "center"> Tabela 6: Atendimento </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+
+## UC07 - Repetir pedido
+
+Na figura 13 observa-se o diagrama de caso de uso referente à consulta de conta. Abaixo na tabela 7 se encontra a especificação do diagrama.
+
+<center>
+
+![Repetir pedido](../assets/casos_de_uso/fluxo_repetir.png)
+
+</center>
+
+<h6 align = "center"> Figura 13: Repetir pedido </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+| UC07	| Repetir pedido |
+| ----- | ------------- |
+| **Descrição** | Funcionalidade que permite a repetição de um pedido anterior.|
+| **Ator(es)**	| Usuário|
+| **Pré-Condições** | <br>1. O Usuário deve estar logado. <br>2. O Usuário já deve ter realizado um pedido anteriormente.|
+| **Pós-Condições** | O Usuário deve ter sido capaz de repetir um pedido anterior.|
+| **Fluxo Principal** |	**[FP07] Repetir pedido** <br>1. O Usuário seleciona "Repetir pedido" na página inicial.<br>2. O Usuário seleciona o pedido que deseja repetir.<br>3. O Usuário adiciona o pedido ao carrinho. <br> 4. O Usuário procede para a fase de compra do produto.<br> 5. O Usuário efetua o pagamento.<br> 6. O Sistema valida o pagamento.|
+| **Fluxo(s) Alternativo(s)** | **[FA07] Meus Pedidos**<br>1. O Usuário seleciona "Meus Pedidos".<br> 2. O Usuário seleciona um pedido feito anteriormente.<br>3. O Usuário adiciona o pedido ao carrinho. <br> 4. O Usuário procede para a fase de compra do produto.<br> 5. O Usuário efetua o pagamento.<br> 6. O Sistema valida o pagamento.<br>**[FA08] Agendar serviço**<br> 1. O Usuário seleciona "Repetir pedido" na página inicial.<br>2. O Usuário seleciona o pedido que deseja repetir.<br>3a. O Usuário procede a agendar o serviço. <br> 4a. O Usuário efetua o pagamento.<br>5a. O Sistema valida o pagamento.| 
+| **Ponto(s) de Extensão**	| **[PE014] Agendar serviços**<br>1. O Usuário seleciona o serviço que deseja agendar.<br>**[PE015] Adicionar ao carrinho**<br>1. O Usuário seleciona o(s) produto(s) que deseja adicionar ao carrinho de compras.|
+| **Fluxo(s) de Exceção** | **[FE010] Não é possível realizar o pedido**<br> 1. O Sistema apresenta uma mensagem de erro sinalizando que não é possível realizar o pedido por não ter disponibilidade.<br>**[FE011] Não existem pedidos anteriores** <br> 1.O Sistema não apresenta pedidos anteriores.|
+
+<h6 align = "center"> Tabela 7: Repetir pedido </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## UC08 - Cadastrar meu pet
+
+Na figura 14 observa-se o diagrama de caso de uso referente à consulta de conta. Abaixo na tabela 8 se encontra a especificação do diagrama.
+
+<center>
+
+![Cadastrar meu pet](../assets/casos_de_uso/fluxo_petcadastro.png)
+
+</center>
+
+<h6 align = "center"> Figura 14: Cadastrar meu pet </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+| UC08	| Cadastrar meu pet |
+| ----- | ------------- |
+| **Descrição** | Funcionalidade que permite o cadastro do animal de estimação.|
+| **Ator(es)**	| Usuário |
+| **Pré-Condições** | O Usuário deve estar logado na aplicação.|
+| **Pós-Condições** | O Usuário deve ter sido capaz de cadastrar um animal de estimação.|
+| **Fluxo Principal** |	**[FP08] Cadastrar meu pet** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3. O Usuário seleciona "Cadastrar meu pet".<br>4. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5. O Usuário confirma o cadastro. <br>6. O Sistema salva os dados. |
+| **Fluxo(s) Alternativo(s)** |**[FA09] Adicionar outro pet** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3a. O Usuário seleciona o botão "+" ou "Adicionar novo pet".<br>4a. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5a. O Usuário confirma o cadastro. <br>6a. O Sistema salva os dados.| 
+| **Ponto(s) de Extensão**	| **[PE016] Adicionar novo pet** <br> 1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.|
+| **Fluxo(s) de Exceção** | **[FE012] Não é possível realizar o cadastro**<br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.|
+
+<h6 align = "center"> Tabela 8:  </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+## 5. Validação com o usuário,
+
+Devido a divergência de horários, não foi possível que um Usuário da aplicação estivesse disponível para a validação dos casos de usos atualizados e corrigidos pela equipe de desenvolvimento do projeto.
+
+
+
+
+## 6. Referências Bibliográficas
 
 > [1] DevMedia. O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. 2012. DevMedia. Disponível em: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acessado em 16 de maio de 2023.
 
@@ -253,10 +345,11 @@ Na figura 11 observa-se o diagrama de caso de uso referente à consulta de conta
 > [3] SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Acessado em 16 de maio de 2023.
 
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 | Versão | Data     | Descrição                                  | Autor(es)     | Revisor(es)   |
 | ------ | -------- | ------------------------------------------ | ------------- | ------------- |
 | `1.0`  | 16/05/23 | Criação do artefato de casos de uso | Magno Luiz |  Pedro Muniz |
 | `1.1`  | 19/06/23 | Correções de padronização | Pedro Muniz |  Felipe Corrêa |
 | `1.2`  | 28/06/23 | Correções de diagramação e fluxos | Magno Luiz |  Pedro Muniz |
+| `1.3`  | 05/07/23 | Adição de novos casos de usos | Magno Luiz |  Pedro Muniz |
