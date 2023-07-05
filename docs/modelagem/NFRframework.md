@@ -91,14 +91,14 @@ As priorizações foram indicadas com base no artefato de [Priorização](../eli
 
 | n° requisito: [RNF04](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: |
 |----| -------|
-| Descrição:  |
-| Justificativa: |
+| Descrição: O sistema deve ter um sistema de busca eficiente. |
+| Justificativa: O aplicativo deve realizar buscas de forma eficiênte, ou seja, responder corretamente e de forma rápida a busca |
 | Origem: projetista do software |
-| Critério de Aceitação: |
-| Dependências:  |
-| Prioridade:  |
-| Conflitos:  |
-| História:  |
+| Critério de Aceitação: A busca deve exibir seus resultados em até 2 segundos |
+| Dependências: nenhum |
+| Prioridade: média prioridade |
+| Conflitos: nenhum |
+| História: 05/07/2023 |
 
 <h6 align = "center"> Especificação RNF04 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
@@ -108,14 +108,14 @@ As priorizações foram indicadas com base no artefato de [Priorização](../eli
 
 | n° requisito: [RNF05](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: |
 |----| -------|
-| Descrição: |
-| Justificativa: |
-| Origem:  |
-| Critério de Aceitação: |
-| Dependências:  |
-| Prioridade:  |
-| Conflitos: |
-| História:  |
+| Descrição: O sistema deve ser confiável e disponível. |
+| Justificativa: O aplicativo deve estar diponível 24/7 para realização de compras, lidar com falhas adequadamente e garantir a segurança dos dados dos usuários |
+| Origem: projetista do software e LGPD (Lei geral de proteção dos dados)|
+| Critério de Aceitação: O aplicativo deve estar disponível durânte toda semana, tratar adequadamente falhas e criptografar os dados dos usuários |
+| Dependências: nenhum |
+| Prioridade: alta prioridade |
+| Conflitos: nenhum |
+| História: 05/07/2023 |
 
 <h6 align = "center"> Especificação RNF05 </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
