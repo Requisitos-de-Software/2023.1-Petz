@@ -274,7 +274,7 @@ Na figura 12 observa-se o diagrama de caso de uso referente ao atendimento e com
 
 ## UC07 - Repetir pedido
 
-Na figura 13 observa-se o diagrama de caso de uso referente à consulta de conta. Abaixo na tabela 7 se encontra a especificação do diagrama.
+Na figura 13 observa-se o diagrama de caso de uso referente à repetição de pedidos. Abaixo na tabela 7 se encontra a especificação do diagrama.
 
 <center>
 
@@ -302,7 +302,7 @@ Na figura 13 observa-se o diagrama de caso de uso referente à consulta de conta
 
 ## UC08 - Cadastrar meu pet
 
-Na figura 14 observa-se o diagrama de caso de uso referente à consulta de conta. Abaixo na tabela 8 se encontra a especificação do diagrama.
+Na figura 14 observa-se o diagrama de caso de uso referente à opção de cadastro de animal de estimação. Abaixo na tabela 8 se encontra a especificação do diagrama.
 
 <center>
 
@@ -325,11 +325,11 @@ Na figura 14 observa-se o diagrama de caso de uso referente à consulta de conta
 | **Ponto(s) de Extensão**	| **[PE016] Adicionar novo pet** <br> 1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.|
 | **Fluxo(s) de Exceção** | **[FE012] Não é possível realizar o cadastro**<br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.|
 
-<h6 align = "center"> Tabela 8:  </h6>
+<h6 align = "center"> Tabela 8: Repetir pedidos </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 
-## 5. Validação com o usuário,
+## 5. Validação com o usuário
 
 Devido a divergência de horários, não foi possível que um Usuário da aplicação estivesse disponível para a validação dos casos de usos atualizados e corrigidos pela equipe de desenvolvimento do projeto.
 
