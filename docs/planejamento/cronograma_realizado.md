@@ -76,6 +76,81 @@ A tabela 4 descreve o que foi realizado para a entrega da Etapa 4.
 <h6 align = "center"> Tabela 4: cronograma realizado da Etapa 4 </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+## 5. Cronograma realizado Etapa 5.1
+
+A tabela 5 descreve o que foi realizado para a entrega da Etapa 5.1.
+
+|Atividade|	Autor(es)|	Revisor(es)|	Data Início	|Data Entrega|	Data Limite Revisão|
+|---------|----------|-------------|-----------------|-----------|---------------------|
+|Verificação Analise Documental Grupo 08 | Magno Luiz | Vitor Manoel | 13/06/23 | 13/06/23 | 04/06/2023 |
+|Verificação Aspectos Gerais Grupo 08 | Felipe Corrêa | Magno Luiz | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Verificação Backlog Grupo 08 | Felipe Corrêa | Magno Luiz | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Verificação Brainstorm Grupo 08 | Pedro Muniz| Samuel Sato | 10/06/23 | 10/06/23 | 04/06/2023 |
+|Verificação Casos de uso Grupo 08 | Lucas Cardoso| Samuel Sato | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Verificação Cenários Grupo 08 | Vitor Manoel | Samuel Sato | 10/06/23 | 10/06/23 | 04/06/2023 |
+|Verificação Escala de três níveis Grupo 08 | Pedro Muniz | Samuel Sato | 11/06/23 | 11/06/23 | 04/06/2023 |
+|Verificação Especificação Suplementar Grupo 08 | Samuel Sato | Vitor Manoel, Lucas Cardoso | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Verificação First Things First Grupo 08 | Lucas Cardoso | Samuel Sato | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Verificação Histórias de usuário Grupo 08 | Vitor Manoel | Samuel Sato | 12/06/23 | 12/06/23 | 04/06/2023 |
+|Verificação Léxicos Grupo 08 | Magno Luiz | Samuel Sato | 13/06/23 | 13/06/23 | 04/06/2023 |
+|Verificação MoSCoW Grupo 08 | Samuel Sato | Vitor Manoel | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Verificação NFR Grupo 08 |Pedro Muniz | Samuel Sato | 12/06/23 | 12/06/23 | 04/06/2023 |
+|Verificação Observação Grupo 08 | Felipe Corrêa | Magno Luiz | 14/06/23 | 12/06/23 | 04/06/2023 |
+|Verificação Perfil de usuário Grupo 08 | Lucas Cardoso | Samuel Sato | 14/06/23 |28/06/23 | 04/06/2023 |
+|Verificação Personas Grupo 08 | Vitor Manoel | Samuel Sato | 09/06/23 | 09/06/23 | 04/06/2023 |
+|Verificação Planejamento Grupo 08 | Magno Luiz | Pdro Muniz | 13/06/23 | 13/06/23 | 04/06/2023 |
+|Verificação Rich Picture Grupo 08 | Samuel Sato | Vitor Manoel, Lucas Cardoso | 14/06/23 | 14/06/23 | 04/06/2023 |
+|Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	14/06/2023|	14/06/2023|	14/06/2023|
+
+<h6 align = "center"> Tabela 5: cronograma realizado da Etapa 5.1 </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 6. Cronograma realizado Etapa 5.2
+
+A tabela 6 descreve o que foi realizado para a entrega da Etapa 5.2.
+
+|Atividade|	Autor(es)|	Revisor(es)|	Data Início	|Data Entrega|	Data Limite Revisão|
+|---------|----------|-------------|-----------------|-----------|---------------------|
+|Verificação Aspectos Gerais Grupo 07 | Magno Luiz | Samuel Sato | 19/06/23 | 28/06/23 | 11/06/2023 |
+|Verificação Backlog Grupo 07 | Felipe Corrêa | Magno Luiz | 14/06/23 | 14/06/23 | 11/06/2023 |
+|Verificação Casos de uso Grupo 07 | Pedro Muniz| Felipe Corrêa | 19/06/23 | 19/06/23 | 11/06/2023 |
+|Verificação Escala de três níveis Grupo 07 | Lucas Cardoso | Pedro Muniz| 21/06/23 | 22/06/23 | 11/06/2023 |
+|Verificação Especificação Suplementar Grupo 07 | Lucas Cardoso, Felipe M | Samuel Sato, Magno Luiz | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Histórias de usuário Grupo 07 | Vitor Manoel | Samuel Sato | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Introspecção Grupo 07 | Magno Luiz | Vitor Manoel | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Léxicos Grupo 07 | Samuel Sato | Magno Luiz | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação MoSCoW Grupo 07 | Vitor Manoel | Samuel Sato | 20/06/23 | 20/06/23 | 11/06/2023 |
+|Verificação NFR Grupo 07 | Samuel Sato | Magno Luiz | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Perfil de usuário Grupo 07 | Lucas Cardoso | Felipe M | 21/06/23 |28/06/23 | 11/06/2023 |
+|Verificação Personas Grupo 07 | Vitor Manoel | Samuel Sato | 20/06/23 | 20/06/23 | 11/06/2023 |
+|Verificação Questionário Grupo 07 | Samuel Sato | Magno Luiz | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Rich Picture Grupo 07 | Pedro Muniz |Felipe M | 20/06/23 | 20/06/23 | 04/06/2023 |
+|Verificação Storytelling Grupo 07 | Pedro Muniz |Felipe M | 20/06/23 | 20/06/23 | 04/06/2023 |
+|Verificação Brainstorm Grupo 07 | Felipe M| Pedro Muniz | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Planejamento Grupo 07 | Felipe M | Pedro Muniz | 21/06/23 | 21/06/23 | 11/06/2023 |
+|Verificação Priorização baseada em valor, custo e risco Grupo 07 | Felipe M | Pedro Muniz | 21/06/23 | 21/06/23 | 11/06/2023 |
+| Prototipagem | Pedro Muniz | Felipe M | 20/06/23 | 20/06/23 | 11/06/2023 |
+|Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	21/06/2023|	21/06/2023|	21/06/2023|
+
+
+<h6 align = "center"> Tabela 6: cronograma realizado da Etapa 5.2 </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 7. Cronograma realizado Etapa 6
+
+A tabela 7 descreve o que foi realizado para a entrega da Etapa 6.
+
+|Atividade|	Autor(es)|	Revisor(es)|	Data Início	|Data Entrega|	Data Limite Revisão|
+|---------|----------|-------------|-----------------|-----------|---------------------|
+|Matriz de rastreabilidade| Pedro Muniz | Felipe Corrêa | 28/06/23|28/06/23|20/06/23|
+|Backward From| Pedro Muniz, Felipe M | Felipe M, Pedro Muniz  | 28/06/23|28/06/23|20/06/23|
+|Forward From| Felipe M | Pedro Muniz | 28/06/23|28/06/23|20/06/23|
+| Validação Informal | Lucas Cardoso |Samuel Sato| 28/06/23 | 28/06/23 | 11/06/2023 |
+|Gravação da apresentação|	Todos os integrantes|	Todos os integrantes|	28/06/2023|	28/06/2023|	28/06/2023|
+
+<h6 align = "center"> Tabela 7: cronograma realizado da Etapa 6 </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
 ## 3. Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 15 abr. 2023;
@@ -86,3 +161,4 @@ A tabela 4 descreve o que foi realizado para a entrega da Etapa 4.
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 15/04/23 | Redação do cronograma realizado da etapa 1 | Felipe Corrêa       | Vitor Manoel  |
 |  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+|  `1.2`   | 05/07/23 | Adição de cronogramas faltantes | Felipe Corrêa | Magno Luiz |
