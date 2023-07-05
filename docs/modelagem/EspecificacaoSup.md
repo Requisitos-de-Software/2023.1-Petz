@@ -11,7 +11,7 @@ Para realizar a especificação suplementar será utilizado o método FURPS+. O 
 
 A maioria das funcionalidades já estão descritas nos artefatos de [priorização de requisitos](../elicitacao/resultadoPriorizacao.md) e de [casos de uso](casos_de_uso.md).
 
-|   ID |  Descrição | --|
+|   ID |  Descrição | Requisito |
 |---------|---------|---|
 |F01|O Aplicativo deve coletar a localização do usuário, se o mesmo permitir.| RF11
 |F02|O aplicativo deve ser capaz de coletar informações pessoais e financeiras do usuário, se o mesmo permitir.| RF12

@@ -111,7 +111,7 @@ Possui alguns erros de grafia
 
 ## 4.2 Verificação 5 - O artefato possui o cartão de especificação para o NFR?
 
-Artefato não possui cartões de especificações. Os cartões de especificação são usados para 
+Artefato não possui cartões de especificações. Os cartões de especificação têm o objetivo de ilustrar os requisitos não funcionais num contexto real do sistema.
 
 ## 5. Resultados
 
