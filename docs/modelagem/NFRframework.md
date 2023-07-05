@@ -35,6 +35,94 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 <h6 align = "center"> Figura 3: Tipos de rótulos </h6>
 <h6 align = "center"> Fonte: SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019 </h6>
 
+
+## Cartões de especificação 
+
+As priorizações foram indicadas com base no artefato de [Priorização](../elicitacao/resultadoPriorizacao.md/#21-escala-de-três-níveis), mais especificamente na priorização por escala de 3 níveis.
+
+| n° requisito: [RNF01](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: Confiabilidade|
+|----| -------|
+| Descrição: O sistema deve ser manter seguro as informações do usuário criptografando dados sensíveis. |
+| Justificativa:  A segurança de dados de um usuário é de extrema importância para qualquer software, ainda mais quando falamos de dados sensíveis |
+| Origem:  LGPD (Lei geral de proteção dos dados) |
+| Critério de Aceitação:  Ao trafegar dados na rede os dados do usuário devem estar criptogrados e inacessíveis a terceiros |
+| Dependências: nenhum |
+| Prioridade: Alta prioridade |
+| Conflitos:  nenhum |
+| História: 05/07/2023 |
+
+<h6 align = "center"> Especificação RNF01 </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
+  
+<br>
+
+| n° requisito: [RNF02](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: Suportabilidade|
+|----| -------|
+| Descrição: O sistema deve estar disponível para os sistemas Android e iOS. |
+| Justificativa: O aplicativo deve estar disponivel no maior número de dispositivos possíveis |
+| Origem: projetista do software|
+| Critério de Aceitação: estar disponivel em ambos os sistemas operacionais: Android e IOS  |
+| Dependências: nenhum |
+| Prioridade: Alta prioridade |
+| Conflitos:  nenhum |
+| História: 05/07/2023 |
+
+<h6 align = "center"> Especificação RNF02 </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<br>
+
+| n° requisito: [RNF03](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: |
+|----| -------|
+| Descrição: O sistema deve ser responsivo. |
+| Justificativa: Por questões de usabilidade é necessário que o software possua responsividade para estar disponivel de forma adequada para diferentes dispositivos |
+| Origem: projetista do software |
+| Critério de Aceitação: Software deve se adequar a diferentes tamanhos de telas|
+| Dependências: nenhum |
+| Prioridade: média prioridade |
+| Conflitos:   nenhum |
+| História: 05/07/2023 |
+
+<h6 align = "center"> Especificação RNF03 </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<br>
+
+
+| n° requisito: [RNF04](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: |
+|----| -------|
+| Descrição:  |
+| Justificativa: |
+| Origem: projetista do software |
+| Critério de Aceitação: |
+| Dependências:  |
+| Prioridade:  |
+| Conflitos:  |
+| História:  |
+
+<h6 align = "center"> Especificação RNF04 </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<br>
+
+
+| n° requisito: [RNF05](../elicitacao/resultadoElicitacao.md/#22-requisitos-não-funcionais)|  Classificação: |
+|----| -------|
+| Descrição: |
+| Justificativa: |
+| Origem:  |
+| Critério de Aceitação: |
+| Dependências:  |
+| Prioridade:  |
+| Conflitos: |
+| História:  |
+
+<h6 align = "center"> Especificação RNF05 </h6>
+<h6 align = "center"> Fonte: Autores, 2023 </h6>
+
+<br>
+
+
 ## 3. NFR
 
 <div id="NFR01"></div>
@@ -93,7 +181,6 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 ## 8. Bibliografia
 
 > [1] CASTRO, Jaelson - Requisitos Não funcionais. 2014. Disponível em: [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf) <br>
-> <br>
 >  [2] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Disponível em: [link](https://repositorio.ufpe.br/handle/123456789/34150)
 
 ## 9. Histórico de versão
@@ -102,6 +189,7 @@ O procedimento de avaliação determina o grau que os requisitos não funcionais
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 23/05/23 | Criação da versão inicial do NFR Framework | Vitor Manoel | Samuel Sato |
 |  `1.1`   | 24/05/23 | Criação do NFR de Desempenho e compatibilidade | Lucas Rodrigues | Felipe Mastromauro |
+| `1.2` | 05/07/23 | Adição dos cartões de especificação |Vitor Manoel e Samuel Sato | |
 
 
 
