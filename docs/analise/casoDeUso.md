@@ -215,6 +215,9 @@ Como não houveram correções de conteúdo, o grau de satisfação e a ocorrên
 
 Foi corrigido os diagramas e especificações que não apresentavam os fluxos alternativos e os fluxos de exceção necessários e identificando condições que incluem fluxos alternativos. 
 
+## 7.3 Acompanhamento versão 1.3
+
+Foram adicionados novos casos de uso que referenciem funcionalidades principais da aplicação.
 
 <center>
 
@@ -240,3 +243,4 @@ Foi corrigido os diagramas e especificações que não apresentavam os fluxos al
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 19/06/23 | Criação do documento e adição do conteúdo | Pedro Muniz | Felipe Corrêa |
+| `1.1` | 05/07/23 | Atualização do acompanhamento da verificação | Magno Luiz | Pedro Muniz |
