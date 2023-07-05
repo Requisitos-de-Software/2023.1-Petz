@@ -328,6 +328,61 @@ Na figura 14 observa-se o diagrama de caso de uso referente à opção de cadast
 <h6 align = "center"> Tabela 8: Repetir pedidos </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
+## UC08 - Cadastrar meu pet
+
+Na figura 14 observa-se o diagrama de caso de uso referente à opção de cadastro de animal de estimação. Abaixo na tabela 8 se encontra a especificação do diagrama.
+
+<center>
+
+![Cadastrar meu pet](../assets/casos_de_uso/fluxo_petcadastro.png)
+
+</center>
+
+<h6 align = "center"> Figura 14: Cadastrar meu pet </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+| UC08	| Cadastrar meu pet |
+| ----- | ------------- |
+| **Descrição** | Funcionalidade que permite o cadastro do animal de estimação.|
+| **Ator(es)**	| Usuário |
+| **Pré-Condições** | O Usuário deve estar logado na aplicação.|
+| **Pós-Condições** | O Usuário deve ter sido capaz de cadastrar um animal de estimação.|
+| **Fluxo Principal** |	**[FP08] Cadastrar meu pet** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3. O Usuário seleciona "Cadastrar meu pet".<br>4. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5. O Usuário confirma o cadastro. <br>6. O Sistema salva os dados. |
+| **Fluxo(s) Alternativo(s)** |**[FA09] Adicionar outro pet** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3a. O Usuário seleciona o botão "+" ou "Adicionar novo pet".<br>4a. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5a. O Usuário confirma o cadastro. <br>6a. O Sistema salva os dados.| 
+| **Ponto(s) de Extensão**	| **[PE016] Adicionar novo pet** <br> 1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.|
+| **Fluxo(s) de Exceção** | **[FE012] Não é possível realizar o cadastro**<br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.|
+
+<h6 align = "center"> Tabela 8: Repetir pedidos </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## UC09 - Banho e tosa
+
+Na figura 15 observa-se o diagrama de caso de uso referente a funcionalidade de agendamento de Banho e tosa . Abaixo na tabela 9 se encontra a especificação do diagrama.
+
+<center>
+
+![Banho e tosa](../assets/casos_de_uso/fluxo_banho.png)
+
+</center>
+
+<h6 align = "center"> Figura 15: Banho e tosa </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+| UC09	| Banho e tosa |
+| ----- | ------------- |
+| **Descrição** | Funcionalidade que permite agendar banho e tosa do animal de estimação.|
+| **Ator(es)**	| <br>**1.Principal**: Usuário. <br>**2. Secundário**: Atendente, Sistema. |
+| **Pré-Condições** | O Usuário deve estar logado na aplicação.|
+| **Pós-Condições** | O Usuário deve ter sido agendar um serviço relacionado a banho e tosa do animal de estimação|
+| **Fluxo Principal** |	**[FP09] Agendar Banho e tosa** <br>1. O Usuário seleciona "Banho e tosa".<br>2. O Usuário seleciona "Agendar serviço".<br>3. O Usuário seleciona "Selecionar pet".<br>4. O Usuário seleciona "Loja".<br>5. O Usuário seleciona o serviço. <br>6. O Sistema retorna o custo do serviço. <br> 7. O Usuário realiza o agendamento. <br>8. O Atendente responde validando o serviço. <br> 9. O Usuário efetua o pagamento.|
+| **Fluxo(s) Alternativo(s)** |**[FA010] A partir da seleção de "Mais"** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Banho e tosa".<br>3.O Usuário seleciona "Agendar serviço".<br>4. O Usuário seleciona "Selecionar pet".<br>5. O Usuário seleciona "Loja".<br>6. O Usuário seleciona o serviço. <br>7. O Sistema retorna o custo do serviço. <br> 8. O Usuário realiza o agendamento. <br>9. O Atendente responde validando o serviço. <br> 10. O Usuário efetua o pagamento.<br>**[FA011] Ver mais lojas** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Banho e tosa".<br>3.O Usuário seleciona "Agendar serviço".<br>4. O Usuário seleciona "Selecionar pet".<br>5a. O Usuário seleciona "Ver mais lojas"<br>6a. O Usuário seleciona uma loja da lista disponível.<br>7a. O Usuário seleciona o serviço. <br>8a. O Sistema retorna o custo do serviço. <br> 9a. O Usuário realiza o agendamento. <br>10a. O Atendente responde validando o serviço. <br> 11a. O Usuário efetua o pagamento.<br>**[FA011] Filtrar lojas** <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Banho e tosa".<br>3.O Usuário seleciona "Agendar serviço".<br>4. O Usuário seleciona "Selecionar pet".<br>5b. O Usuário utiliza a filtragem da aplicação.<br>6b. O Usuário seleciona uma loja da lista disponível.<br>7b. O Usuário seleciona o serviço. <br>8b. O Sistema retorna o custo do serviço. <br> 9b. O Usuário realiza o agendamento. <br>10b. O Atendente responde validando o serviço. <br> 11b. O Usuário efetua o pagamento.<br> | 
+| **Ponto(s) de Extensão**	| **[PE016] Adicionar novo pet** <br>1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.<br>**[PE017] Tratamento da pelagem**<br> 1. O Usuário seleciona a opção de tratamento da pelagem.<br>**[PE018] Tosa**<br>1. O Usuário seleciona a opção de tosa.<br>**[PE019] Tonalização da pelagem**<br>1. O Usuário seleciona a opção de tonalização da pelagem.<br>**[PE019] Manutenção essencial**<br>1. O Usuário seleciona a opção de manutenção essencial.|
+| **Fluxo(s) de Exceção** | **[FE012] Não é possível realizar o cadastro**<br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.<br>**[FE013] Não é possível agendar o serviço**<br>1a. O Sistema comunica que não existe disponibilidade para o momento selecionado.<br>1b. O Sistema comunica que não foi possível validar a requisição.|
+
+<h6 align = "center"> Tabela 8: Repetir pedidos </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 ## 5. Validação com o usuário
 
