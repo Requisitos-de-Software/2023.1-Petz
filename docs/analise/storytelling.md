@@ -139,15 +139,7 @@ Como não houveram correções de conteúdo, o grau de satisfação e a ocorrên
 <h6 align = "center"> Tabela 4: Representações gráficas dos resultados da verificação após as correções</h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## 8. Validação com usuário real
-
-Foi realizado uma validação com a usuária Sarah Veras, que é estudante de relações internacionais na unb e também usuária do aplicativo da Petz. Neste vídeo foi apresentado o artefato de introspecção juntamente com o artefato de storytelling. Após a explicação do estudo realizado a Sarah nos forneceu um feedback do artefato criado. - [Link do vídeo da validação](https://youtu.be/an_ftWnX1Dk)
-
-| ![Representação do grau de satisfação no artefato](../assets/introspeccao/validacaoComUsuario.jpg) |
-| ----------------------------------------------------------------------------------------------------- |
-|<h6 align="center">Figura 5: Reunião de validação com usuário<br>Fonte: Lucas, 2023</h6> |
-
-## 9. Referências bibliográficas
+## 8. Referências bibliográficas
 
 > [1] READE, Dennis et al. Storytelling. In: READE, Dennis et al. Marketing: novas tendências. São Paulo: Saraiva, 2015. Cap. 2. p. 30-43.
 
@@ -157,9 +149,8 @@ Foi realizado uma validação com a usuária Sarah Veras, que é estudante de re
 
 > [4] VIEIRA, Dimitri. O que é Storytelling? O guia para você dominar a arte de contar histórias e se tornar um excelente Storyteller. 2023. Disponível em: <https://rockcontent.com/br/blog/o-que-e-storytelling-guia-para-voce-dominar-a-arte-de-contar-historias/>. Acesso em: 20 jun. 2023.
 
-## 10. Histórico de versão
+## 9. Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 20/06/23 | Criação do documento e adição do conteúdo | Pedro Muniz | Felipe Corrêa |
-| `1.1` | 05/07/23 | Adição da validação com usuário | Lucas Rodrigues | Magno Luiz |

@@ -145,15 +145,7 @@ Os resultados da verificação do artefato de Introspecção podem ser encontrad
 
 A correção da validação dos requisitos será realizada utilizando todos os requisitos elicitados para facilitar a rastreabilidade e o trabalho a ser realizado.Tem previsão de correção para o dia 28 de junho de 2023.
 
-## 8. Validação com usuário real
-
-Foi realizado uma validação com a usuária Sarah Veras, que é estudante de relações internacionais na unb e também usuária do aplicativo da Petz. Neste vídeo foi apresentado o artefato de introspecção juntamente com o artefato de storytelling. Após a explicação do estudo realizado a Sarah nos forneceu um feedback do artefato criado. - [Link do vídeo da validação](https://youtu.be/an_ftWnX1Dk)
-
-| ![Representação do grau de satisfação no artefato](../assets/introspeccao/validacaoComUsuario.jpg) |
-| ----------------------------------------------------------------------------------------------------- |
-|<h6 align="center">Figura 4: Reunião de validação com usuário<br>Fonte: Lucas, 2023</h6> |
-
-## 9. Referências bibliográficas
+## 8. Referências bibliográficas
 
 > [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
@@ -163,7 +155,9 @@ Foi realizado uma validação com a usuária Sarah Veras, que é estudante de re
 
 > [4] Tribunal Regional do Trabalho do Paraná. Disponível em: https://www.trt9.jus.br/pds/index.htm. Acesso em 21 de jun. 2023.
 
+## 9. Histórico de versão
+
 | Versão | Data     | Descrição | Autor(es) | Revisor(es) |
 | ------ | -------- | --------- | --------- | ----------- |
 | `1.0`  | 21/06/2023 | Criação do artefato e adição do conteúdo | Magno Luiz | Vitor Manoel |
-| `1.1`  | 05/07/2023 | Adição da validação com usuário | Lucas Rodrigues | Magno Luiz |
+
