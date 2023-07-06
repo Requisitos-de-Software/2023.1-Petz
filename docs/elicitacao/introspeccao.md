@@ -66,16 +66,25 @@ Ao realizar a técnica de introspecção, os resultados da elicitação estão c
 <h6 align = "center"> Tabela 2: Requisitos não-funcionais </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
-## 5. Bibliografia
+## 5. Validação com usuário real
+
+Foi realizado uma validação com a usuária Sarah Veras, que é estudante de relações internacionais na unb e também usuária do aplicativo da Petz. Neste vídeo foi apresentado o artefato de introspecção juntamente com o artefato de storytelling. Após a explicação do estudo realizado a Sarah nos forneceu um feedback do artefato criado. - [Link do vídeo da validação](https://youtu.be/an_ftWnX1Dk)
+
+| ![Representação do grau de satisfação no artefato](../assets/introspeccao/validacaoComUsuario.jpg) |
+| ----------------------------------------------------------------------------------------------------- |
+|<h6 align="center">Figura 4: Reunião de validação com usuário<br>Fonte: Lucas, 2023</h6> |
+
+## 6. Bibliografia
 > [1] SHARMA, Shreta; PANDEY, S. K. Revisiting requirements elicitation techniques. International Journal of Computer Applications, v. 75, n. 12, 2013.
 
 > [2] YOUSUF, Masooma; ASGER, M. Comparison of various requirements elicitation techniques. International Journal of Computer Applications, v. 116, n. 4, 2015.
 
 > [3] ZOWGHI, Didar; COULIN, Chad. Requirements elicitation: A survey of techniques, approaches, and tools. Engineering and managing software requirements, 2005.
 
-## 6. Histórico de versão
+## 7. Histórico de versão
  
  |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-| `1.0` |27/04/2023|Criação do artefato de técnica de introspecção |Magno Luiz|Vitor Manoel e Samuel Sato|
-|  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+| `1.0`    |27/04/2023|Criação do artefato de técnica de introspecção |Magno Luiz|Vitor Manoel e Samuel Sato|
+| `1.1`    | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
+| `1.2`    | 05/07/2023 | Adição da validação com usuário | Lucas Rodrigues | Magno Luiz |
