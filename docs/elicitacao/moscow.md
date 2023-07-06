@@ -12,7 +12,7 @@ A utilização da técnica MOSCOW é uma abordagem eficiente para priorizar os r
 
 ## 2. Priorização
 
-Os requisitos foram priorizados a partir dos [resultados da elicitação](./resultadoElicitacao.md). A priorização está marcada nas tabelas 1, 2, 3 e 4, que representam os requisitos "Must Have", "Should Have", "Could Have" e "Won't Have", respectivamente.
+Os requisitos foram priorizados a partir dos [resultados da elicitação](./resultadoElicitacao.md). A priorização está marcada nas tabelas 1, 2, 3 e 4, que representam os requisitos "Must Have", "Should Have", "Could Have" e "Won't Have", respectivamente. A priorização foi feita junta ao usuário, gravação do vídeo disponivel no final do documento.
 
 ## 2.1 Tabela de requisitos "Must Have"
 
@@ -22,18 +22,24 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 | RF02 | O usuário deve ser capaz de entrar em sua conta cadastrada. |
 | RF03 | O usuário deve ser capaz de visualizar catálogo online de produtos para animais de estimação. |
 | RF04 | O usuário deve ser capaz de visualizar itens de produtos e serviços. |
-| RF07 | O usuário deve ser capaz de pesquisar produtos. |
-| RF08 | O usuário deve ser capaz de pesquisar serviços. |
-| RF09 | O usuário deve ser capaz de selecionar itens. |
-| RF10 | O usuário deve ser capaz de adicionar itens ao sacola de compras. |
-| RF11 | O usuário deve ser capaz de acompanhar a situação do pedido. |
-| RF12 | O usuário deve ser capaz de adicionar uma opção de pagamento. |
+| RF13 | O usuário deve ser capaz de realizar um pedido na loja.                                |
 | RF14 | O usuário deve ser capaz de realizar uma compra na aplicação. |
+| RF16 | O usuário deve ser capaz de remover itens da sacola de compras.                |
+| RF18 | O usuário deve ser capaz de visualizar o preço de itens.                       |
+| RF22 | O usuário deve ser capaz de cancelar um pedido.                                |
+| RF23 | O usuário deve ser capaz de escolher como receber um produto.                  |
+| RF24 | O usuário deve ser capaz de registrar uma lista de compras frequentes.                   |
+| RF26 | O usuário deve ser capaz de solicitar a entrega de produtos.                             |
+| RF28 | O usuário deve ser capaz de filtrar produtos por categoria.                              |
 | RF31 | O sistema deve possuir filtros e classificação por categorias para os produtos. |
-| RF32 | O sistema deve realizar a sugestão de produtos a partir de um perfil. |
+| RF34 | O usuário deve ser capaz de obter informações sobre cuidados de animais.               |
+| RF35 | O usuário deve ser capaz de alterar local de entrega do produto.                       |
+| RF41 | O sistema deve notificar o usuário acerca de pendências médicas dos seus pets.         |
 | RNF01 | O sistema deve manter seguras as informações do usuário criptografando dados sensíveis. |
 | RNF02 | O sistema deve estar disponível para os sistemas Android e iOS. |
 | RNF03 | O sistema deve ser responsivo.|
+| RNF04 | O sistema deve ter um sistema de busca eficiente. |
+| RNF05 | O sistema deve ser confiável e disponível. |
 
 <h6 align = "center"> Tabela 1: Requisitos "Must Have" </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -43,16 +49,28 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 | ID | Requisito |
 |--|--|
 | RF05 | O usuário deve ser capaz de cadastrar-se para promoções.                       |
-| RF06 | O usuário deve ser capaz de repetir um pedido anterior.                        |
+| RF07 | O usuário deve ser capaz de pesquisar produtos. |
+| RF08 | O usuário deve ser capaz de pesquisar serviços. |
+| RF09 | O usuário deve ser capaz de selecionar itens. |
+| RF10 | O usuário deve ser capaz de adicionar itens ao sacola de compras. |
+| RF11 | O usuário deve ser capaz de acompanhar a situação do pedido. |
+| RF12 | O usuário deve ser capaz de adicionar uma opção de pagamento. |
 | RF15 | O usuário deve ser capaz de cadastrar um perfil para o Pet.                    |
-| RF16 | O usuário deve ser capaz de remover itens da sacola de compras.                |
 | RF17 | O usuário deve ser capaz de favoritar itens.                                   |
-| RF18 | O usuário deve ser capaz de visualizar o preço de itens.                       |
-| RF22 | O usuário deve ser capaz de cancelar um pedido.                                |
-| RF23 | O usuário deve ser capaz de escolher como receber um produto.                  |
+| RF19 | O usuário deve ser capaz de agendar um serviço de banho e tosa.                          |
+| RF20 | O usuário deve ser capaz de assinar um serviço.                                          |
+| RF21 | O usuário deve ser capaz de recuperar sua conta através do endereço de email cadastrado. |
 | RF25 | O usuário deve ser capaz de acessar a avaliação e recomendações de um produto. |
-| RNF04 | O sistema deve ter um sistema de busca eficiente. |
-| RNF05 | O sistema deve ser confiável e disponível. |
+| RF27 | O usuário deve ser capaz de consultar a loja mais próxima.                               |
+| RF29 | O usuário deve ser capaz de cadastrar mais de um animal de estimação na aplicação.       |
+| RF30 | O usuário deve ser capaz de reportar falhas e erros.                                     |
+| RF32 | O sistema deve realizar a sugestão de produtos a partir de um perfil. |
+| RF33 | O usuário deve ser capaz de assinar pacotes periódicos de produtos pelo aplicativo.    |
+| RF36 | O usuário deve ser capaz de acessar um blog com dicas sobre pets.                      |
+| RF37 | O usuário deve ser capaz de solicitar transporte para o animal até a loja física.      |
+| RF38 | O usuário deve ser capaz de marcar consultas veterinárias.                             |
+| RF40 | O usuário deve ser capaz de acessar uma tela com posts da comunidade.                  |
+| RF42 | O usuário deve ser capaz de se cadastrar em um sistema de fidelidade pelo aplicativo.  |
 
 <h6 align = "center"> Tabela 2: Requisitos "Should Have" </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -61,15 +79,7 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 
 | ID | Requisito |
 |--|--|
-| RF19 | O usuário deve ser capaz de agendar um serviço de banho e tosa.                          |
-| RF20 | O usuário deve ser capaz de assinar um serviço.                                          |
-| RF21 | O usuário deve ser capaz de recuperar sua conta através do endereço de email cadastrado. |
-| RF24 | O usuário deve ser capaz de registrar uma lista de compras frequentes.                   |
-| RF26 | O usuário deve ser capaz de solicitar a entrega de produtos.                             |
-| RF27 | O usuário deve ser capaz de consultar a loja mais próxima.                               |
-| RF28 | O usuário deve ser capaz de filtrar produtos por categoria.                              |
-| RF29 | O usuário deve ser capaz de cadastrar mais de um animal de estimação na aplicação.       |
-| RF30 | O usuário deve ser capaz de reportar falhas e erros.                                     |
+| RF06 | O usuário deve ser capaz de repetir um pedido anterior.                        |
 
 
 <h6 align = "center"> Tabela 3: Requisitos "Could Have" </h6>
@@ -79,22 +89,17 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 
 | ID | Requisito |
 |--|--|
-| RF13 | O usuário deve ser capaz de realizar um pedido na loja.                                |
-| RF33 | O usuário deve ser capaz de assinar pacotes periódicos de produtos pelo aplicativo.    |
-| RF34 | O usuário deve ser capaz de obter informações sobre cuidados de animais.               |
-| RF35 | O usuário deve ser capaz de alterar local de entrega do produto.                       |
-| RF36 | O usuário deve ser capaz de acessar um blog com dicas sobre pets.                      |
-| RF37 | O usuário deve ser capaz de solicitar transporte para o animal até a loja física.      |
-| RF38 | O usuário deve ser capaz de marcar consultas veterinárias.                             |
 | RF39 | O usuário deve ser capaz de acessar uma tela com eventos próximos relacionados a pets. |
-| RF40 | O usuário deve ser capaz de acessar uma tela com posts da comunidade.                  |
-| RF41 | O sistema deve notificar o usuário acerca de pendências médicas dos seus pets.         |
-| RF42 | O usuário deve ser capaz de se cadastrar em um sistema de fidelidade pelo aplicativo.  |
 | RF43 | O sistema deve fornecer ao usuário serviços de hotelaria para animais.                 |
 
 
 <h6 align = "center"> Tabela 4: Requisitos "Won't Have" </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+
+## Gravação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOF4N7Qy_ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3. Referências Bibliográficas
 
@@ -105,3 +110,4 @@ Os requisitos foram priorizados a partir dos [resultados da elicitação](./resu
 | Versão | Data     | Descrição                        | Autor(es)     | Revisor(es) |
 | ------ | -------- | -------------------------------- | ------------- | ----------- |
 | `1.0`  | 01/05/23 | Criação da página da técnica MosCoW | Lucas Cardoso | Pedro Muniz |
+| `1.1` | 05/07/23 | Validação com usuário | Vitor Manoel e Lucas Cardoso | Felipe Corrêa |
