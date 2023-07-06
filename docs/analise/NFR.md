@@ -1,20 +1,18 @@
-# Verificação NFR Framework
+# NFR Framework
 
 ## 1. Introdução
 
-O NFR Framework é um método de modelagem ágil voltado para requisitos não funcionais de um sistema, buscando representar as dependências para a satisfação de cada requisito.
-
-Este documento tem como objetivo verificar o documento referente à modelagem NFR realizado pelo grupo, esta verificação não possui como intenção ofender a equipe ou os autores do documento, apenas encontrar falhas e apontar possíveis correções no mesmo.
+O NFR Framework é uma abordagem para representar e analisar requisitos não funcionais de um sistema, buscando representar as dependências para a satisfação de cada requisito[3].
 
 A verificação teve como objeto a versão 1.1 do documento e foi realizada no dia 21 de junho de 2023.
 
 ## 2. Metodologia
 
-A verificação a seguir segue a metodologia proposta no [planejamento](../planejamento.md)[1], onde serão utilizados _[checklists](../../planejamento/glossario.md#Checklist)_ para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo.
+A verificação a seguir segue a metodologia proposta no [planejamento](./planejamento.md)[1], onde serão utilizados checklists para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo.
 
 Abaixo seguem as verificações de conteúdo elaboradas, contendo a justificativa de cada uma além de sua fonte:
 
-### 2.1 Verificação 1 - O artefato possui a metodologia utilizada?
+### 2.1 Verificação 1 - O artefato possui a metodologia utilizada?  
 É importe que o artefato deixe claro os métodos utilizados para a obtenção e desenvolvimento do conteúdo apresentado, buscando inteirar o leitor acerca do que é tratado pelo mesmo.
 
 `SALES, André Barros. Plano de ensino da disciplina.`
@@ -105,27 +103,46 @@ Na tabela 4, se encontra o _[checklist](../../planejamento/glossario.md#Checklis
 | 10 | As contribuições foram corretamente representadas?[3] | 8 | 8 | 0 |
 | 11 | Os impactos levaram em consideração as contribuições?[3] | 8 | 8 | 0 |
 
-### 3.3 Problemas encontrados
+## 4. Problemas encontrados
 
-#### 3.3.1 ID 1 Possui ortografia correta e formal?
+### 4.1 ID 1 Possui ortografia correta e formal?
 
 Possui alguns erros de grafia
 
-### 3.3.2 Verificação 5 - O artefato possui o cartão de especificação para o NFR?
+## 4.2 Verificação 5 - O artefato possui o cartão de especificação para o NFR?
 
-Artefato não possui cartões de especificações.
+Artefato não possui cartões de especificações. Os cartões de especificação têm o objetivo de ilustrar os requisitos não funcionais num contexto real do sistema.
 
+## 5. Resultados
 
-## 4. Referências bibliográficas
+Os resultados da verificação do artefato de NFR podem ser encontrados na tabela 3 abaixo, por meio das figuras 1 e 2, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
 
-> [1] Artefato de planejamento da verificação, acesso em 21 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)
+| ![Representação do grau de satisfação no artefato](../assets/analise/satisfacaoNfr.png)               | ![Gráfico de ocorrência de erros no artefato](../assets/analise/nfrErros.png)                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <h6 align="center">Figura 2: Representação do grau de satisfação no artefato<br>Fonte: Autor, 2023</h6> | <h6 align="center">Figura 3: Gráfico de ocorrência de erros no artefato<br>Fonte: Autor, 2023</h6> |
+
+</center>
+
+<h6 align = "center"> Tabela 3: Representações gráficas dos resultados da verificação</h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+## 6. Acompanhamento
+
+### 6.1 Acompanhamento versão 1.1
+
+As correções ainda estão em andamento, serão terminadas até dia 03/07/2023.
+
+## 7. Referências bibliográficas
+
+> [1] Artefato de planejamento da verificação, acesso em 21 de junho de 2023. Para mais informações acesse: [link](./planejamento.md)
 
 > [2] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf>. Acesso em: 21 de junho de 2023;
 
 > [3] SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. 155 f. Dissertação (Mestrado) - Curso de Ciência da Computação, Universidade Federal de Pernambuco, Recife, 2019. Cap. 2.
 
-## 5. Histórico de versão
+## 8. Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 21/06/23 | Criação do documento de verificação do NFR | Samuel Sato | Magno Luiz |
+| `1.1` | 28/06/23 | Padronização da verificação do NFR | Samuel Sato | Lucas Rodrigues |
