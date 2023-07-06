@@ -119,10 +119,12 @@ nav:
             - Perfil de usuário: analise/perfildeusuario.md
         - Validação:
             - Prototipação: analise/validacao/prototipagem.md
+            - Validação informal: analise/validacao/validacaoInformal.md
   - Rastreabilidade:
         - Backward from: rastreabilidade/pre.md
         - Forward from: rastreabilidade/pos.md
         - Matriz de rastreabilidade: rastreabilidade/matriz.md
+  - Entrega Final: entregaFinal.md
     
 markdown_extensions:
   - tables
