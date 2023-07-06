@@ -45,10 +45,10 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 | Título | Realizar uma compra no aplicativo |
 | Objetivos | Utilizar o aplicativo para comprar um produto para seu animal |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br> [Usuário]() já cadastrado no aplicativo |
-| Episódios | 1. [Usuário]() [clica]() na [categoria]() de [produtos]() desejada.<br>2. [Usuário]() [clica]() no [produto]() desejado.<br>3. [Usuário]() [clica]() em adicionar ao [carrinho]().<br>4. [Usuário]() seleciona os dados de endereço e pagamento.<br>5. [Usuário]() [clica]() em finalizar compra. |
+| Restrição | Aplicativo instalado no smartphone<br> [Usuário](lexico.md#L01) já cadastrado no aplicativo |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na [categoria](./lexico.md#L29) de [produtos](lexico.md#L06) desejada.<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) no [produto]() desejado.<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) em adicionar ao [carrinho](lexico.md#L08).<br>4. [Usuário](lexico.md#L01) seleciona os dados de endereço e pagamento.<br>5. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) em finalizar compra. |
 | Exceção | Falha de conexão<br>Produto indisponível<br>Falta de bateria |
 | Rastreabilidade | [RF13](../elicitacao/resultadoElicitacao.md#RF13) e [RF14](../elicitacao/resultadoElicitacao.md#RF14) |
 
@@ -57,17 +57,17 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <div id="C02"></div>
 
-### 3.2 C02 - Cadastrar um perfil de [pet]()
+### 3.2 C02 - Cadastrar um perfil de [pet](lexico.md#L02)
 
 | Elemento | Informações |
 |--|--|
-| Título | Cadastrar um perfil de [pet]() |
+| Título | Cadastrar um perfil de [pet](lexico.md#L02) |
 | Objetivos | Utilizar o aplicativo para cadastrar informações do seu animal |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br> [Usuário]() já cadastrado no aplicativo |
-| Episódios | 1. [Usuário]() [clica]() na opção [Perfil]().<br>2. [Usuário]() [clica]() na opção Meus [pets]().<br>3. [Usuário]() [clica]() na opção Adicionar [pet]().<br>4. [Usuário]() insere as informações do animal.<br>5. [Usuário]() [clica]() em [Salvar](). |
+| Restrição | Aplicativo instalado no smartphone<br> [Usuário](lexico.md#L01) já cadastrado no aplicativo |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Perfil](lexico.md#L03).<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção Meus [pets](lexico.md#L02).<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção Adicionar [pet](lexico.md#L02).<br>4. [Usuário](lexico.md#L01) insere as informações do animal.<br>5. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) em [Salvar](./lexico.md#L24). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF15](../elicitacao/resultadoElicitacao.md#RF15) |
 
@@ -76,17 +76,17 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <div id="C03"></div>
 
-### 3.3 C03 - Agendar banho e tosa para seu [pet]()
+### 3.3 C03 - Agendar banho e tosa para seu [pet](lexico.md#L02)
 
 | Elemento | Informações |
 |--|--|
-| Título | Agendar banho e tosa para seu [pet]() |
+| Título | Agendar banho e tosa para seu [pet](lexico.md#L02) |
 | Objetivos | Utilizar o aplicativo para marcar um serviço de banho e tosa para seu animal |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br> [Usuário]() já cadastrado no aplicativo |
-| Episódios | 1. [Usuário]() [clica]() na opção [Banho e tosa]().<br>2. [Usuário]() [clica]() na opção [Agendar Serviço]().<br>3. [Usuário]() [clica]() no [pet]() desejado.<br>4. [Usuário]() seleciona o profissional desejado.<br>5. [Usuário]() seleciona as datas e horários desejados.<br>6. [Usuário]() [clica]() em [Salvar](). |
+| Restrição | Aplicativo instalado no smartphone<br> [Usuário](lexico.md#L01) já cadastrado no aplicativo |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Banho e tosa](lexico.md#L18).<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Agendar Serviço](./lexico.md#L25).<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) no [pet](lexico.md#L02) desejado.<br>4. [Usuário](lexico.md#L01) seleciona o profissional desejado.<br>5. [Usuário](lexico.md#L01) seleciona as datas e horários desejados.<br>6. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) em [Salvar](./lexico.md#L24). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF19](../elicitacao/resultadoElicitacao.md#RF19) |
 
@@ -95,17 +95,17 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <div id="C04"></div>
 
-### 3.4 C04 - Visualizar preço de [produtos]() disponíveis
+### 3.4 C04 - Visualizar preço de [produtos](lexico.md#L06) disponíveis
 
 | Elemento | Informações |
 |--|--|
-| Título | Visualizar preço de [produtos]() disponíveis |
+| Título | Visualizar preço de [produtos](lexico.md#L06) disponíveis |
 | Objetivos | Utilizar o aplicativo para visualizar o valor de itens disponíveis |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() |
+| Ator | [Usuário](lexico.md#L01) |
 | Recursos | Smartphone<br>Acesso à internet |
 | Restrição | Aplicativo instalado no smartphone |
-| Episódios | 1. [Usuário]() [clica]() na [categoria]() desejada.<br>2. [Usuário]() visualiza o valor dos [produtos]() presentes na [categoria](). |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na [categoria](./lexico.md#L29) desejada.<br>2. [Usuário](lexico.md#L01) visualiza o valor dos [produtos](lexico.md#L06) presentes na [categoria](./lexico.md#L29). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF18](../elicitacao/resultadoElicitacao.md#RF18) |
 
@@ -114,17 +114,17 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <div id="C05"></div>
 
-### 3.5 C05 - [Cancelar]() um [pedido]()
+### 3.5 C05 - [Cancelar]() um [pedido](./lexico#L26)
 
 | Elemento | Informações |
 |--|--|
-| Título | [Cancelar]() um [pedido]() |
-| Objetivos | Utilizar o aplicativo para [cancelar]() um [pedido]() prévio |
+| Título | [Cancelar]() um [pedido](./lexico#L26) |
+| Objetivos | Utilizar o aplicativo para [cancelar]() um [pedido](./lexico#L26) prévio |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado. |
-| Episódios | 1. [Usuário]() [clica]() na opção [Perfil]().<br>2. [Usuário]() [clica]() na opção [Pedidos]().<br>3. [Usuário]() [clica]() no [pedido]() desejado.<br>4. [Usuário]() [clica]() na opção [Cancelar](). |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário](lexico.md#L01) já cadastrado. |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Perfil](lexico.md#L03).<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Pedidos]().<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) no [pedido](./lexico#L26) desejado.<br>4. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Cancelar](). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF22](../elicitacao/resultadoElicitacao.md#RF22) |
 
@@ -133,17 +133,17 @@ Abaixo estão descritos os cenário cujas funcionalidades já se encontravam em 
 
 <div id="C06"></div>
 
-### 3.6 C06 - Assinar um pacote periódico de [produtos]()
+### 3.6 C06 - Assinar um pacote periódico de [produtos](lexico.md#L06)
 
 | Elemento | Informações |
 |--|--|
-| Título | Assinar um pacote periódico de [produtos]() |
-| Objetivos | Utilizar o aplicativo para assinar um pacote periódico de <br>[produtos]() |
+| Título | Assinar um pacote periódico de [produtos](lexico.md#L06) |
+| Objetivos | Utilizar o aplicativo para assinar um pacote periódico de <br>[produtos](lexico.md#L06) |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado |
-| Episódios | 1. [Usuário]() adiciona os [produtos]() desejados ao [carrinho]().<br>2. [Usuário]() clica na opção [pedido periódica]().<br>3. [Usuário]() insere as informações de entrega e pagamento.<br>4. [Usuário]() insere a periodicidade do [pedido]().<br>5. [Usuário]() [clica]() na opção [Salvar](). |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário](lexico.md#L01) já cadastrado |
+| Episódios | 1. [Usuário](lexico.md#L01) adiciona os [produtos](lexico.md#L06) desejados ao [carrinho](lexico.md#L08).<br>2. [Usuário](lexico.md#L01) clica na opção [pedido periódico](lexico.md#L21).<br>3. [Usuário](lexico.md#L01) insere as informações de entrega e pagamento.<br>4. [Usuário](lexico.md#L01) insere a periodicidade do [pedido](./lexico#L26).<br>5. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Salvar](./lexico.md#L24). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF33](../elicitacao/resultadoElicitacao.md#RF33) |
 
@@ -156,17 +156,17 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <div id="C07"></div>
 
-### 4.1 C07 - Repetir um [pedido]()
+### 4.1 C07 - Repetir um [pedido](./lexico#L26)
 
 | Elemento | Informações |
 |--|--|
-| Título | Repetir um [pedido]() |
-| Objetivos | Utilizar o aplicativo para repetir um [pedido]() prévio |
+| Título | Repetir um [pedido](./lexico#L26) |
+| Objetivos | Utilizar o aplicativo para repetir um [pedido](./lexico#L26) prévio |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado. |
-| Episódios | 1. [Usuário]() [clica]() na opção [Perfil]().<br>2. [Usuário]() [clica]() na opção [Pedidos]().<br>3. [Usuário]() [clica]() no [pedido]() desejado.<br>4. [Usuário]() [clica]() na opção [Repetir pedido]().<br>5. [Usuário]() insere as informações de entrega e pagamento.<br>6. [Usuário]() [clica]() na opção [Salvar](). |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário](lexico.md#L01) já cadastrado. |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Perfil](lexico.md#L03).<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Pedidos]().<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) no [pedido](./lexico#L26) desejado.<br>4. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Repetir pedido](lexico.md#L21).<br>5. [Usuário](lexico.md#L01) insere as informações de entrega e pagamento.<br>6. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Salvar](./lexico.md#L24). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF06](../elicitacao/resultadoElicitacao.md#RF06) |
 
@@ -175,17 +175,17 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <div id="C08"></div>
 
-### 4.2 C08 - Registrar um [pedido]() como frequente
+### 4.2 C08 - Registrar um [pedido](./lexico#L26) como frequente
 
 | Elemento | Informações |
 |--|--|
-| Título | Registrar um [pedido]() como frequente |
-| Objetivos | Utilizar o aplicativo para registrar um [pedido]() como frequente |
+| Título | Registrar um [pedido](./lexico#L26) como frequente |
+| Objetivos | Utilizar o aplicativo para registrar um [pedido](./lexico#L26) como frequente |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado. |
-| Episódios | 1. [Usuário]() [clica]() na opção [Perfil]().<br>2. [Usuário]() [clica]() na opção [Pedidos]().<br>3. [Usuário]() [clica]() no [pedido]() desejado.<br>4. [Usuário]() [clica]() na opção [Registrar como frequente](). |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário](lexico.md#L01) já cadastrado. |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Perfil](lexico.md#L03).<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Pedidos]().<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) no [pedido](./lexico#L26) desejado.<br>4. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Registrar como frequente](./lexico.md#L27). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF24](../elicitacao/resultadoElicitacao.md#RF24) |
 
@@ -201,10 +201,10 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 | Título | Reportar um erro |
 | Objetivos | Utilizar o aplicativo para registrar um erro inesperado |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() |
+| Ator | [Usuário](lexico.md#L01) |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() |
-| Episódios | 1. [Usuário]() [clica]() na opção [Registrar erro ou falha]().<br>2. [Usuário]() insere as informações do erro.<br>3. [Usuário]() [clica]() na opção [Salvar](). |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário](lexico.md#L01) |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Registrar erro ou falha](lexico.md#L22).<br>2. [Usuário](lexico.md#L01) insere as informações do erro.<br>3. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Salvar](./lexico.md#L24). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF30](../elicitacao/resultadoElicitacao.md#RF30) |
 
@@ -213,17 +213,17 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <div id="C10"></div>
 
-### 4.5 C10 - Visualizar conteúdo adicional sobre [pets]()
+### 4.5 C10 - Visualizar conteúdo adicional sobre [pets](lexico.md#L02)
 
 | Elemento | Informações |
 |--|--|
-| Título | Visualizar conteúdo adicional sobre [pets]() |
-| Objetivos | Utilizar o aplicativo para visualizar informações interessantes sobre <br>[pets]() |
+| Título | Visualizar conteúdo adicional sobre [pets](lexico.md#L02) |
+| Objetivos | Utilizar o aplicativo para visualizar informações interessantes sobre <br>[pets](lexico.md#L02) |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() |
+| Ator | [Usuário](lexico.md#L01) |
 | Recursos | Smartphone<br>Acesso à internet |
 | Restrição | Aplicativo instalado no smartphone |
-| Episódios | 1. [Usuário]() [clica]() na opção [Blog]().<br>2. [Usuário]() [clica]() na [categoria de posts]() desejada.<br>3. [Usuário]() visualiza as informações desejadas. |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Blog](./lexico.md#L28).<br>2. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na [categoria de posts](./lexico.md#L30) desejada.<br>3. [Usuário](lexico.md#L01) visualiza as informações desejadas. |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF36](../elicitacao/resultadoElicitacao.md#RF36) e [RF40](../elicitacao/resultadoElicitacao.md#RF40) |
 
@@ -232,17 +232,17 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <div id="C11"></div>
 
-### 4.6 C11 - Marcar serviço [veterinário]() com [pet-táxi]()
+### 4.6 C11 - Marcar serviço [veterinário](./lexico.md#L31) com [pet-táxi](./lexico.md#L32)
 
 | Elemento | Informações |
 |--|--|
-| Título | Marcar serviço [veterinário]() com [pet-táxi]() |
+| Título | Marcar serviço [veterinário](./lexico.md#L31) com [pet-táxi](./lexico.md#L32) |
 | Objetivos | Utilizar o aplicativo para agendar uma consulta [veterinária](). |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() cadastrado |
+| Ator | [Usuário](lexico.md#L01) cadastrado |
 | Recursos | Smartphone<br>Acesso à internet |
-| Restrição | Aplicativo instalado no smartphone<br>[Usuário]() já cadastrado |
-| Episódios | 1. [Usuário]() [clica]() na opção [Veterinário]().<br>2. [Usuário]() seleciona o motivo da consulta.<br>3. [Usuário]() seleciona o profissional desejado.<br>4. [Usuário]() [clica]() na opção [Serviço de pet-táxi]().<br>5. [Usuário]() insere as informações de data e horário.<br>6. [Usuário]() [clica]() na opção [Salvar](). |
+| Restrição | Aplicativo instalado no smartphone<br>[Usuário](lexico.md#L01) já cadastrado |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Veterinário](./lexico.md#L31).<br>2. [Usuário](lexico.md#L01) seleciona o motivo da consulta.<br>3. [Usuário](lexico.md#L01) seleciona o profissional desejado.<br>4. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Serviço de pet-táxi]().<br>5. [Usuário](lexico.md#L01) insere as informações de data e horário.<br>6. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Salvar](./lexico.md#L24). |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF37](../elicitacao/resultadoElicitacao.md#RF37) e [RF38](../elicitacao/resultadoElicitacao.md#RF38) |
 
@@ -251,17 +251,17 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <div id="C12"></div>
 
-### 4.7 C12 - Visualizar eventos para [pets]() próximos
+### 4.7 C12 - Visualizar eventos para [pets](lexico.md#L02) próximos
 
 | Elemento | Informações |
 |--|--|
-| Título | Visualizar eventos para [pets]() próximos |
-| Objetivos | Utilizar o aplicativo para Visualizar eventos para [pets]() próximos |
+| Título | Visualizar eventos para [pets](lexico.md#L02) próximos |
+| Objetivos | Utilizar o aplicativo para Visualizar eventos para [pets](lexico.md#L02) próximos |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() |
+| Ator | [Usuário](lexico.md#L01) |
 | Recursos | Smartphone<br>Acesso à internet |
 | Restrição | Aplicativo instalado no smartphone |
-| Episódios | 1. [Usuário]() [clica]() na opção [Eventos]().<br>2. [Usuário]() seleciona seu local.<br>3. [Usuário]() visualiza eventos próximos. |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Eventos](./lexico.md#L33).<br>2. [Usuário](lexico.md#L01) seleciona seu local.<br>3. [Usuário](lexico.md#L01) visualiza eventos próximos. |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF38](../elicitacao/resultadoElicitacao.md#RF38) |
 
@@ -270,17 +270,17 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 
 <div id="C13"></div>
 
-### 4.8 C13 - Agendar estadia de [pet]() em [hotel]() para animais
+### 4.8 C13 - Agendar estadia de [pet](lexico.md#L02) em [hotel](./lexico.md#L34) para animais
 
 | Elemento | Informações |
 |--|--|
-| Título | Agendar estadia de [pet]() em [hotel]() para animais |
-| Objetivos | Utilizar o aplicativo para agendar estadia de [pet]() em [hotel]() para animais |
+| Título | Agendar estadia de [pet](lexico.md#L02) em [hotel](./lexico.md#L34) para animais |
+| Objetivos | Utilizar o aplicativo para agendar estadia de [pet](lexico.md#L02) em [hotel](./lexico.md#L34) para animais |
 | Contexto | **Local:** Tela inicial do aplicativo<br>**Tempo:** De 5 a 10 minutos<br>**Pré-condições:** Smartphone com acesso à internet e aplicativo instalado |
-| Ator | [Usuário]() |
+| Ator | [Usuário](lexico.md#L01) |
 | Recursos | Smartphone<br>Acesso à internet |
 | Restrição | Aplicativo instalado no smartphone |
-| Episódios | 1. [Usuário]() [clica]() na opção [Hotelaria]().<br>2. [Usuário]() seleciona o [pet]() desejado.<br>3. [Usuário]() insere as informações da estadia.<br>4. [Usuário]() [clica]() em salvar. |
+| Episódios | 1. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) na opção [Hotelaria]().<br>2. [Usuário](lexico.md#L01) seleciona o [pet](lexico.md#L02) desejado.<br>3. [Usuário](lexico.md#L01) insere as informações da estadia.<br>4. [Usuário](lexico.md#L01) [clica](./lexico.md#L23) em salvar. |
 | Exceção | Falha de conexão<br>Falta de bateria |
 | Rastreabilidade | [RF43](../elicitacao/resultadoElicitacao.md#RF43) |
 
@@ -296,3 +296,4 @@ Abaixo estão descritos os cenário cujas funcionalidades não se encontravam em
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 11/05/23 | Criação e organização do artefato | Pedro Muniz e Felipe Corrêa | Samuel Sato |
+| `1.1`   | 04/07/23 | Hiperlinks consertados | Pedro Muniz | Felipe Corrêa |

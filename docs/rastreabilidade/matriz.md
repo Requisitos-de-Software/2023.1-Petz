@@ -89,4 +89,4 @@ Na tabela 2 a seguir, estão listados os requisitos elicitados, assim como seus 
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 28/06/23 | Criação e organização da primeira versão | Pedro Muniz       | Felipe Corrêa  |
+|  `1.0`   | 28/06/23 | Criação e organização da primeira versão | Pedro Muniz e Felipe Corrêa      | Magno Luiz  |

@@ -78,6 +78,14 @@ A tabela 2 detalha os requisitos não funcionais que foram elicitados a partir d
 <h6 align = "center"> Tabela 2: Requisitos não funcionais Elicitados </h6>
 <h6 align = "center"> Fonte: Autores, 2023 </h6>
 
+## 4. Validação com usuário real
+
+Foi realizado uma validação com a usuária Sarah Veras, que é estudante de relações internacionais na unb e também usuária do aplicativo da Petz. Neste vídeo foi apresentado o artefato de introspecção juntamente com o artefato de storytelling. Após a explicação do estudo realizado a Sarah nos forneceu um feedback do artefato criado. - [Link do vídeo da validação](https://youtu.be/an_ftWnX1Dk)
+
+| ![Representação do grau de satisfação no artefato](../assets/introspeccao/validacaoComUsuario.jpg) |
+| ----------------------------------------------------------------------------------------------------- |
+|<h6 align="center">Figura 1: Reunião de validação com usuário<br>Fonte: Lucas, 2023</h6> |
+
 ## 4. Bibliografia
 
 > [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
@@ -91,5 +99,6 @@ A tabela 2 detalha os requisitos não funcionais que foram elicitados a partir d
 |  `1.0`   | 26/04/23 | Criação da primeira versão do artefato storytelling | Vitor Manoel   | Felipe Corrêa |
 |  `1.1`   | 30/04/23 | Padronização de legendas | Pedro Muniz | Felipe Corrêa |
 |  `1.2`   | 21/06/23 | Correção de requisitos | Magno Luiz | Vitor Manoel |
+|  `1.3`   | 05/07/23 | Adição da validação com usuário | Lucas Rodrigues | Magno Luiz |
 
 

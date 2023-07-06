@@ -8,7 +8,7 @@ Este artefato contém a apresentação em vídeo da etapa 5.2 do projeto.
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ySsjxjByxFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySsjxjByxFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 
@@ -18,3 +18,4 @@ Este artefato contém a apresentação em vídeo da etapa 5.2 do projeto.
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 28/06/23 | Criação e organização do artefato | Magno Luiz | Samuel Sato |
+|  `1.1`   | 05/07/23 | Correção do link do vídeo | Magno Luiz | Samuel Sato |

@@ -381,7 +381,7 @@ Na figura 15 observa-se o diagrama de caso de uso referente a funcionalidade de 
 | **Ponto(s) de Extensão**	| **[PE016] Adicionar novo pet** <br>1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.<br>**[PE017] Tratamento da pelagem**<br> 1. O Usuário seleciona a opção de tratamento da pelagem.<br>**[PE018] Tosa**<br>1. O Usuário seleciona a opção de tosa.<br>**[PE019] Tonalização da pelagem**<br>1. O Usuário seleciona a opção de tonalização da pelagem.<br>**[PE019] Manutenção essencial**<br>1. O Usuário seleciona a opção de manutenção essencial.|
 | **Fluxo(s) de Exceção** | **[FE012] Não é possível realizar o cadastro**<br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.<br>**[FE013] Não é possível agendar o serviço**<br>1a. O Sistema comunica que não existe disponibilidade para o momento selecionado.<br>1b. O Sistema comunica que não foi possível validar a requisição.|
 
-<h6 align = "center"> Tabela 8: Repetir pedidos </h6>
+<h6 align = "center"> Tabela 9: Banho e tosa </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
 
 ## 5. Validação com o usuário

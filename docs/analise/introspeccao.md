@@ -145,13 +145,7 @@ Os resultados da verificação do artefato de Introspecção podem ser encontrad
 
 A correção da validação dos requisitos será realizada utilizando todos os requisitos elicitados para facilitar a rastreabilidade e o trabalho a ser realizado.Tem previsão de correção para o dia 28 de junho de 2023.
 
-
-
-
 ## 8. Referências bibliográficas
-
-
-
 
 > [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
@@ -161,6 +155,9 @@ A correção da validação dos requisitos será realizada utilizando todos os r
 
 > [4] Tribunal Regional do Trabalho do Paraná. Disponível em: https://www.trt9.jus.br/pds/index.htm. Acesso em 21 de jun. 2023.
 
+## 9. Histórico de versão
+
 | Versão | Data     | Descrição | Autor(es) | Revisor(es) |
 | ------ | -------- | --------- | --------- | ----------- |
 | `1.0`  | 21/06/2023 | Criação do artefato e adição do conteúdo | Magno Luiz | Vitor Manoel |
+
