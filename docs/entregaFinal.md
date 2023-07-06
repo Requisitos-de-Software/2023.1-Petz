@@ -356,6 +356,11 @@ Durante o projeto, houveram entregas parciais do mesmo, onde foram apresentados 
 - Aos participantes do grupo 06 pelas verificações e erros apontados.
 - Aos participantes do grupo 07 pela dedicação ao projeto.
 
+
+## 9. Gravação Apresentação Final
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoLLGfIvbHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 9. Bibliografia
 
 > [1] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP
@@ -374,5 +379,7 @@ Durante o projeto, houveram entregas parciais do mesmo, onde foram apresentados 
 | `1.3` | 05/07/2023 | Adição dos resultados obtidos | Magno Luiz | Felipe Corrêa |
 | `1.4` | 05/07/2023 | Adição das ferramentas e cronogramas | Felipe Corrêa | Samuel Sato |
 | `1.5` | 05/07/2023 | Adição das facilidades, dificuldades e apresentações | Pedro Muniz | Lucas Cardoso |
+| `1.6` | 06/07/2023 | Adição da apresentação final | Vitor Manoel | Pedro Muniz |
+
 
 
