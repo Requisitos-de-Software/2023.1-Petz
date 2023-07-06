@@ -1,0 +1,2985 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../cenarios/">
+      
+      
+        <link rel="next" href="../lexico/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
+    
+    
+      
+        <title>Casos de uso - Grupo 07 - Aplicativo Petz</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-introducao" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Grupo 07 - Aplicativo Petz" class="md-header__button md-logo" aria-label="Grupo 07 - Aplicativo Petz" data-md-component="logo">
+      
+  <img src="../../assets/images/favicon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grupo 07 - Aplicativo Petz
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Grupo 07 - Aplicativo Petz" class="md-nav__button md-logo" aria-label="Grupo 07 - Aplicativo Petz" data-md-component="logo">
+      
+  <img src="../../assets/images/favicon.png" alt="logo">
+
+    </a>
+    Grupo 07 - Aplicativo Petz
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Atas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao12042023/" class="md-nav__link">
+        Reunião 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao19042023/" class="md-nav__link">
+        Reunião 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao02052023/" class="md-nav__link">
+        Reunião 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao23052023/" class="md-nav__link">
+        Reunião 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao01062023/" class="md-nav__link">
+        Reunião 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao13062023/" class="md-nav__link">
+        Reuniaõ 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao26062023/" class="md-nav__link">
+        Reunião 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao30063034.md" class="md-nav__link">
+        Renuião 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao04072023/" class="md-nav__link">
+        Reunião 9
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao1/" class="md-nav__link">
+        Etapa 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao2/" class="md-nav__link">
+        Etapa 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao3/" class="md-nav__link">
+        Etapa 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao4/" class="md-nav__link">
+        Etapa 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao5/" class="md-nav__link">
+        Etapa 5.1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao6/" class="md-nav__link">
+        Etapa 5.2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao7/" class="md-nav__link">
+        Etapa 6
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/glossario/" class="md-nav__link">
+        Glossário de palavras
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/apps_analisados/" class="md-nav__link">
+        Apps avaliados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologia/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Pré-rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/richpicture/" class="md-nav__link">
+        Rich picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas_planejadas/" class="md-nav__link">
+        Técnicas planejadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfil/" class="md-nav__link">
+        Perfil de usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/Storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/resultadoElicitacao/" class="md-nav__link">
+        Resultados da elicitação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_9" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_9" id="__nav_6_9_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_9">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas_priorizacao/" class="md-nav__link">
+        Técnicas planejadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/escalaTresNiveis/" class="md-nav__link">
+        Escala de três níveis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/moscow/" class="md-nav__link">
+        MosCoW
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/custoxbeneficio/" class="md-nav__link">
+        Baseada em valor, custo e risco
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/resultadoPriorizacao/" class="md-nav__link">
+        Resultados da priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Casos de uso
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Casos de uso
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-representacao-do-diagrama-uml-casos-de-uso" class="md-nav__link">
+    3. Representação do Diagrama UML - Casos de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Representação do Diagrama UML - Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-atores" class="md-nav__link">
+    3.1 Ator(es)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-caso-de-uso" class="md-nav__link">
+    3.2 Caso de uso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-cenario" class="md-nav__link">
+    3.3 Cenário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-pontos-de-extensao" class="md-nav__link">
+    3.4 Pontos de extensão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-comunicacao" class="md-nav__link">
+    3.5 Comunicação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-diagramas-de-casos-de-uso" class="md-nav__link">
+    4. Diagramas de Casos de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc01-realizar-cadastro" class="md-nav__link">
+    UC01 - Realizar Cadastro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc02-efetuar-login" class="md-nav__link">
+    UC02 - Efetuar Login
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc03-compra-de-produto" class="md-nav__link">
+    UC03 - Compra de produto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc04-efetuar-pagamento" class="md-nav__link">
+    UC04 - Efetuar Pagamento
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc05-consultar-conta" class="md-nav__link">
+    UC05 - Consultar conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc06-atendimento" class="md-nav__link">
+    UC06 - Atendimento
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc07-repetir-pedido" class="md-nav__link">
+    UC07 - Repetir pedido
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc08-cadastrar-meu-pet" class="md-nav__link">
+    UC08 - Cadastrar meu pet
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc08-cadastrar-meu-pet_1" class="md-nav__link">
+    UC08 - Cadastrar meu pet
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc09-banho-e-tosa" class="md-nav__link">
+    UC09 - Banho e tosa
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-validacao-com-o-usuario" class="md-nav__link">
+    5. Validação com o usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-referencias-bibliograficas" class="md-nav__link">
+    6. Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-historico-de-versao" class="md-nav__link">
+    7. Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../EspecificacaoSup/" class="md-nav__link">
+        Especificação suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+          Ágil
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_5">
+          <span class="md-nav__icon md-icon"></span>
+          Ágil
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../agil/userStories/" class="md-nav__link">
+        Histórias de usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../agil/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NFRframework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/planejamento/" class="md-nav__link">
+        Planejamento da verificação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
+          Teste piloto - Verificação Grupo 8
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_2">
+          <span class="md-nav__icon md-icon"></span>
+          Teste piloto - Verificação Grupo 8
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/aspectosGerais/" class="md-nav__link">
+        Aspectos gerais
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/perfilDeUsuario/" class="md-nav__link">
+        Perfil de usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/analiseDocumental/" class="md-nav__link">
+        Análise documental
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/moscow/" class="md-nav__link">
+        MosCow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/firstThingsFirst/" class="md-nav__link">
+        First things First
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/escalaTresNiveis/" class="md-nav__link">
+        Escala de três níveis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/casosDeUso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/especificacaoSuplementar/" class="md-nav__link">
+        Especificação suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/historiasUsuario/" class="md-nav__link">
+        Histórias de usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/teste/nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_3" id="__nav_8_3_label" tabindex="0">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_3">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/casoDeUso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verif_prioValorCustoRisco/" class="md-nav__link">
+        Priorização baseada em valor, custo e risco
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verif_planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verif_brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/aspectosgerais/" class="md-nav__link">
+        Aspectos gerais
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/Personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/NFR/" class="md-nav__link">
+        NFR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/historiasDeUsuario/" class="md-nav__link">
+        Historias de usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/Backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/mosCow/" class="md-nav__link">
+        mosCow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/escalatresniveis/" class="md-nav__link">
+        Escala de três níveis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/especificacaosuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/perfildeusuario/" class="md-nav__link">
+        Perfil de usuário
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_4" id="__nav_8_4_label" tabindex="0">
+          Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_4">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/prototipagem/" class="md-nav__link">
+        Prototipação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/validacaoInformal/" class="md-nav__link">
+        Validação informal
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rastreabilidade/pre/" class="md-nav__link">
+        Backward from
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rastreabilidade/pos/" class="md-nav__link">
+        Forward from
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rastreabilidade/matriz/" class="md-nav__link">
+        Matriz de rastreabilidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entregaFinal/" class="md-nav__link">
+        Entrega Final
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-representacao-do-diagrama-uml-casos-de-uso" class="md-nav__link">
+    3. Representação do Diagrama UML - Casos de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Representação do Diagrama UML - Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-atores" class="md-nav__link">
+    3.1 Ator(es)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-caso-de-uso" class="md-nav__link">
+    3.2 Caso de uso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-cenario" class="md-nav__link">
+    3.3 Cenário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-pontos-de-extensao" class="md-nav__link">
+    3.4 Pontos de extensão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-comunicacao" class="md-nav__link">
+    3.5 Comunicação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-diagramas-de-casos-de-uso" class="md-nav__link">
+    4. Diagramas de Casos de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc01-realizar-cadastro" class="md-nav__link">
+    UC01 - Realizar Cadastro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc02-efetuar-login" class="md-nav__link">
+    UC02 - Efetuar Login
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc03-compra-de-produto" class="md-nav__link">
+    UC03 - Compra de produto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc04-efetuar-pagamento" class="md-nav__link">
+    UC04 - Efetuar Pagamento
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc05-consultar-conta" class="md-nav__link">
+    UC05 - Consultar conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc06-atendimento" class="md-nav__link">
+    UC06 - Atendimento
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc07-repetir-pedido" class="md-nav__link">
+    UC07 - Repetir pedido
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc08-cadastrar-meu-pet" class="md-nav__link">
+    UC08 - Cadastrar meu pet
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc08-cadastrar-meu-pet_1" class="md-nav__link">
+    UC08 - Cadastrar meu pet
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uc09-banho-e-tosa" class="md-nav__link">
+    UC09 - Banho e tosa
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-validacao-com-o-usuario" class="md-nav__link">
+    5. Validação com o usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-referencias-bibliograficas" class="md-nav__link">
+    6. Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-historico-de-versao" class="md-nav__link">
+    7. Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Casos de uso</h1>
+
+<h2 id="1-introducao">1. Introdução</h2>
+<p>O diagrama de casos de uso é uma ferramenta gráfica de modelagem utilizada na engenharia de software para representar as funcionalidades de um sistema a partir da perspectiva do usuário. É uma das técnicas mais utilizadas para elicitação e documentação de requisitos funcionais, pois permite identificar os atores envolvidos no sistema e descrever como eles interagem com o mesmo.</p>
+<h2 id="2-metodologia">2. Metodologia</h2>
+<p>Para a realização da atividade de diagramação no artefato, foi utilizada a ferramenta de representação de diagramas <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>. O diagrama de casos de uso irá demonstrar os casos de uso principais do sistema, que são representados por elipses, e os atores envolvidos no sistema, que são representados por retângulos. Os casos de uso são conectados aos atores através de linhas, que indicam a interação entre eles. Além disso, é possível incluir descrições detalhadas de cada caso de uso, com informações sobre pré-condições, pós-condições, fluxos alternativos e exceções.</p>
+<h2 id="3-representacao-do-diagrama-uml-casos-de-uso">3. Representação do Diagrama UML - Casos de Uso</h2>
+<h3 id="31-atores">3.1 Ator(es)</h3>
+<p>Atores são caracterizados por serem os usuários do sistema ou um tipo de usuário[1]. Sua representação nos diagramas pode ser vista na figura 1.
+<center></p>
+<p><img alt="Ator" src="../../assets/casos_de_uso/elemento_ator.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 1: Ator </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h3 id="32-caso-de-uso">3.2 Caso de uso</h3>
+<p>Caso de uso é uma tarefa ou funcionalidade realizada pelo ator[1]. Sua representação nos diagramas pode ser vista na figura 2.</p>
+<p><center></p>
+<p><img alt="Caso de uso" src="../../assets/casos_de_uso/elemento_caso_de_uso.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 2: Caso de uso </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h3 id="33-cenario">3.3 Cenário</h3>
+<p>Cenário é uma sequência de eventos que estão acontecendo enquanto o usuário interage com o sistema[1]. Sua representação nos diagramas pode ser vista na figura 3.</p>
+<p><center></p>
+<p><img alt="Cenário" src="../../assets/casos_de_uso/elemento_cenario.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 3: Cenário </h6>
+<h6 align = "center"> Fonte: Autor,2023 </h6>
+
+<h3 id="34-pontos-de-extensao">3.4 Pontos de extensão</h3>
+<p>Ponto de extensão é a especificação de um caso de uso base, sendo referido por um relacionamento de extensão entre o caso de uso e base e o de extensão[2]. Sua representação nos diagramas pode ser vista na figura 4.</p>
+<p><center></p>
+<p><img alt="Pontos de extensão" src="../../assets/casos_de_uso/elemento_ponto_de_ext.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 4: Pontos de extensão </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h3 id="35-comunicacao">3.5 Comunicação</h3>
+<p>É o procedimento que liga o ator ao caso de uso, como demonstrado na Figura 5, possui variações. A comunicação apresenta duas notações de relacionamentos:</p>
+<p><strong>Include</strong>: Relação de um caso de uso que necessita executar o caso de uso através da chamada de outro caso de uso[1]. 
+- Notação na diagramação: &lt;&lt;include>></p>
+<p><strong>Extend</strong>: Relação de um caso de uso que executa sem necessidade de outro caso de uso, entretanto, pode ter novas etapas. Sendo assim o caso de uso extendido pode ou não ser executado[3].
+- Notação na diagramação: &lt;&lt;extend>></p>
+<p><center></p>
+<p><img alt="Comunicação" src="../../assets/casos_de_uso/elemento_comunica.png" />
+ <img alt="Comunicação2" src="../../assets/casos_de_uso/elemento_comunica2.png" />   </p>
+<p></center></p>
+<h6 align = "center"> Figura 5: Comunicação </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="4-diagramas-de-casos-de-uso">4. Diagramas de Casos de Uso</h2>
+<p>Na figura 6 observa-se o diagrama geral dos casos de uso do sistema.</p>
+<p><center></p>
+<p><img alt="Diagrama Geral" src="../../assets/casos_de_uso/caso_de_uso_geral.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 6: Caso de uso geral </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC01"></div>
+
+<h2 id="uc01-realizar-cadastro">UC01 - Realizar Cadastro</h2>
+<p>Na figura 7 observa-se o diagrama de caso de uso referente ao cadastro. Abaixo na tabela 1 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Cadastro" src="../../assets/casos_de_uso/fluxo_cadastro.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 7: Realizar cadastro </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC01</th>
+<th>Realizar cadastro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite o cadastro do usuário na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário.</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário não deve estar logado na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve acessar conseguir acessar a conta cadastrada.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP01] Realizar cadastro</strong> <br/> 1. O Usuário seleciona " Ainda não tem conta? Clique aqui". <br/> 2. O Usuário preenche os dados cadastrais. <br/> 3. O Sistema valida os dados preenchidos. <br/> 4. O Sistema autentica o usuário. <br/> 5. O Usuário é redirecionado para a página de Login.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE01] Efetuar Login</strong> <br/> 1. O Usuário acessa a página de Login.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE01] Dados cadastrais inválidos</strong> <br/> 1. O Sistema apresenta uma mensagem informando os campos inválidos.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 1: Realizar cadastro </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC02"></div>
+
+<h2 id="uc02-efetuar-login">UC02 - Efetuar Login</h2>
+<p>Na figura 8 observa-se o diagrama de caso de uso referente ao login. Abaixo na tabela 2 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Login" src="../../assets/casos_de_uso/fluxo_login.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 8: Efetuar Login </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC02</th>
+<th>Efetuar Login</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que possibilidade o usuário efetuar login</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário e Sistema(Aplicação Petz)</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário não deve estar logado na aplicação</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário estará logado na aplicação <br/> O Usuário tem acesso as funcionalidades que requerem login</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP02] Efetuar Login</strong> <br/>1. O Usuário inicia a aplicação. <br/>2. O Usuário preenche com Email ou CPF e com a senha o campo de login. <br/> 3. O Usuário clica em "Entrar". <br/> 4. O Sistema autentica o usuário. <br/> 5. O Sistema redireciona o usuário para a aplicação principal.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA01] Acessar rapidamente</strong> <br/>1. O Usuário seleciona a opção "Receber código de acesso rápido". <br> 2. O Usuário escolhe a forma de receber o código(Email ou SMS). <br> 3. O Usuário digita o código de verificação para a autenticação. <br> 4. O Sistema autentica o usuário. <br> 5. O Sistema redireciona o usuário para a aplicação principal.</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE02] Alterar Senha</strong> <br/>1. O Usuário clica em " Esqueci minha senha". <br/> 2. O Usuário escolhe a forma de recuperar a senha(Email ou SMS). <br/> 3. O Sistema envia um código de recuperação através do meio escolhido. <br/> 4. O Usuário preenche o campo com o código de vericação. <br/> 5. O Usuário altera a senha. <br/><strong>[PE03] Realizar Cadastro</strong> <br/> 1.  <strong>UC01</strong></td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE02] Dados inválidos</strong> <br>1. O Sistema apresenta uma mensagem de alerta, avisando que os dados preenchidos são inválidos(Email, CPF/CPNJ ou senha).</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 2: Efetuar Login </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC03"></div>
+
+<h2 id="uc03-compra-de-produto">UC03 - Compra de produto</h2>
+<p>Na figura 9 observa-se o diagrama de caso de uso referente à compra de um produto. Abaixo na tabela 3 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Compra" src="../../assets/casos_de_uso/fluxo_compra.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 9: Compra de produto </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC03</th>
+<th>Compra de produto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite efetuar a compra de produtos</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário e Sistema(Aplicação Petz)</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve estar logado na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve ter o pedido realizado.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP03] Compra de produto</strong> <br/>1. O Usuário seleciona item. <br/> 2. O Usuário adiciona o item ao carrinho. <br/> 3. O Usuário preenche o campo de CEP. <br/> 4. O Usuário seleciona como receber o produto(Retirar na loja ou solicitar envio). <br/> 5. O Sistema redireciona o usuário para a página de pagamento.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE04] Inserir Cupom</strong> <br/> 1. O Usuário insere um cupom no campo válido. <br/> 2. O Sistema valida o cupom. <br/> 3. O Sistema retorna o novo valor do produto.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE03] Produto Esgotado</strong> <br/> 1. O Sistema informa que o item não está disponível para compra. <br/> <strong>[FE04] Cupom inválido</strong> <br/> 1. O Sistema informa que o cupom não é válido.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 3: Compra de produto </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC04"></div>
+
+<h2 id="uc04-efetuar-pagamento">UC04 - Efetuar Pagamento</h2>
+<p>Na figura 10 observa-se o diagrama de caso de uso referente ao pagamento. Abaixo na tabela 4 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Pagamento" src="../../assets/casos_de_uso/fluxo_pagamento.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 10: Pagamento </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC04</th>
+<th>Efetuar Pagamento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite a realização de pagamentos na aplicação</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário e Sistema(Aplicação Petz)</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve estar logado na aplicação. <br/> O Usuário deve ter realizado um pedido.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve ter realizado o pagamento do pedido. <br/> O Usuário deve se capaz de acomapanhar o pedido.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP04] Efetuar Pagamento</strong> <br/>1. O Usuário deve ter escolhido o meio de entrega(Retirar na loja ou solicitar envio). <br/>2. O Usuário seleciona o método de pagamento. <br/> 3. O Usuário realiza o pagamento. <br/> 4. O Sistema autentica o pagamento. <br/> 5. O Usuário pode acompanhar o pedido.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE05] Retirar na loja</strong> <br/> 1. O Sistema não adiciona taxa de entrega. <br/> 2. O Sistema sinaliza a loja que pode ocorrer a retirada. <br/> <strong>[PE06] Solicitar envio</strong> <br/> 1. O Usuário adiciona o endereço de envio. <br/> 2. O Sistema retorna o valor de envio.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE05] Pagamento Inválido</strong> <br/> 1. O Sistema informa uma mensagem de erro sobre a situação do pagamento.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 4: Efetuar pagamento </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<div id="UC05"></div>
+
+<h2 id="uc05-consultar-conta">UC05 - Consultar conta</h2>
+<p>Na figura 11 observa-se o diagrama de caso de uso referente à consulta de conta. Abaixo na tabela 5 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Conta" src="../../assets/casos_de_uso/fluxo_conta.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 11: Conta </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC05</th>
+<th>Consultar conta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite consultar os dados atrelados a conta do usuário.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário e Sistema(Aplicação Petz).</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve estar logado na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário visualiza as informações pretendidas. <br/> O Usuário edita as informações pretendidas.<br/> O Usuário pode sair da conta.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP05] Consultar dados da conta</strong> <br/>1. O Usuário seleciona "Minha Conta". <br/> 2. O Usuário seleciona a opção em "Meus dados" (cadastro, alterar senha, endereço, pets, favoritos, carteira). <br/> 3. O Usuário visualiza ou edita os dados.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA02] Acompanhar pedido</strong> <br/> 1. O Usuário seleciona "Acompanhar pedido". <br/> 2. O Sistema retorna as informações dos pedidos realizados.<br/> <strong>[FA03] Editar assinaturas</strong> <br/> 1. O Usuário seleciona "Editar assinaturas". <br/> 2. O Sistema retorna as assinaturas vigentes. <br/> 3. O Usuário seleciona a assinatura para editar. <br/> <strong>[FA04] Serviços</strong> <br/> 1. O Usuário seleciona entre "Banho e Tosa" e "Lojas". <br/> 2a. O Usuário seleciona o agendamento de "Banho e Tosa" <br/> 2b. O Usuário visualiza as lojas Petz.</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE07] Código de verificação</strong> <br/> 1. O Sistema envia o código de verificação para alterar a senha.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE06] Edição de dados inválida</strong> <br> 1. O Usuário recebe uma mensagem de erro ao preencher dados inválidos. <br> <strong>[FE07] Falta de dados obrigatórios</strong> <br> 1a. O Sistema apresenta uma mensagem explicitando como inválido um campo cadastral obrigatório faltante.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 5: Consultar conta </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="uc06-atendimento">UC06 - Atendimento</h2>
+<p>Na figura 12 observa-se o diagrama de caso de uso referente ao atendimento e comunicação com a Petz. Abaixo na tabela 6 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Atendimento" src="../../assets/casos_de_uso/fluxo_atendimento.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 12: Atendimento </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC06</th>
+<th>Atendimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite comunicação para retirar dúvidas e reportar falhas.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td><br><strong>1.Principal</strong>: Usuário. <br><strong>2. Secundário</strong>: Atendente, Sistema.</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve ter acesso a aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td><br> 1. O Usuário deve conseguir comunicar-se com a Loja. <br>2. O Usuário deve ter suas dúvidas sanadas.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP06] Selecionar atendimento</strong> <br>1. O Usuário seleciona "Atendimento".<br>2. O Usuário seleciona uma das opções frequentes. <br> 3. O Sistema retorna as respostas adequadas.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA05] Selecionar chat online</strong><br>1. O Usuário seleciona "chat online".<br>2. O Usuário responde a pesquisa inicial com seus dados(Nome,CPF,Email e Número do pedido).<br>3. O Usuário comunica-se com o Atendente. <br>4. O Atendente responde ao Usuário. <strong>[FA06] Enviar Email</strong> <br>1. O Usuário seleciona a opção "Enviar E-mail".<br>2. O Usuário preenche as informações necessárias. <br>3. O Usuário seleciona "Enviar". <br> 4. O Atendente responde ao Email recebido.<br><strong>[FA06] Digitar dúvida</strong> <br>1. O Usuário digitará no campo "Digitar dúvida".<br>2. O Sistema retorna respostas pré-estabelecidas que possuem relação com o digitado pelo Usuário.</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE08] Acompanhar pedido</strong><br>1. O Sistema retorna uma página de acompanhamento de pedido. <br><strong>[PE09]Disponibilidade de produtos</strong><br>1. O Sistema retorna uma resposta padrão.<br><strong>[PE010]Agendamento de serviços</strong><br>1. O Sistema redireciona para uma página em que é possível baixar o aplicativo. <br><strong>[PE011]Trocas e devoluções</strong><br>1. O Sistema redireciona para uma página com uma explicação sobre o processo. <strong>[PE012]Horários de funcionamento</strong><br>1. O Sistema redireciona para uma página com o link para as lojas Petz. <br> <strong>[PE013]Mudanças de Assinaturas</strong><br>1. O Sistema redireciona para uma página com uma explicação sobre o processo.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE08] Falta de dados obrigatórios</strong> <br> 1. O Sistema apresenta uma mensagem explicitando como inválido um da pesquisa inicial obrigatório faltante. <br><strong>[FE09] Não é possível gerar resultados</strong> <br>1a. O Sistema não gera resultados possíveis para o <strong>[FA06]</strong>.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 6: Atendimento </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="uc07-repetir-pedido">UC07 - Repetir pedido</h2>
+<p>Na figura 13 observa-se o diagrama de caso de uso referente à repetição de pedidos. Abaixo na tabela 7 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Repetir pedido" src="../../assets/casos_de_uso/fluxo_repetir.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 13: Repetir pedido </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC07</th>
+<th>Repetir pedido</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite a repetição de um pedido anterior.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td><br>1. O Usuário deve estar logado. <br>2. O Usuário já deve ter realizado um pedido anteriormente.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve ter sido capaz de repetir um pedido anterior.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP07] Repetir pedido</strong> <br>1. O Usuário seleciona "Repetir pedido" na página inicial.<br>2. O Usuário seleciona o pedido que deseja repetir.<br>3. O Usuário adiciona o pedido ao carrinho. <br> 4. O Usuário procede para a fase de compra do produto.<br> 5. O Usuário efetua o pagamento.<br> 6. O Sistema valida o pagamento.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA07] Meus Pedidos</strong><br>1. O Usuário seleciona "Meus Pedidos".<br> 2. O Usuário seleciona um pedido feito anteriormente.<br>3. O Usuário adiciona o pedido ao carrinho. <br> 4. O Usuário procede para a fase de compra do produto.<br> 5. O Usuário efetua o pagamento.<br> 6. O Sistema valida o pagamento.<br><strong>[FA08] Agendar serviço</strong><br> 1. O Usuário seleciona "Repetir pedido" na página inicial.<br>2. O Usuário seleciona o pedido que deseja repetir.<br>3a. O Usuário procede a agendar o serviço. <br> 4a. O Usuário efetua o pagamento.<br>5a. O Sistema valida o pagamento.</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE014] Agendar serviços</strong><br>1. O Usuário seleciona o serviço que deseja agendar.<br><strong>[PE015] Adicionar ao carrinho</strong><br>1. O Usuário seleciona o(s) produto(s) que deseja adicionar ao carrinho de compras.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE010] Não é possível realizar o pedido</strong><br> 1. O Sistema apresenta uma mensagem de erro sinalizando que não é possível realizar o pedido por não ter disponibilidade.<br><strong>[FE011] Não existem pedidos anteriores</strong> <br> 1.O Sistema não apresenta pedidos anteriores.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 7: Repetir pedido </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="uc08-cadastrar-meu-pet">UC08 - Cadastrar meu pet</h2>
+<p>Na figura 14 observa-se o diagrama de caso de uso referente à opção de cadastro de animal de estimação. Abaixo na tabela 8 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Cadastrar meu pet" src="../../assets/casos_de_uso/fluxo_petcadastro.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 14: Cadastrar meu pet </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC08</th>
+<th>Cadastrar meu pet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite o cadastro do animal de estimação.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve estar logado na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve ter sido capaz de cadastrar um animal de estimação.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP08] Cadastrar meu pet</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3. O Usuário seleciona "Cadastrar meu pet".<br>4. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5. O Usuário confirma o cadastro. <br>6. O Sistema salva os dados.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA09] Adicionar outro pet</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3a. O Usuário seleciona o botão "+" ou "Adicionar novo pet".<br>4a. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5a. O Usuário confirma o cadastro. <br>6a. O Sistema salva os dados.</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE016] Adicionar novo pet</strong> <br> 1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE012] Não é possível realizar o cadastro</strong><br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 8: Repetir pedidos </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="uc08-cadastrar-meu-pet_1">UC08 - Cadastrar meu pet</h2>
+<p>Na figura 14 observa-se o diagrama de caso de uso referente à opção de cadastro de animal de estimação. Abaixo na tabela 8 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Cadastrar meu pet" src="../../assets/casos_de_uso/fluxo_petcadastro.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 14: Cadastrar meu pet </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC08</th>
+<th>Cadastrar meu pet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite o cadastro do animal de estimação.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve estar logado na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve ter sido capaz de cadastrar um animal de estimação.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP08] Cadastrar meu pet</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3. O Usuário seleciona "Cadastrar meu pet".<br>4. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5. O Usuário confirma o cadastro. <br>6. O Sistema salva os dados.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA09] Adicionar outro pet</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Meus Pets".<br>3a. O Usuário seleciona o botão "+" ou "Adicionar novo pet".<br>4a. O Usuário preenche os dados cadastrais requiridos(Nome,Tipo,Raça,Peso,Sexo,Data de nascimento, Microchip e Foto).<br>5a. O Usuário confirma o cadastro. <br>6a. O Sistema salva os dados.</td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE016] Adicionar novo pet</strong> <br> 1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE012] Não é possível realizar o cadastro</strong><br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 8: Repetir pedidos </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="uc09-banho-e-tosa">UC09 - Banho e tosa</h2>
+<p>Na figura 15 observa-se o diagrama de caso de uso referente a funcionalidade de agendamento de Banho e tosa . Abaixo na tabela 9 se encontra a especificação do diagrama.</p>
+<p><center></p>
+<p><img alt="Banho e tosa" src="../../assets/casos_de_uso/fluxo_banho.png" /></p>
+<p></center></p>
+<h6 align = "center"> Figura 15: Banho e tosa </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<table>
+<thead>
+<tr>
+<th>UC09</th>
+<th>Banho e tosa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionalidade que permite agendar banho e tosa do animal de estimação.</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td><br><strong>1.Principal</strong>: Usuário. <br><strong>2. Secundário</strong>: Atendente, Sistema.</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>O Usuário deve estar logado na aplicação.</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O Usuário deve ter sido agendar um serviço relacionado a banho e tosa do animal de estimação</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td><strong>[FP09] Agendar Banho e tosa</strong> <br>1. O Usuário seleciona "Banho e tosa".<br>2. O Usuário seleciona "Agendar serviço".<br>3. O Usuário seleciona "Selecionar pet".<br>4. O Usuário seleciona "Loja".<br>5. O Usuário seleciona o serviço. <br>6. O Sistema retorna o custo do serviço. <br> 7. O Usuário realiza o agendamento. <br>8. O Atendente responde validando o serviço. <br> 9. O Usuário efetua o pagamento.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativo(s)</strong></td>
+<td><strong>[FA010] A partir da seleção de "Mais"</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Banho e tosa".<br>3.O Usuário seleciona "Agendar serviço".<br>4. O Usuário seleciona "Selecionar pet".<br>5. O Usuário seleciona "Loja".<br>6. O Usuário seleciona o serviço. <br>7. O Sistema retorna o custo do serviço. <br> 8. O Usuário realiza o agendamento. <br>9. O Atendente responde validando o serviço. <br> 10. O Usuário efetua o pagamento.<br><strong>[FA011] Ver mais lojas</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Banho e tosa".<br>3.O Usuário seleciona "Agendar serviço".<br>4. O Usuário seleciona "Selecionar pet".<br>5a. O Usuário seleciona "Ver mais lojas"<br>6a. O Usuário seleciona uma loja da lista disponível.<br>7a. O Usuário seleciona o serviço. <br>8a. O Sistema retorna o custo do serviço. <br> 9a. O Usuário realiza o agendamento. <br>10a. O Atendente responde validando o serviço. <br> 11a. O Usuário efetua o pagamento.<br><strong>[FA011] Filtrar lojas</strong> <br>1. O Usuário seleciona "Mais".<br>2. O Usuário seleciona "Banho e tosa".<br>3.O Usuário seleciona "Agendar serviço".<br>4. O Usuário seleciona "Selecionar pet".<br>5b. O Usuário utiliza a filtragem da aplicação.<br>6b. O Usuário seleciona uma loja da lista disponível.<br>7b. O Usuário seleciona o serviço. <br>8b. O Sistema retorna o custo do serviço. <br> 9b. O Usuário realiza o agendamento. <br>10b. O Atendente responde validando o serviço. <br> 11b. O Usuário efetua o pagamento.<br></td>
+</tr>
+<tr>
+<td><strong>Ponto(s) de Extensão</strong></td>
+<td><strong>[PE016] Adicionar novo pet</strong> <br>1. O Usuário pode cadastrar novos animais de estimação após o cadastro de um primeiro.<br><strong>[PE017] Tratamento da pelagem</strong><br> 1. O Usuário seleciona a opção de tratamento da pelagem.<br><strong>[PE018] Tosa</strong><br>1. O Usuário seleciona a opção de tosa.<br><strong>[PE019] Tonalização da pelagem</strong><br>1. O Usuário seleciona a opção de tonalização da pelagem.<br><strong>[PE019] Manutenção essencial</strong><br>1. O Usuário seleciona a opção de manutenção essencial.</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de Exceção</strong></td>
+<td><strong>[FE012] Não é possível realizar o cadastro</strong><br> 1. O Sistema retorna uma mensagem de erro.<br> 2a. O Sistema comunica que não foi possível salvar os dados cadastrados.<br>2b. O Sistema comunica que os dados cadastrados são inválidos.<br><strong>[FE013] Não é possível agendar o serviço</strong><br>1a. O Sistema comunica que não existe disponibilidade para o momento selecionado.<br>1b. O Sistema comunica que não foi possível validar a requisição.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 9: Banho e tosa </h6>
+<h6 align = "center"> Fonte: Autor, 2023 </h6>
+
+<h2 id="5-validacao-com-o-usuario">5. Validação com o usuário</h2>
+<p>Devido a divergência de horários, não foi possível que um Usuário da aplicação estivesse disponível para a validação dos casos de usos atualizados e corrigidos pela equipe de desenvolvimento do projeto.</p>
+<h2 id="6-referencias-bibliograficas">6. Referências Bibliográficas</h2>
+<blockquote>
+<p>[1] DevMedia. O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. 2012. DevMedia. Disponível em: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acessado em 16 de maio de 2023.</p>
+<p>[2] IBM. Pontos de extensão. IBM. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=cases-extension-points. Acessado em 16 de maio de 2023.</p>
+<p>[3] SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Acessado em 16 de maio de 2023.</p>
+</blockquote>
+<h2 id="7-historico-de-versao">7. Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>16/05/23</td>
+<td>Criação do artefato de casos de uso</td>
+<td>Magno Luiz</td>
+<td>Pedro Muniz</td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>19/06/23</td>
+<td>Correções de padronização</td>
+<td>Pedro Muniz</td>
+<td>Felipe Corrêa</td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>28/06/23</td>
+<td>Correções de diagramação e fluxos</td>
+<td>Magno Luiz</td>
+<td>Pedro Muniz</td>
+</tr>
+<tr>
+<td><code>1.3</code></td>
+<td>05/07/23</td>
+<td>Adição de novos casos de usos</td>
+<td>Magno Luiz</td>
+<td>Pedro Muniz</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Voltar para o topo
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.section", "navigation.path", "navigation.top", "tabs"], "search": "../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  </body>
+</html>
