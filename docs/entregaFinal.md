@@ -313,6 +313,7 @@ O desenvolvimento deste projeto tem como objetivo aplicar os conhecimentos relac
 Ao utilizar-se de uma aplicação abrangente em relação ao público e com fácil acesso ao sistema, seria possível abstrair as informações necessárias para a elaboração de cada artefato presente no projeto.
 
 Desta forma, o Grupo 7,  teve como propósito o desenvolvimento de mais de 80 artefatos, que destacam-se:
+
 - 3 artefatos gerais que contém o planejamento e a organização do projeto;
 - 5 técnicas de elicitação de requisitos, planejadas e executadas;
 - 3 técnicas de priorização de requisitos, que priorizam e agrupam os requisitos;
