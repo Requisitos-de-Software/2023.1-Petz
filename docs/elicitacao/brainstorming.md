@@ -22,14 +22,14 @@ Houveram, além de Felipe Mastromauro Corrêa e Pedro Ferreira Muniz, outros qua
 
 **Participantes**
 
-| Nome                       |
-| -------------------------- |
-| Bruno Cavalcanti Gomes (F) |
-| Davi Costa Dias (F)        |
-| Felipe Mastromauro Corrêa  |
-| Murilo Castro Ferreira (F) |
-| Pedro Ferreira Muniz       |
-| Tânia Silva Barbosa (F)    |
+| Nome                       | Cargo | Papel |
+| -------------------------- | ----- | ----- |
+| Bruno Cavalcanti Gomes (F) | Usuário | Participante |
+| Davi Costa Dias (F)        | Usuário | Participante |
+| Felipe Mastromauro Corrêa  | Eq. desenvolvimento | Moderador e Relator |
+| Murilo Castro Ferreira (F) | Usuário | Participante |
+| Pedro Ferreira Muniz       | Eq. desenvolvimento | Encenação de persona |
+| Tânia Silva Barbosa (F)    | Usuário | Participante |
 
 </center>
 
@@ -42,13 +42,25 @@ O termo de consentimento foi disponibilizado para todos os quatro participantes 
 
 O documento 1 incorporado abaixo descreve o modelo do termo de consentimento entregue aos participantes.
 
-<center>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTOaOA2CSVtMMg68AXyIR46Y8gbtjk-2IBeXEuxegaMYar3-7bSTWwhQC3ylK-Oy8oSfJF91JmY9a8Q/pub?embedded=true"></iframe>
+## TERMO DE CONSENTIMENTO
 
-</center>
-<h6 align = "center"> Documento 1: Lista de participantes da reunião</h6>
-<h6 align = "center"> Fonte: Autor, 2023 </h6>
+Somos o grupo 06 da turma 02 da disciplina de Requisitos de Software do professor André Barros de Sales ministrada no campus do Gama da Universidade de Brasília - UnB. Estamos em uma etapa do desenvolvimento do projeto em que desejamos conhecer o que algumas das pessoas que usarão o sistema imaginam que ele deva conter ou realizar.
+
+Para a realização desta pesquisa, solicitamos o seu consentimento para a realização de uma sessão de brainstorming online via Google Meet. Para isso, é necessário que saiba das seguintes informações:
+
+- Os requisitos extraídos durante a reunião de brainstorming destinam-se estritamente a atividades de análise do aplicativo Petz.
+- Nossa equipe tem o compromisso de divulgar os resultados da pesquisa para o professor e os alunos da disciplina de requisitos de software, bem como em página de documentação, disponível em <https://requisitos-de-software.github.io/2023.1-Petz>.
+- O anonimato dos participantes da reunião será mantido incólume em qualquer documento elaborado por nossa equipe.
+- O consentimento para a atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- A equipe encontra-se disponível para contato através do e-mail <211029263@aluno.unb.br>.
+
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
+
+( ) Dou meu consentimento para a sua realização.
+
+( ) Não consinto com a sua realização.
 
 ## 3. Requisitos elicitados
 
@@ -109,3 +121,4 @@ A tabela 2 detalha os requisitos elicitados com esta técnica e separ-os entre f
 | `1.1`  | 28/04/23 | Adição dos requisitos                      | Felipe Corrêa | Magno Luiz    |
 | `1.2`  | 30/04/23 | Padronização de legendas                   | Pedro Muniz   | Felipe Corrêa |
 | `1.3`  | 04/05/23 | Adição de termo de consentimento           | Felipe Corrêa | Samuel Sato   |
+| `1.4` | 04/07/23  | Adição dos papéis no brainstorm | Pedro Muniz | Felipe Corrêa |
