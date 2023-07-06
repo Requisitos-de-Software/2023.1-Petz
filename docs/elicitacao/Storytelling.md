@@ -80,7 +80,7 @@ A tabela 2 detalha os requisitos não funcionais que foram elicitados a partir d
 
 ## 4. Validação com usuário real
 
-Foi realizado uma validação com a usuária Sarah Veras, que é estudante de relações internacionais na unb e também usuária do aplicativo da Petz. Neste vídeo foi apresentado o artefato de introspecção juntamente com o artefato de storytelling. Após a explicação do estudo realizado a Sarah nos forneceu um feedback do artefato criado. - [Link do vídeo da validação](https://youtu.be/an_ftWnX1Dk)
+Foi realizado uma validação com a usuária Sarah Veras, que é estudante de relações internacionais na unb e também usuária do aplicativo da Petz. Neste vídeo foi apresentado o artefato de introspecção juntamente com o artefato de storytelling. Após a explicação do estudo realizado a Sarah nos forneceu um feedback do artefato criado. - [Link do vídeo da validação](https://www.youtube.com/watch?v=luJl_M5JYQA&ab_channel=LucasRodrigues)
 
 | ![Representação do grau de satisfação no artefato](../assets/introspeccao/validacaoComUsuario.jpg) |
 | ----------------------------------------------------------------------------------------------------- |
