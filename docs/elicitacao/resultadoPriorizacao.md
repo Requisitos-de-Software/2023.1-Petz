@@ -62,43 +62,43 @@ A tabela 1 apresenta os requisitos funcionais elicitados ordenados por seu ID, a
 | RF03 | O usuário deve ser capaz de visualizar catálogo online de produtos para animais de estimação. | Alta prioridade | 0,47 | Must Have | Storytelling[4] |
 | RF04 | O usuário deve ser capaz de visualizar itens de produtos e serviços. | Alta prioridade | 0,64 | Must Have | Introspecção[2] |
 | RF05 | O usuário deve ser capaz de cadastrar-se para promoções. | Baixa prioridade | 0,13 | Should Have | Introspecção[2], Brainstorming[1], Questionário[3] |
-| RF06 | `O usuário deve ser capaz de repetir um pedido anterior.` | Média prioridade | 0,29 | Should Have | Introspecção[2] |
-| RF07 | O usuário deve ser capaz de pesquisar produtos. | Alta prioridade | 0,81 | Must Have | Introspecção[2], Brainstorming[1],Questionário[3] |
-| RF08 | O usuário deve ser capaz de pesquisar serviços. | Baixa prioridade | 0,69 | Must Have | Introspecção[2], Brainstorming[1] |
-| RF09 | O usuário deve ser capaz de selecionar itens. | Alta prioridade | 0,71 | Must Have | Introspecção[2] |
-| RF10 | O usuário deve ser capaz de adicionar itens ao sacola de compras. | Alta prioridade | 0,59 | Must Have | Introspecção[2] |
-| RF11 | O usuário deve ser capaz de acompanhar a situação do pedido. | Alta prioridade | 0,36 | Must Have | Introspecção[2] |
-| RF12 | O usuário deve ser capaz de adicionar uma opção de pagamento. | Alta prioridade | 0,37 | Must Have | Introspecção[2] |
-| RF13 | O usuário deve ser capaz de realizar um pedido na loja. | Média prioridade | 0,49 | Won't Have | Introspecção[2] |
+| RF06 | `O usuário deve ser capaz de repetir um pedido anterior.` | Média prioridade | 0,29 | Could Have | Introspecção[2] |
+| RF07 | O usuário deve ser capaz de pesquisar produtos. | Alta prioridade | 0,81 | Should Have | Introspecção[2], Brainstorming[1],Questionário[3] |
+| RF08 | O usuário deve ser capaz de pesquisar serviços. | Baixa prioridade | 0,69 | Should Have | Introspecção[2], Brainstorming[1] |
+| RF09 | O usuário deve ser capaz de selecionar itens. | Alta prioridade | 0,71 | Should Have | Introspecção[2] |
+| RF10 | O usuário deve ser capaz de adicionar itens ao sacola de compras. | Alta prioridade | 0,59 | Should Have | Introspecção[2] |
+| RF11 | O usuário deve ser capaz de acompanhar a situação do pedido. | Alta prioridade | 0,36 | Should Have | Introspecção[2] |
+| RF12 | O usuário deve ser capaz de adicionar uma opção de pagamento. | Alta prioridade | 0,37 | Should Have | Introspecção[2] |
+| RF13 | O usuário deve ser capaz de realizar um pedido na loja. | Média prioridade | 0,49 | Must Have | Introspecção[2] |
 | RF14 | O usuário deve ser capaz de realizar uma compra na aplicação. | Alta prioridade | 0,49 | Must Have | Introspecção[2], Brainstorming[1], Questionário[3] |
 | RF15 | O usuário deve ser capaz de cadastrar um perfil para o Pet. | Alta prioridade | 0,26 | Should Have | Introspecção[2], Brainstorming[1], Storytelling[4] |
-| RF16 | O usuário deve ser capaz de remover itens da sacola de compras. | Alta prioridade | 1,24 | Should Have | Introspecção[2], Questionário[3] |
+| RF16 | O usuário deve ser capaz de remover itens da sacola de compras. | Alta prioridade | 1,24 | Must Have | Introspecção[2], Questionário[3] |
 | RF17 | O usuário deve ser capaz de favoritar itens. | Média prioridade | 0,44 | Should Have | Introspecção[2] |
-| RF18 | O usuário deve ser capaz de visualizar o preço de itens. | Alta prioridade | 0,71 | Should Have | Introspecção[2], Questionário[3] |
-| RF19 | O usuário deve ser capaz de agendar um serviço de banho e tosa. | Alta prioridade | 0,19 | Could Have | Introspecção[2], Brainstorming[1], Storytelling[4], Questionário[3] |
-| RF20 | `O usuário deve ser capaz de assinar um serviço.` | Baixa prioridade | 0,39 | Could Have | Introspecção[2], Brainstorming[1] |
-| RF21 | O usuário deve ser capaz de recuperar sua conta através do endereço de email cadastrado. | Alta prioridade | 0,61 | Could Have | Introspecção[2] |
-| RF22 | O usuário deve ser capaz de cancelar um pedido. | Alta prioridade | 1,36 | Should Have | Introspecção[2] |
-| RF23 | O usuário deve ser capaz de escolher como receber um produto. | Alta prioridade | 0,25 | Should Have | Introspecção[2], Storytelling[4] |
-| RF24 | `O usuário deve ser capaz de registrar uma lista de compras frequentes.` | Média prioridade | 0,35 | Could Have | Brainstorming[1], Storytelling[4], Questionário[3] |
+| RF18 | O usuário deve ser capaz de visualizar o preço de itens. | Alta prioridade | 0,71 | Must Have | Introspecção[2], Questionário[3] |
+| RF19 | O usuário deve ser capaz de agendar um serviço de banho e tosa. | Alta prioridade | 0,19 | Should Have | Introspecção[2], Brainstorming[1], Storytelling[4], Questionário[3] |
+| RF20 | `O usuário deve ser capaz de assinar um serviço.` | Baixa prioridade | 0,39 | Should Have | Introspecção[2], Brainstorming[1] |
+| RF21 | O usuário deve ser capaz de recuperar sua conta através do endereço de email cadastrado. | Alta prioridade | 0,61 | Should Have | Introspecção[2] |
+| RF22 | O usuário deve ser capaz de cancelar um pedido. | Alta prioridade | 1,36 | Must Have | Introspecção[2] |
+| RF23 | O usuário deve ser capaz de escolher como receber um produto. | Alta prioridade | 0,25 | Must Have | Introspecção[2], Storytelling[4] |
+| RF24 | `O usuário deve ser capaz de registrar uma lista de compras frequentes.` | Média prioridade | 0,35 | Must Have | Brainstorming[1], Storytelling[4], Questionário[3] |
 | RF25 | `O usuário deve ser capaz de acessar a avaliação e recomendações de um produto.` | Alta prioridade | 0,28 | Should Have | Brainstorming[1] |
-| RF26 | O usuário deve ser capaz de solicitar a entrega de produtos. | Alta prioridade | 0,66 | Could Have | Brainstorming[1] |
-| RF27 | O usuário deve ser capaz de consultar a loja mais próxima. | Média prioridade | 0,44 | Could Have | Brainstorming[1] |
-| RF28 | O usuário deve ser capaz de filtrar produtos por categoria. | Alta prioridade | 0,62 | Could Have | Storytelling[4], Questionário[3] |
-| RF29 | O usuário deve ser capaz de cadastrar mais de um animal de estimação na aplicação. | Alta prioridade | 0,61 | Could Have | Questionário[3] |
-| RF30 | `O usuário deve ser capaz de reportar falhas e erros.` | Baixa prioridade | 1,24 | Could Have | Questionário[3] |
+| RF26 | O usuário deve ser capaz de solicitar a entrega de produtos. | Alta prioridade | 0,66 | Must Have | Brainstorming[1] |
+| RF27 | O usuário deve ser capaz de consultar a loja mais próxima. | Média prioridade | 0,44 | Should Have | Brainstorming[1] |
+| RF28 | O usuário deve ser capaz de filtrar produtos por categoria. | Alta prioridade | 0,62 | Must Have | Storytelling[4], Questionário[3] |
+| RF29 | O usuário deve ser capaz de cadastrar mais de um animal de estimação na aplicação. | Alta prioridade | 0,61 | Should Have | Questionário[3] |
+| RF30 | `O usuário deve ser capaz de reportar falhas e erros.` | Baixa prioridade | 1,24 | Should Have | Questionário[3] |
 | RF31 | O sistema deve possuir filtros e classificação por categorias para os produtos. | Alta prioridade | 0,35 | Must Have | Brainstorming[1] |
-| RF32 | `O sistema deve realizar a sugestão de produtos a partir de um perfil.` | Média prioridade | 0,24 | Must Have | Brainstorming[1] |
-| RF33 | `O usuário deve ser capaz de assinar pacotes periódicos de produtos pelo aplicativo.` | Não executado | 0,35 | Won't Have | Brainstorming[1] |
-| RF34 | `O usuário deve ser capaz de obter informações sobre cuidados de animais.` | Não executado | 0,64 | Won't Have | Storytelling[4] |
-| RF35 | `O usuário deve ser capaz de alterar local de entrega do produto.` | Alta prioridade | 0,49 | Won't Have | Questionário[3] |
-| RF36 | `O usuário deve ser capaz de acessar um blog com dicas sobre _pets_.` | Não executado | 0,35 | Won't Have | Brainstorming[1] |
-| RF37 | `O usuário deve ser capaz de solicitar transporte para o animal até a loja física.` | Média prioridade | 0,39 | Won't Have | Brainstorming[1] |
-| RF38 | `O usuário deve ser capaz de marcar consultas veterinárias.` | Alta prioridade | 0,32 | Won't Have | Brainstorming[1] |
+| RF32 | `O sistema deve realizar a sugestão de produtos a partir de um perfil.` | Média prioridade | 0,24 | Should Have | Brainstorming[1] |
+| RF33 | `O usuário deve ser capaz de assinar pacotes periódicos de produtos pelo aplicativo.` | Não executado | 0,35 | Should Have | Brainstorming[1] |
+| RF34 | `O usuário deve ser capaz de obter informações sobre cuidados de animais.` | Não executado | 0,64 | Must Have | Storytelling[4] |
+| RF35 | `O usuário deve ser capaz de alterar local de entrega do produto.` | Alta prioridade | 0,49 | Must Have | Questionário[3] |
+| RF36 | `O usuário deve ser capaz de acessar um blog com dicas sobre _pets_.` | Não executado | 0,35 | Should Have | Brainstorming[1] |
+| RF37 | `O usuário deve ser capaz de solicitar transporte para o animal até a loja física.` | Média prioridade | 0,39 | Should Have | Brainstorming[1] |
+| RF38 | `O usuário deve ser capaz de marcar consultas veterinárias.` | Alta prioridade | 0,32 | Should Have | Brainstorming[1] |
 | RF39 | `O usuário deve ser capaz de acessar uma tela com eventos próximos relacionados a _pets_.` | Não executado | 0,54 | Won't Have | Brainstorming[1] |
-| RF40 | `O usuário deve ser capaz de acessar uma tela com _posts_ da comunidade.` | Baixa prioridade | 0,54 | Won't Have | Brainstorming[1], Storytelling[4] |
-| RF41 | `O sistema deve notificar o usuário acerca de pendências médicas dos seus _pets_.` | Média prioridade | 0,49 | Won't Have | Brainstorming[1] |
-| RF42 | `O usuário deve ser capaz de se cadastrar em um sistema de fidelidade pelo aplicativo.` | Baixa prioridade | 0,13 | Won't Have | Brainstorming[1] |
+| RF40 | `O usuário deve ser capaz de acessar uma tela com _posts_ da comunidade.` | Baixa prioridade | 0,54 | Should Have | Brainstorming[1], Storytelling[4] |
+| RF41 | `O sistema deve notificar o usuário acerca de pendências médicas dos seus _pets_.` | Média prioridade | 0,49 | Must Have | Brainstorming[1] |
+| RF42 | `O usuário deve ser capaz de se cadastrar em um sistema de fidelidade pelo aplicativo.` | Baixa prioridade | 0,13 | Should Have | Brainstorming[1] |
 | RF43 | `O sistema deve fornecer ao usuário serviços de hotelaria para animais.` | Não executado | 0,39 | Won't Have | Brainstorming[1] |
 
 <h6 align = "center"> Tabela 1: Requisitos funcionais elicitados e priorizados </h6>
@@ -113,8 +113,8 @@ A tabela 2 apresenta os requisitos não funcionais elicitados ordenados por seu 
 | RNF01 | O sistema deve ser manter seguro as informações do usuário criptografando dados sensíveis. | Alta prioridade | 0,37 | Must Have |
 | RNF02 | O sistema deve estar disponível para os sistemas Android e iOS. | Alta prioridade | 0,59 | Must Have |
 | RNF03 | O sistema deve ser responsivo. | Média prioridade | 0,54 | Must Have |
-| RNF04 | O sistema deve ter um sistema de busca eficiente. | Alta prioridade | 0,53 | Should Have |
-| RNF05 | O sistema deve ser confiável e disponível. | Alta prioridade | 0,41 | Should Have |
+| RNF04 | O sistema deve ter um sistema de busca eficiente. | Alta prioridade | 0,53 | Must Have |
+| RNF05 | O sistema deve ser confiável e disponível. | Alta prioridade | 0,41 | Must Have |
 
 <h6 align = "center"> Tabela 2: Requisitos não funcionais elicitados e priorizados </h6>
 <h6 align = "center"> Fonte: Autor, 2023 </h6>
@@ -134,3 +134,4 @@ A tabela 2 apresenta os requisitos não funcionais elicitados ordenados por seu 
 | Versão | Data     | Descrição                                     | Autor(es)   | Revisor(es)   |
 | ------ | -------- | --------------------------------------------- | ----------- | ------------- |
 | `1.0`  | 01/05/23 | Criação da página de resultados da elicitação | Pedro Muniz | Felipe Corrêa |
+| `1.1` | 05/07/23 | Atualização resultados MosCow |Vitor Manoel| Felipe Corrêa |
